@@ -106,8 +106,13 @@ function ec_mk_endpoint(): void {
         if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') throw new RuntimeException('POST only');
         require_once dirname(__DIR__) . '/economics-config.php';
         $config = ec_config();
-        $bundleFile = rtrim((string)$config['private_dir'], '/') . '/economics-marking/bundle.json';
-        $bundle = json_decode((string)file_get_contents($bundleFile), true);
+        if (!empty($config['bundle_key'])) {   // open deploy: marking/bundle.sealed, key only in the private config
+            require_once __DIR__ . '/olv-bundle.php';
+            $bundle = olv_open_bundle(__DIR__ . '/bundle.sealed', (string)$config['bundle_key']);
+        } else {
+            $bundleFile = rtrim((string)$config['private_dir'], '/') . '/economics-marking/bundle.json';
+            $bundle = json_decode((string)@file_get_contents($bundleFile), true);
+        }
         $req = json_decode((string)file_get_contents('php://input', false, null, 0, 20000), true) ?: [];
         $rule = $bundle['rules'][(string)($req['part'] ?? '')] ?? null;
         if (!$rule) throw new RuntimeException('no checking rule for this part');

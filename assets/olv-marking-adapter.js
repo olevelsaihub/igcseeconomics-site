@@ -1,4 +1,4 @@
-/* Open-access marking adapter for the Business-family checker (check.php modes mcq, numeric, figures, self).
+/* Open-access marking adapter for the Business-family checker (check.php modes mcq, numeric, exact, figures, self).
    The shared checker (response-checker.js) posts the answer to {base}check and calls result() with the reply. This
    file turns the reply into the shared result shape ({mode, score, max, summary, points}) and fills the part's
    "Correct answer" panel, which stays empty in the page: keys and model answers arrive only after a check. */
@@ -35,7 +35,7 @@
       return `<p><strong>Option ${esc(r.key)}</strong></p>` + (r.why ? `<p>${esc(r.why)}</p>` : '')
         + (r.your_option ? `<p><strong>Your choice:</strong> ${esc(r.your_option)}</p>` : '');
     }
-    if (r.mode === 'numeric') return (r.working ? `<p>${esc(r.working)}</p>` : '') + (r.why ? `<p>${esc(r.why)}</p>` : '') + authored;
+    if (r.mode === 'numeric' || r.mode === 'exact') return (r.working ? `<p>${esc(r.working)}</p>` : '') + (r.why ? `<p>${esc(r.why)}</p>` : '') + authored;
     if (r.mode === 'figures') {
       const own = (r.items || []).filter(x => x.found === null);
       return (r.ideal ? `<div class="figures-model">${md(r.ideal)}</div>` : '') + (r.why ? `<p><strong>Why:</strong> ${esc(r.why)}</p>` : '')
@@ -50,7 +50,7 @@
   }
 
   function points(r) {
-    if (r.mode === 'numeric') return (r.steps || []).map(s => ({ label: s.label, found: !!s.found, why: s.found ? 'Found in your working.' : 'Not found in your working.' }));
+    if (r.mode === 'numeric' || r.mode === 'exact') return (r.steps || []).map(s => ({ label: s.label, found: !!s.found, why: s.found ? 'Found in your answer.' : 'Not found in your answer.' }));
     if (r.mode === 'figures') return (r.items || []).filter(x => x.found !== null).map(x => ({
       label: x.label + (x.marks ? ` (${x.marks})` : ''), found: !!x.found, why: x.found ? 'Found in your answer.' : 'Missing from your answer.' }));
     return [];
@@ -59,6 +59,7 @@
   function summary(r) {
     if (r.mode === 'mcq') return r.correct === null ? r.feedback : r.correct ? 'Your answer is correct.' : `Not this one. The correct answer is option ${r.key}.`;
     if (r.mode === 'numeric') return r.correct ? 'Your final answer is correct.' : 'Your final answer is not right yet. The marks below are for the working the check found.';
+    if (r.mode === 'exact') return r.correct ? 'Your answer is correct.' : 'Not right yet. The marks below are for the parts of the answer the check found.';
     if (r.mode === 'figures') return (r.correct ? 'Every checkable item was found.' : 'Some credited items are missing.')
       + (r.self_marks ? ` ${r.self_marks} presentation mark${r.self_marks > 1 ? 's' : ''} (dates, details, labels) you judge yourself against the model.` : '');
     return 'Mark your own answer: compare it with the model answer below and tick each point you made.' + (r.tip ? ' ' + r.tip : '');
@@ -85,5 +86,6 @@
     if (out) out.textContent = `Your self-mark: ${total} / ${root ? root.dataset.marks : '?'} for the points-marked parts. For level-marked answers use the level guide.`;
   });
 
-  window.OlvMarkingAdapter = { result };
+  const unavailable = 'Your answer is saved on this device. Automatic checking is not available right now, so compare your answer with the method and the worked example for this question type.';
+  window.OlvMarkingAdapter = { result, unavailable };
 })();
