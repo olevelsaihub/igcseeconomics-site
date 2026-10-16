@@ -1,0 +1,11 @@
+You sell bracelets for five dollars each. Beads and string cost three dollars per bracelet. You keep two dollars on each one. That is your profit. Per unit, profit is the selling price minus all the costs of one unit. Add the unit costs first: beads two dollars, string one dollar. For a whole firm, profit is total revenue minus total cost. Total revenue is price times quantity sold. A stall takes six hundred dollars and its costs are four hundred and fifty. Revenue is bigger, so it makes a profit of one hundred and fifty dollars. If costs were seven hundred, it would make a loss of one hundred.
+
+Step one, find revenue: price times quantity, or just the price for a per-unit question. Step two, find the matching cost: total cost, or the sum of all unit costs. Steps three and four. Subtract cost from revenue and write the working. Give the amount with currency, and say profit if it is positive, loss if it is negative.
+
+Here is a real question from June 2021. A firm sells shoes at eighty-nine dollars a pair. Raw materials cost seventeen dollars and labour thirty-five dollars per pair. Calculate the profit or loss per pair. Two marks. It is per pair, so use the selling price and the costs per pair. Add the costs per pair. Seventeen plus thirty-five is fifty-two dollars. Subtract. Eighty-nine minus fifty-two is thirty-seven dollars. The answer is positive, so it is a profit of thirty-seven dollars on each pair. This explanation is by olevels dot com, not an official mark scheme.
+
+A common mistake is taking away only one of the unit costs. Another is calling a negative answer a profit. A negative answer is a loss.
+
+Now you try. A tour company sells fifty tickets at forty dollars each. Its total costs for the trip are two thousand three hundred dollars. Calculate the profit or loss. Pause here and work it out.
+
+Total revenue is forty times fifty, which is two thousand dollars. Two thousand minus two thousand three hundred is minus three hundred. Costs are bigger than revenue, so the company makes a loss of three hundred dollars. Remember: find revenue, find the matching cost, subtract, and say profit or loss. Now try the practice questions.

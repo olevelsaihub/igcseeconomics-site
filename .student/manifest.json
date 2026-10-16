@@ -1,0 +1,1545 @@
+{
+ "pages": {
+  "coverage.html": {
+   "source": "fa238a5dbf0d25bc4548f2c360cd0248060f8dc8776db5042640158b45e406fb",
+   "student": "fa238a5dbf0d25bc4548f2c360cd0248060f8dc8776db5042640158b45e406fb"
+  },
+  "index.html": {
+   "source": "83a2e83eb380a80c02dbe5fde5c8ea440867d51ec40c77c805db4ed6677dd382",
+   "student": "83a2e83eb380a80c02dbe5fde5c8ea440867d51ec40c77c805db4ed6677dd382"
+  },
+  "key-facts.html": {
+   "source": "4b02541c1657503f2fb00afdfbfcf45ff7176d18a4200cbe182654c7453a487d",
+   "student": "4b02541c1657503f2fb00afdfbfcf45ff7176d18a4200cbe182654c7453a487d"
+  },
+  "mastery/block.html": {
+   "source": "adb247de5583ab35f96d6a80711498bb112ba64a371403c6e9f87d1aae33b4a8",
+   "student": "adb247de5583ab35f96d6a80711498bb112ba64a371403c6e9f87d1aae33b4a8"
+  },
+  "mastery/index.html": {
+   "source": "bfcd2025291971bed32ce047fa4a8f6dc852c6fea868ba96461a0d9d5d53173e",
+   "student": "bfcd2025291971bed32ce047fa4a8f6dc852c6fea868ba96461a0d9d5d53173e"
+  },
+  "papers.html": {
+   "source": "18cf7205628bb15e1ff91617543e2984ef9d246d0ad38efe7e7d2fdf26aee4bd",
+   "student": "18cf7205628bb15e1ff91617543e2984ef9d246d0ad38efe7e7d2fdf26aee4bd"
+  },
+  "plans/a-grade/index.html": {
+   "source": "052c5c37cba0a3102e17f3099514034e4dd67136b64714f96d5ef13c5282a7f0",
+   "student": "052c5c37cba0a3102e17f3099514034e4dd67136b64714f96d5ef13c5282a7f0"
+  },
+  "plans/grade-7-execution/index.html": {
+   "source": "10366445b393c0fa4d09ecc3a9e16c49f31bbd2ab1622f1f5fa0adcd6b0f1a7b",
+   "student": "10366445b393c0fa4d09ecc3a9e16c49f31bbd2ab1622f1f5fa0adcd6b0f1a7b"
+  },
+  "plans/grade-8/index.html": {
+   "source": "568676a92e4e0893a4c2f1d48572f778722da83d135c4480bf4195a011d2e578",
+   "student": "568676a92e4e0893a4c2f1d48572f778722da83d135c4480bf4195a011d2e578"
+  },
+  "plans/grade-9/index.html": {
+   "source": "ab2901b3eb51034f8325275a5bf3c4f0b39b5e02dbc070bb6002e15be63b30ed",
+   "student": "ab2901b3eb51034f8325275a5bf3c4f0b39b5e02dbc070bb6002e15be63b30ed"
+  },
+  "plans/index.html": {
+   "source": "1bd8d0cf728ce9e367be83ca63e3a33a595872b1792a11828e89fd74c586c98c",
+   "student": "1bd8d0cf728ce9e367be83ca63e3a33a595872b1792a11828e89fd74c586c98c"
+  },
+  "plans/pass/index.html": {
+   "source": "a4fa598b95f63c46668c774521785b29db26d31f08f513981b21198014ca046b",
+   "student": "a4fa598b95f63c46668c774521785b29db26d31f08f513981b21198014ca046b"
+  },
+  "plans/top-world-master/index.html": {
+   "source": "032facf253c6f4632b2d6695c79c2e516966b0365bd95d1051e7e1c3d758347b",
+   "student": "032facf253c6f4632b2d6695c79c2e516966b0365bd95d1051e7e1c3d758347b"
+  },
+  "plans/top-world/index.html": {
+   "source": "3888187722222f17d5c3f7fb692722622bcb9bc99d6991dd8d94f35e50fde768",
+   "student": "3888187722222f17d5c3f7fb692722622bcb9bc99d6991dd8d94f35e50fde768"
+  },
+  "question-bank.html": {
+   "source": "88f13ee9e2d9ca055d83b6462bbd285da201b693e7551f62af6bd62f4bc568a0",
+   "student": "88f13ee9e2d9ca055d83b6462bbd285da201b693e7551f62af6bd62f4bc568a0"
+  },
+  "questions/4EC1-2019-JUN-01-R-Q01.html": {
+   "source": "409b5fbbbe6d8a5ab9bc2c83f9a46199391fbce3e3ab5c11a68b96760a67cb12",
+   "student": "409b5fbbbe6d8a5ab9bc2c83f9a46199391fbce3e3ab5c11a68b96760a67cb12"
+  },
+  "questions/4EC1-2019-JUN-01-R-Q02.html": {
+   "source": "4e5521dd97851c88fb7e88beb42eaea78916f0be168026c8cc77ad8ab2135cf7",
+   "student": "4e5521dd97851c88fb7e88beb42eaea78916f0be168026c8cc77ad8ab2135cf7"
+  },
+  "questions/4EC1-2019-JUN-01-R-Q03.html": {
+   "source": "bf2bbf477d9ac065abec9564cc9e644ee5a2a18e6f56404c64b602c985bcfb9b",
+   "student": "bf2bbf477d9ac065abec9564cc9e644ee5a2a18e6f56404c64b602c985bcfb9b"
+  },
+  "questions/4EC1-2019-JUN-01-R-Q04.html": {
+   "source": "2bce4cbc1f068356eabb776317bbb83365fc3ef7804761e278c5e36d0b1f259f",
+   "student": "2bce4cbc1f068356eabb776317bbb83365fc3ef7804761e278c5e36d0b1f259f"
+  },
+  "questions/4EC1-2019-JUN-01-standard-Q01.html": {
+   "source": "f8a3476597c85eacaf4e736c59c8fb416064ab636af860a2ca1296a17bd69ccc",
+   "student": "f8a3476597c85eacaf4e736c59c8fb416064ab636af860a2ca1296a17bd69ccc"
+  },
+  "questions/4EC1-2019-JUN-01-standard-Q02.html": {
+   "source": "05fb8b5b8dc827c7f2870655f935a9f53e046cc8e0b9a13cf7fcbf71560eb344",
+   "student": "05fb8b5b8dc827c7f2870655f935a9f53e046cc8e0b9a13cf7fcbf71560eb344"
+  },
+  "questions/4EC1-2019-JUN-01-standard-Q03.html": {
+   "source": "730e17acddbc9e0d3607fb0e93206937cae5605a51254b481b977410e383a17e",
+   "student": "730e17acddbc9e0d3607fb0e93206937cae5605a51254b481b977410e383a17e"
+  },
+  "questions/4EC1-2019-JUN-01-standard-Q04.html": {
+   "source": "9f1e76227e26e1a36be3d2561aa750e51a3728ad864366a1103a79c212355bd0",
+   "student": "9f1e76227e26e1a36be3d2561aa750e51a3728ad864366a1103a79c212355bd0"
+  },
+  "questions/4EC1-2019-JUN-02-R-Q01.html": {
+   "source": "51ba66866c9d299b82a653e50ed12420b1e269c972d360f188fd2d52a721e1ad",
+   "student": "51ba66866c9d299b82a653e50ed12420b1e269c972d360f188fd2d52a721e1ad"
+  },
+  "questions/4EC1-2019-JUN-02-R-Q02.html": {
+   "source": "a16017db1fdd5b9120c46a8f270db5ccef7d3b4caabdd836dea60d710ae7e6ea",
+   "student": "a16017db1fdd5b9120c46a8f270db5ccef7d3b4caabdd836dea60d710ae7e6ea"
+  },
+  "questions/4EC1-2019-JUN-02-R-Q03.html": {
+   "source": "e80d14a32fd4bc935c475c624bb142f02a5cbcc3b1c4c0b1d389421bceba738f",
+   "student": "e80d14a32fd4bc935c475c624bb142f02a5cbcc3b1c4c0b1d389421bceba738f"
+  },
+  "questions/4EC1-2019-JUN-02-R-Q04.html": {
+   "source": "1a1f0bc733135ff98af1ecabe4bdc7f1ae4e0969bbf46d97dd6e5eb5caca739b",
+   "student": "1a1f0bc733135ff98af1ecabe4bdc7f1ae4e0969bbf46d97dd6e5eb5caca739b"
+  },
+  "questions/4EC1-2019-JUN-02-standard-Q01.html": {
+   "source": "dab376f68d21a11c69499f43eae777c89f0ac294a0741141139f5ae3c410c36c",
+   "student": "dab376f68d21a11c69499f43eae777c89f0ac294a0741141139f5ae3c410c36c"
+  },
+  "questions/4EC1-2019-JUN-02-standard-Q02.html": {
+   "source": "ad4f6f641762ba4cc235cd350c07ccddeeec616b2ccf3d29c94076ed99e880af",
+   "student": "ad4f6f641762ba4cc235cd350c07ccddeeec616b2ccf3d29c94076ed99e880af"
+  },
+  "questions/4EC1-2019-JUN-02-standard-Q03.html": {
+   "source": "14d0aa2ae47c3baaae4808b92e31aa55e97deb7ea9dd13f452bce0c148457b15",
+   "student": "14d0aa2ae47c3baaae4808b92e31aa55e97deb7ea9dd13f452bce0c148457b15"
+  },
+  "questions/4EC1-2019-JUN-02-standard-Q04.html": {
+   "source": "0925137c52e7a332061e2cc009852dac16633028c49bbed3b46bbe21017e7327",
+   "student": "0925137c52e7a332061e2cc009852dac16633028c49bbed3b46bbe21017e7327"
+  },
+  "questions/4EC1-2020-JAN-01-R-Q01.html": {
+   "source": "036cffb59b814bcfaaf6b678881df1f42c87ddc4db01dc263a3fb4e11fc062a1",
+   "student": "036cffb59b814bcfaaf6b678881df1f42c87ddc4db01dc263a3fb4e11fc062a1"
+  },
+  "questions/4EC1-2020-JAN-01-R-Q02.html": {
+   "source": "3ddc38a3c0f54d0a4ba83296ee219516d0e5e5124b76749e960b6f0325381287",
+   "student": "3ddc38a3c0f54d0a4ba83296ee219516d0e5e5124b76749e960b6f0325381287"
+  },
+  "questions/4EC1-2020-JAN-01-R-Q03.html": {
+   "source": "3a5217a3c5da73a84b47098694805cc83beb52a4a047e88a56abce5abaaf0fe7",
+   "student": "3a5217a3c5da73a84b47098694805cc83beb52a4a047e88a56abce5abaaf0fe7"
+  },
+  "questions/4EC1-2020-JAN-01-R-Q04.html": {
+   "source": "bce775cec2e54a84a983e95008c4455efe70c16629a35895cc5a48ee65d59b72",
+   "student": "bce775cec2e54a84a983e95008c4455efe70c16629a35895cc5a48ee65d59b72"
+  },
+  "questions/4EC1-2020-JAN-01-standard-Q01.html": {
+   "source": "356887a8c90ef192b2ea21809dcabcb01767a10dc4da0ec0e938a1665df3c887",
+   "student": "356887a8c90ef192b2ea21809dcabcb01767a10dc4da0ec0e938a1665df3c887"
+  },
+  "questions/4EC1-2020-JAN-01-standard-Q02.html": {
+   "source": "ed60572ca6b8ee7792a8c90734ea4af41b3f727d83bc957fcbd1e0b46cd1bc51",
+   "student": "ed60572ca6b8ee7792a8c90734ea4af41b3f727d83bc957fcbd1e0b46cd1bc51"
+  },
+  "questions/4EC1-2020-JAN-01-standard-Q03.html": {
+   "source": "9846902c4c6bc901f25c043dfed33fdb96940aae8d7660c923e9b7f87339afaa",
+   "student": "9846902c4c6bc901f25c043dfed33fdb96940aae8d7660c923e9b7f87339afaa"
+  },
+  "questions/4EC1-2020-JAN-01-standard-Q04.html": {
+   "source": "9384763e1ea284399ed783d5d0601dfb92e2814a8ecd9c81faee4994789c56d9",
+   "student": "9384763e1ea284399ed783d5d0601dfb92e2814a8ecd9c81faee4994789c56d9"
+  },
+  "questions/4EC1-2020-JAN-02-R-Q01.html": {
+   "source": "ac104569c27d7f3332b90dbfde19b9ba0e0e70f597a081073cb868e7a1308255",
+   "student": "ac104569c27d7f3332b90dbfde19b9ba0e0e70f597a081073cb868e7a1308255"
+  },
+  "questions/4EC1-2020-JAN-02-R-Q02.html": {
+   "source": "1720dbf24b29c96aa5e66957d95a3c96c5be6c2986647cf8935548787ea1a4f9",
+   "student": "1720dbf24b29c96aa5e66957d95a3c96c5be6c2986647cf8935548787ea1a4f9"
+  },
+  "questions/4EC1-2020-JAN-02-R-Q03.html": {
+   "source": "f7ee6dba309c300a1ea7e08e6dc2bf0a74b87a69eecd6190b44afd7cedc99308",
+   "student": "f7ee6dba309c300a1ea7e08e6dc2bf0a74b87a69eecd6190b44afd7cedc99308"
+  },
+  "questions/4EC1-2020-JAN-02-R-Q04.html": {
+   "source": "5fbfdd507ac385aaa183f579c8e08a89f8641191a6a21f6510ef128ddd3edc90",
+   "student": "5fbfdd507ac385aaa183f579c8e08a89f8641191a6a21f6510ef128ddd3edc90"
+  },
+  "questions/4EC1-2020-JAN-02-standard-Q01.html": {
+   "source": "af1e9e9ad941b9c8cf737127d518bc674d24bbc917cfceb6710c9fb8b1d6bf8d",
+   "student": "af1e9e9ad941b9c8cf737127d518bc674d24bbc917cfceb6710c9fb8b1d6bf8d"
+  },
+  "questions/4EC1-2020-JAN-02-standard-Q02.html": {
+   "source": "94ad16263ac199d90e7c846dc0d55dcbcda58c8f49380401357b419c9c3dde06",
+   "student": "94ad16263ac199d90e7c846dc0d55dcbcda58c8f49380401357b419c9c3dde06"
+  },
+  "questions/4EC1-2020-JAN-02-standard-Q03.html": {
+   "source": "ed3c644a934af90a21e747eac58d13f27cbf52319aae95b775fa3aef5f0644e8",
+   "student": "ed3c644a934af90a21e747eac58d13f27cbf52319aae95b775fa3aef5f0644e8"
+  },
+  "questions/4EC1-2020-JAN-02-standard-Q04.html": {
+   "source": "d50b137518b32e17b5ebc14b630516f500da1bfb6440352e158f022772bd8082",
+   "student": "d50b137518b32e17b5ebc14b630516f500da1bfb6440352e158f022772bd8082"
+  },
+  "questions/4EC1-2020-NOV-01-R-Q01.html": {
+   "source": "6db60c3791e777904e7c3893cd4161452bcf8bfd36ede7364c309bafa115ac84",
+   "student": "6db60c3791e777904e7c3893cd4161452bcf8bfd36ede7364c309bafa115ac84"
+  },
+  "questions/4EC1-2020-NOV-01-R-Q02.html": {
+   "source": "e55ae32cf3ba0484c2a1b7466060453ec3fac479245640ca43730262b1255ef3",
+   "student": "e55ae32cf3ba0484c2a1b7466060453ec3fac479245640ca43730262b1255ef3"
+  },
+  "questions/4EC1-2020-NOV-01-R-Q03.html": {
+   "source": "8503fcca7a4cd4578c06e5904d475c2ff627dd847bc7b6edcf9f353f3520a8e1",
+   "student": "8503fcca7a4cd4578c06e5904d475c2ff627dd847bc7b6edcf9f353f3520a8e1"
+  },
+  "questions/4EC1-2020-NOV-01-R-Q04.html": {
+   "source": "506e03bfd8fa8f32542f77db8f0fea02e4b63ebe4073f03111ab4d3722d3af38",
+   "student": "506e03bfd8fa8f32542f77db8f0fea02e4b63ebe4073f03111ab4d3722d3af38"
+  },
+  "questions/4EC1-2020-NOV-01-standard-Q01.html": {
+   "source": "6ab7f37908e77de60e1f6c1436e1bd2d609eaf00673019d58a69801efe6dd0f2",
+   "student": "6ab7f37908e77de60e1f6c1436e1bd2d609eaf00673019d58a69801efe6dd0f2"
+  },
+  "questions/4EC1-2020-NOV-01-standard-Q02.html": {
+   "source": "9166002b2217c98c3be65bc9988431f4a064e713242df4b11e48c3946b39e99f",
+   "student": "9166002b2217c98c3be65bc9988431f4a064e713242df4b11e48c3946b39e99f"
+  },
+  "questions/4EC1-2020-NOV-01-standard-Q03.html": {
+   "source": "971d10f09328944ad7372566210ed71683c4031e8dda189b64c4208b6ea08a67",
+   "student": "971d10f09328944ad7372566210ed71683c4031e8dda189b64c4208b6ea08a67"
+  },
+  "questions/4EC1-2020-NOV-01-standard-Q04.html": {
+   "source": "58e99c2b4a01429e6c9ed1de5ca02713e0e48618baad94b72d9882b623462b11",
+   "student": "58e99c2b4a01429e6c9ed1de5ca02713e0e48618baad94b72d9882b623462b11"
+  },
+  "questions/4EC1-2020-NOV-02-R-Q01.html": {
+   "source": "08dcf5f49fc88cff89a4e17c2f95e5820847bbfe9848e0570a77a7b0684f4cb5",
+   "student": "08dcf5f49fc88cff89a4e17c2f95e5820847bbfe9848e0570a77a7b0684f4cb5"
+  },
+  "questions/4EC1-2020-NOV-02-R-Q02.html": {
+   "source": "e5b46bd5cdeb2d68b746e947f102a3776a97a1e8f4c781f9d9e33b5faf5efd7c",
+   "student": "e5b46bd5cdeb2d68b746e947f102a3776a97a1e8f4c781f9d9e33b5faf5efd7c"
+  },
+  "questions/4EC1-2020-NOV-02-R-Q03.html": {
+   "source": "157bf7bf3149007ebf34365cbfa6d5965bb5596c2e301b64cad044aaa2e6a5e0",
+   "student": "157bf7bf3149007ebf34365cbfa6d5965bb5596c2e301b64cad044aaa2e6a5e0"
+  },
+  "questions/4EC1-2020-NOV-02-R-Q04.html": {
+   "source": "fe65556933429f7fc320e6eedd8c766050ed9fda4aff87b63fe0c859745fbbae",
+   "student": "fe65556933429f7fc320e6eedd8c766050ed9fda4aff87b63fe0c859745fbbae"
+  },
+  "questions/4EC1-2020-NOV-02-standard-Q01.html": {
+   "source": "b2938a9eb3ed0927a1f3e1b96f074eb55965948a9db8e373b29f5a519f918911",
+   "student": "b2938a9eb3ed0927a1f3e1b96f074eb55965948a9db8e373b29f5a519f918911"
+  },
+  "questions/4EC1-2020-NOV-02-standard-Q02.html": {
+   "source": "e550ceb6a93ea76e7928fbcd88335f9a0860479a26ec178caad59beba8cce0d6",
+   "student": "e550ceb6a93ea76e7928fbcd88335f9a0860479a26ec178caad59beba8cce0d6"
+  },
+  "questions/4EC1-2020-NOV-02-standard-Q03.html": {
+   "source": "e305ba4d6d3219ca8c2ae1b557635790398c6fc5b13645b7ac6fdc1ab3ab594c",
+   "student": "e305ba4d6d3219ca8c2ae1b557635790398c6fc5b13645b7ac6fdc1ab3ab594c"
+  },
+  "questions/4EC1-2020-NOV-02-standard-Q04.html": {
+   "source": "6fcf19a2f303bebb89bb4f2c8c9070158d2e53c208aba65ba8d9f89c28477686",
+   "student": "6fcf19a2f303bebb89bb4f2c8c9070158d2e53c208aba65ba8d9f89c28477686"
+  },
+  "questions/4EC1-2021-JUN-01-standard-Q01.html": {
+   "source": "8cf8fced175be1b075df837cf76d289e23673dc62751287a5619975848fa0a7d",
+   "student": "8cf8fced175be1b075df837cf76d289e23673dc62751287a5619975848fa0a7d"
+  },
+  "questions/4EC1-2021-JUN-01-standard-Q02.html": {
+   "source": "23edc5643ab5df3eab66a3688191524cde69f0863849dab4c7bd9bf3eed8036f",
+   "student": "23edc5643ab5df3eab66a3688191524cde69f0863849dab4c7bd9bf3eed8036f"
+  },
+  "questions/4EC1-2021-JUN-01-standard-Q03.html": {
+   "source": "2d76e6607aa73dc4993d8538866ebb0d8f34341f093bcb65abce85dde1dbaa0f",
+   "student": "2d76e6607aa73dc4993d8538866ebb0d8f34341f093bcb65abce85dde1dbaa0f"
+  },
+  "questions/4EC1-2021-JUN-01-standard-Q04.html": {
+   "source": "f8e3a709417e4a4f086e39b539a24b5d673d0552b732252dcfdc2ec4ecba5e07",
+   "student": "f8e3a709417e4a4f086e39b539a24b5d673d0552b732252dcfdc2ec4ecba5e07"
+  },
+  "questions/4EC1-2021-JUN-02-standard-Q01.html": {
+   "source": "770debd794de19a2360d6406e3bf275054a637f6dfd4800cf410c4b9e18076d5",
+   "student": "770debd794de19a2360d6406e3bf275054a637f6dfd4800cf410c4b9e18076d5"
+  },
+  "questions/4EC1-2021-JUN-02-standard-Q02.html": {
+   "source": "0faed114d08e44c303ae06caa661edb4d92cc99a1ec36ab3526cff0232918c80",
+   "student": "0faed114d08e44c303ae06caa661edb4d92cc99a1ec36ab3526cff0232918c80"
+  },
+  "questions/4EC1-2021-JUN-02-standard-Q03.html": {
+   "source": "6a1bcdf96ad08a434aeeb14879ac305446224840e179832407be339573989272",
+   "student": "6a1bcdf96ad08a434aeeb14879ac305446224840e179832407be339573989272"
+  },
+  "questions/4EC1-2021-JUN-02-standard-Q04.html": {
+   "source": "df756f76352e911e21bb2363bf50834d2d19d351f07d6cf80b0f5c488ab04fc2",
+   "student": "df756f76352e911e21bb2363bf50834d2d19d351f07d6cf80b0f5c488ab04fc2"
+  },
+  "questions/4EC1-2021-NOV-01-standard-Q01.html": {
+   "source": "6c6b1d7fb3a3b732a10d6cc5d40d2fcfe94beaab51d6dca53cf8d5c1b40b2133",
+   "student": "6c6b1d7fb3a3b732a10d6cc5d40d2fcfe94beaab51d6dca53cf8d5c1b40b2133"
+  },
+  "questions/4EC1-2021-NOV-01-standard-Q02.html": {
+   "source": "7a0b66d0c795b89b4392674cd9a6c9fafdaffc2faa04a03253a3c578d7643f42",
+   "student": "7a0b66d0c795b89b4392674cd9a6c9fafdaffc2faa04a03253a3c578d7643f42"
+  },
+  "questions/4EC1-2021-NOV-01-standard-Q03.html": {
+   "source": "00d10ccb89488e7d6708475360e6189fe5581d19e674f672d859cca0e572171b",
+   "student": "00d10ccb89488e7d6708475360e6189fe5581d19e674f672d859cca0e572171b"
+  },
+  "questions/4EC1-2021-NOV-01-standard-Q04.html": {
+   "source": "2295d0af238558c64c3add3b5a3c814c9ed9be215f8209920b020edf4d3a9282",
+   "student": "2295d0af238558c64c3add3b5a3c814c9ed9be215f8209920b020edf4d3a9282"
+  },
+  "questions/4EC1-2021-NOV-02-standard-Q01.html": {
+   "source": "b70b81b906333520660dd1036f360d2fedf668682b218965aab9bc09cd1f3433",
+   "student": "b70b81b906333520660dd1036f360d2fedf668682b218965aab9bc09cd1f3433"
+  },
+  "questions/4EC1-2021-NOV-02-standard-Q02.html": {
+   "source": "2424f3cd9b638351e69c1f8b19a83c6a96dc07884725964e84fe601fd10c0d03",
+   "student": "2424f3cd9b638351e69c1f8b19a83c6a96dc07884725964e84fe601fd10c0d03"
+  },
+  "questions/4EC1-2021-NOV-02-standard-Q03.html": {
+   "source": "8a6f149175c0a7ad9f95e56d4fb8225bf4196f7b4d3880cb42abf1a29322865f",
+   "student": "8a6f149175c0a7ad9f95e56d4fb8225bf4196f7b4d3880cb42abf1a29322865f"
+  },
+  "questions/4EC1-2021-NOV-02-standard-Q04.html": {
+   "source": "fc3a03c4c983a07749c6996443765016f6a5c2ac86e06c2283b496d7fddbbf48",
+   "student": "fc3a03c4c983a07749c6996443765016f6a5c2ac86e06c2283b496d7fddbbf48"
+  },
+  "questions/4EC1-2022-JUN-01-R-Q01.html": {
+   "source": "b9c0bdc5339050e3a4144ad141718627b5297bed42e66463a454f4915ce5f1ca",
+   "student": "b9c0bdc5339050e3a4144ad141718627b5297bed42e66463a454f4915ce5f1ca"
+  },
+  "questions/4EC1-2022-JUN-01-R-Q02.html": {
+   "source": "c3be62e77fb5cbf4a6eb16412041c238170ff61a6e3246a776d2c8c1e97cd519",
+   "student": "c3be62e77fb5cbf4a6eb16412041c238170ff61a6e3246a776d2c8c1e97cd519"
+  },
+  "questions/4EC1-2022-JUN-01-R-Q03.html": {
+   "source": "c3bd5b6d768dbebb3d7560898b6319941687d0524481ead34e93678a515ee2fd",
+   "student": "c3bd5b6d768dbebb3d7560898b6319941687d0524481ead34e93678a515ee2fd"
+  },
+  "questions/4EC1-2022-JUN-01-R-Q04.html": {
+   "source": "6ade53d22a01b12184cabc1c398595c598d14c3e37ad89d361277c143be44bb9",
+   "student": "6ade53d22a01b12184cabc1c398595c598d14c3e37ad89d361277c143be44bb9"
+  },
+  "questions/4EC1-2022-JUN-01-standard-Q01.html": {
+   "source": "45193a4fdf478ad54d48c83f1a1762cb1dcb2d00d1010188f8313c389e914cf3",
+   "student": "45193a4fdf478ad54d48c83f1a1762cb1dcb2d00d1010188f8313c389e914cf3"
+  },
+  "questions/4EC1-2022-JUN-01-standard-Q02.html": {
+   "source": "bcf502a775e8e0a3de5f006a41f20506735c959b602d09026c8e40e97633212a",
+   "student": "bcf502a775e8e0a3de5f006a41f20506735c959b602d09026c8e40e97633212a"
+  },
+  "questions/4EC1-2022-JUN-01-standard-Q03.html": {
+   "source": "0af3c84e0d29efd60cddf0cc8610ba960d0ac947dde22d1f70ea9eefd060a0e8",
+   "student": "0af3c84e0d29efd60cddf0cc8610ba960d0ac947dde22d1f70ea9eefd060a0e8"
+  },
+  "questions/4EC1-2022-JUN-01-standard-Q04.html": {
+   "source": "f122c341896f333ed31c2580f7c4b87ef2401a0293728b25e54a5b1489b474bd",
+   "student": "f122c341896f333ed31c2580f7c4b87ef2401a0293728b25e54a5b1489b474bd"
+  },
+  "questions/4EC1-2022-JUN-02-R-Q01.html": {
+   "source": "7370a07cf78c8c606dedd2761e711c370385c7bb1334a4f9c54282f01ddd39b6",
+   "student": "7370a07cf78c8c606dedd2761e711c370385c7bb1334a4f9c54282f01ddd39b6"
+  },
+  "questions/4EC1-2022-JUN-02-R-Q02.html": {
+   "source": "90d0610f43531843b65b2e244e42a6ac18b2429e041e456d4375d429f664a13f",
+   "student": "90d0610f43531843b65b2e244e42a6ac18b2429e041e456d4375d429f664a13f"
+  },
+  "questions/4EC1-2022-JUN-02-R-Q03.html": {
+   "source": "0a37ae31437e90d46f38445dcf61dfebd21cfabfc2bcf2aa53fca71795035ade",
+   "student": "0a37ae31437e90d46f38445dcf61dfebd21cfabfc2bcf2aa53fca71795035ade"
+  },
+  "questions/4EC1-2022-JUN-02-R-Q04.html": {
+   "source": "72d37b1f9c44745157e72e8f708c7d3424aa0af996b3b4769fed8dd9280c4b4d",
+   "student": "72d37b1f9c44745157e72e8f708c7d3424aa0af996b3b4769fed8dd9280c4b4d"
+  },
+  "questions/4EC1-2022-JUN-02-standard-Q01.html": {
+   "source": "f0bc28185e0e6688bd90a25f20a30eed2e3a2d00fd3081c31736945d302d1e87",
+   "student": "f0bc28185e0e6688bd90a25f20a30eed2e3a2d00fd3081c31736945d302d1e87"
+  },
+  "questions/4EC1-2022-JUN-02-standard-Q02.html": {
+   "source": "801671b96dd133470b172c1538698a326dd2511398f58851dc98260dd070b35f",
+   "student": "801671b96dd133470b172c1538698a326dd2511398f58851dc98260dd070b35f"
+  },
+  "questions/4EC1-2022-JUN-02-standard-Q03.html": {
+   "source": "580f07ba1866a7780fd15957d8821732b6cf22f7c8da076a548f3d5e5f334a0f",
+   "student": "580f07ba1866a7780fd15957d8821732b6cf22f7c8da076a548f3d5e5f334a0f"
+  },
+  "questions/4EC1-2022-JUN-02-standard-Q04.html": {
+   "source": "cb8f6ff2feee57f77a0c49422afa6864d7f4d677cc6f91413548d320ee693296",
+   "student": "cb8f6ff2feee57f77a0c49422afa6864d7f4d677cc6f91413548d320ee693296"
+  },
+  "questions/4EC1-2023-JAN-01-R-Q01.html": {
+   "source": "95303cc1fb305507f4ae00a89c54d08ea9244e3513f735f07b1f525de5e71871",
+   "student": "95303cc1fb305507f4ae00a89c54d08ea9244e3513f735f07b1f525de5e71871"
+  },
+  "questions/4EC1-2023-JAN-01-R-Q02.html": {
+   "source": "c7fc5105283abefdaa78b7b4a88f0934365a15a1ec7835a446a0524e232f36a4",
+   "student": "c7fc5105283abefdaa78b7b4a88f0934365a15a1ec7835a446a0524e232f36a4"
+  },
+  "questions/4EC1-2023-JAN-01-R-Q03.html": {
+   "source": "0ba6d3b4c1e19c7690a07dda6d0c5aeb3113a74b0bb4d04f607b13f3256e90ef",
+   "student": "0ba6d3b4c1e19c7690a07dda6d0c5aeb3113a74b0bb4d04f607b13f3256e90ef"
+  },
+  "questions/4EC1-2023-JAN-01-R-Q04.html": {
+   "source": "09f4b17bc91483d08e977547473ad047b4d479f6ef218af1a81fce10ac6a8bb5",
+   "student": "09f4b17bc91483d08e977547473ad047b4d479f6ef218af1a81fce10ac6a8bb5"
+  },
+  "questions/4EC1-2023-JAN-01-standard-Q01.html": {
+   "source": "d29d1ddd74b9c7a3509bf4acb3b9ddab7ef4271bd3668c819f140eecbc066157",
+   "student": "d29d1ddd74b9c7a3509bf4acb3b9ddab7ef4271bd3668c819f140eecbc066157"
+  },
+  "questions/4EC1-2023-JAN-01-standard-Q02.html": {
+   "source": "be6c9b712d3769c5fadb3c88825006422871f6706e667fa5808a6b7185f906bf",
+   "student": "be6c9b712d3769c5fadb3c88825006422871f6706e667fa5808a6b7185f906bf"
+  },
+  "questions/4EC1-2023-JAN-01-standard-Q03.html": {
+   "source": "c4937dc6425e063d6d713eec9765ab3c0c52f8eb665a0898464218cfaa9a0ad5",
+   "student": "c4937dc6425e063d6d713eec9765ab3c0c52f8eb665a0898464218cfaa9a0ad5"
+  },
+  "questions/4EC1-2023-JAN-01-standard-Q04.html": {
+   "source": "9d55e87f68ef94ebd5ea1d8adbdf7e197d5981b0ef793c03e6869f5283cf2493",
+   "student": "9d55e87f68ef94ebd5ea1d8adbdf7e197d5981b0ef793c03e6869f5283cf2493"
+  },
+  "questions/4EC1-2023-JAN-02-R-Q01.html": {
+   "source": "4ff000f41f012f33e8020bc4b6b165124de45613f14aaaeafd08787b9fe5c4ef",
+   "student": "4ff000f41f012f33e8020bc4b6b165124de45613f14aaaeafd08787b9fe5c4ef"
+  },
+  "questions/4EC1-2023-JAN-02-R-Q02.html": {
+   "source": "5d429a013d94f20f324b0ef058ec41e94c5f3232715ba07499fe4664b5fa83de",
+   "student": "5d429a013d94f20f324b0ef058ec41e94c5f3232715ba07499fe4664b5fa83de"
+  },
+  "questions/4EC1-2023-JAN-02-R-Q03.html": {
+   "source": "93f5f985d3ca5b0f1432bd36eb0ad3c0e194db9578f96479cbc989d40a4b8873",
+   "student": "93f5f985d3ca5b0f1432bd36eb0ad3c0e194db9578f96479cbc989d40a4b8873"
+  },
+  "questions/4EC1-2023-JAN-02-R-Q04.html": {
+   "source": "b6f042fba824c6005136eb29b8ef3eb41cf1042a71aabec0d6ab5a4d3980919c",
+   "student": "b6f042fba824c6005136eb29b8ef3eb41cf1042a71aabec0d6ab5a4d3980919c"
+  },
+  "questions/4EC1-2023-JAN-02-standard-Q01.html": {
+   "source": "b51c5c71a2677d501c77f266f0041a60f55daecbde4d7819bf54857eeb0b61f6",
+   "student": "b51c5c71a2677d501c77f266f0041a60f55daecbde4d7819bf54857eeb0b61f6"
+  },
+  "questions/4EC1-2023-JAN-02-standard-Q02.html": {
+   "source": "f61db59fe585b755effb08a3897dbd5d26a2e1aa39a873932096d41ce0633b52",
+   "student": "f61db59fe585b755effb08a3897dbd5d26a2e1aa39a873932096d41ce0633b52"
+  },
+  "questions/4EC1-2023-JAN-02-standard-Q03.html": {
+   "source": "1a266df3e079922f52fd9f6ede08877a14b4d4c45388d8076a348d223b73ae55",
+   "student": "1a266df3e079922f52fd9f6ede08877a14b4d4c45388d8076a348d223b73ae55"
+  },
+  "questions/4EC1-2023-JAN-02-standard-Q04.html": {
+   "source": "1887f6a0b8805b0775b1b4e1b0a7275657b845fb386092fdd45e56a417d1b44a",
+   "student": "1887f6a0b8805b0775b1b4e1b0a7275657b845fb386092fdd45e56a417d1b44a"
+  },
+  "questions/4EC1-2023-JUN-01-R-Q01.html": {
+   "source": "2efb9b2fc4e06dd2d7c6554d9cf08c7f27f640fd3d4303f065d28af80dad63ff",
+   "student": "2efb9b2fc4e06dd2d7c6554d9cf08c7f27f640fd3d4303f065d28af80dad63ff"
+  },
+  "questions/4EC1-2023-JUN-01-R-Q02.html": {
+   "source": "63334f150321f752f2ba7db292fb1cf38c970b5d572d136c251a526d92a88179",
+   "student": "63334f150321f752f2ba7db292fb1cf38c970b5d572d136c251a526d92a88179"
+  },
+  "questions/4EC1-2023-JUN-01-R-Q03.html": {
+   "source": "98f6601b8005f5430f2c3e89d896df9314cc9f5bb4c78097a4cb7da42f67e091",
+   "student": "98f6601b8005f5430f2c3e89d896df9314cc9f5bb4c78097a4cb7da42f67e091"
+  },
+  "questions/4EC1-2023-JUN-01-R-Q04.html": {
+   "source": "d67c006c5d8861c139288bc6efe9fe7c5d2142f45fab85601a28bd7e052738c9",
+   "student": "d67c006c5d8861c139288bc6efe9fe7c5d2142f45fab85601a28bd7e052738c9"
+  },
+  "questions/4EC1-2023-JUN-01-standard-Q01.html": {
+   "source": "50493b00618b6cbaef4b452855681f135f9a7a93bb93963ea59b8433a8c1831b",
+   "student": "50493b00618b6cbaef4b452855681f135f9a7a93bb93963ea59b8433a8c1831b"
+  },
+  "questions/4EC1-2023-JUN-01-standard-Q02.html": {
+   "source": "9f961d5d3d8a913a1457e1c756aa807d02dd8a478a0b793f0043929c8ed26e39",
+   "student": "9f961d5d3d8a913a1457e1c756aa807d02dd8a478a0b793f0043929c8ed26e39"
+  },
+  "questions/4EC1-2023-JUN-01-standard-Q03.html": {
+   "source": "6768f722cd04cb6772c60e904bf01231fdff0160e2360b0621d7dc6d58111816",
+   "student": "6768f722cd04cb6772c60e904bf01231fdff0160e2360b0621d7dc6d58111816"
+  },
+  "questions/4EC1-2023-JUN-01-standard-Q04.html": {
+   "source": "085fef469c269b7fc7d0284238401052de55daf0f6954a63e14ee3177518787d",
+   "student": "085fef469c269b7fc7d0284238401052de55daf0f6954a63e14ee3177518787d"
+  },
+  "questions/4EC1-2023-JUN-02-R-Q01.html": {
+   "source": "6f41930afb482b9337cf4afe786cebb2c659df492e39eaf3dfee5e454bc2819d",
+   "student": "6f41930afb482b9337cf4afe786cebb2c659df492e39eaf3dfee5e454bc2819d"
+  },
+  "questions/4EC1-2023-JUN-02-R-Q02.html": {
+   "source": "a4aa8130a6daaf9764842e3dbc8a2f84c9765e8ae50002b7148a1e97d043d047",
+   "student": "a4aa8130a6daaf9764842e3dbc8a2f84c9765e8ae50002b7148a1e97d043d047"
+  },
+  "questions/4EC1-2023-JUN-02-R-Q03.html": {
+   "source": "cb7215f3a5fca0a30eeaf6b83cc6fa4ce0f2b7f02703c1327f743c5c92156645",
+   "student": "cb7215f3a5fca0a30eeaf6b83cc6fa4ce0f2b7f02703c1327f743c5c92156645"
+  },
+  "questions/4EC1-2023-JUN-02-R-Q04.html": {
+   "source": "86eb4792eeeccfb1947659f388ac64543ca8ac9fc34e5f542950bd547697a485",
+   "student": "86eb4792eeeccfb1947659f388ac64543ca8ac9fc34e5f542950bd547697a485"
+  },
+  "questions/4EC1-2023-JUN-02-standard-Q01.html": {
+   "source": "9abf1a301686de884d0bb8ba25b2c368e9cead6c0211c071a8b677582de10423",
+   "student": "9abf1a301686de884d0bb8ba25b2c368e9cead6c0211c071a8b677582de10423"
+  },
+  "questions/4EC1-2023-JUN-02-standard-Q02.html": {
+   "source": "d4db9bae17551df43aa9ca20161813392ffc4a702291c0eef0d4e4b16228b9cd",
+   "student": "d4db9bae17551df43aa9ca20161813392ffc4a702291c0eef0d4e4b16228b9cd"
+  },
+  "questions/4EC1-2023-JUN-02-standard-Q03.html": {
+   "source": "233fc44f0ae2cc010757117895a931e65ac395f965102e629ca590f9e6ab17e8",
+   "student": "233fc44f0ae2cc010757117895a931e65ac395f965102e629ca590f9e6ab17e8"
+  },
+  "questions/4EC1-2023-JUN-02-standard-Q04.html": {
+   "source": "82d95fd40054f11395942c8942562cc05b83017507f2dab8362200b95932abbd",
+   "student": "82d95fd40054f11395942c8942562cc05b83017507f2dab8362200b95932abbd"
+  },
+  "questions/4EC1-2023-NOV-01-standard-Q01.html": {
+   "source": "c3aaefb81c54eea165c3c4be007953e29946f66dbd69b378f0376b9cc8fcef9c",
+   "student": "c3aaefb81c54eea165c3c4be007953e29946f66dbd69b378f0376b9cc8fcef9c"
+  },
+  "questions/4EC1-2023-NOV-01-standard-Q02.html": {
+   "source": "5e25db00bb8aa81f8d1f206c07b3a733f0a20c2675884ab566856425436935e9",
+   "student": "5e25db00bb8aa81f8d1f206c07b3a733f0a20c2675884ab566856425436935e9"
+  },
+  "questions/4EC1-2023-NOV-01-standard-Q03.html": {
+   "source": "61385d630fc7e8afc0db2e5a825e8cce38dc1f54ab09437f48fdeec0c7f5a0ea",
+   "student": "61385d630fc7e8afc0db2e5a825e8cce38dc1f54ab09437f48fdeec0c7f5a0ea"
+  },
+  "questions/4EC1-2023-NOV-01-standard-Q04.html": {
+   "source": "7cce7c735f56377d0eff053f4549d5fe622839be9a59ad59924d6e4c0cb23bb0",
+   "student": "7cce7c735f56377d0eff053f4549d5fe622839be9a59ad59924d6e4c0cb23bb0"
+  },
+  "questions/4EC1-2023-NOV-02-standard-Q01.html": {
+   "source": "3dc0ac28868e65ef801148d0d99b19efeecd4779e967c6f376d4a1caaed904aa",
+   "student": "3dc0ac28868e65ef801148d0d99b19efeecd4779e967c6f376d4a1caaed904aa"
+  },
+  "questions/4EC1-2023-NOV-02-standard-Q02.html": {
+   "source": "9ec59bdfb0c83be13d7499c4824647cb011b81b4e8b0d895bc1b86a6a48033ef",
+   "student": "9ec59bdfb0c83be13d7499c4824647cb011b81b4e8b0d895bc1b86a6a48033ef"
+  },
+  "questions/4EC1-2023-NOV-02-standard-Q03.html": {
+   "source": "28461155a0719ba19a755fc5045a1083efe71d5a303cb4576c64d8e3697e2f9d",
+   "student": "28461155a0719ba19a755fc5045a1083efe71d5a303cb4576c64d8e3697e2f9d"
+  },
+  "questions/4EC1-2023-NOV-02-standard-Q04.html": {
+   "source": "1ce24a46e556d39486865ce406812cd519962faf8df37628acaad16041020d79",
+   "student": "1ce24a46e556d39486865ce406812cd519962faf8df37628acaad16041020d79"
+  },
+  "questions/4EC1-2024-JUN-01-R-Q01.html": {
+   "source": "8ff98168b5038ddbd522daa2da1beb7ed3557371972ce1a890fddf4570b5ddb2",
+   "student": "8ff98168b5038ddbd522daa2da1beb7ed3557371972ce1a890fddf4570b5ddb2"
+  },
+  "questions/4EC1-2024-JUN-01-R-Q02.html": {
+   "source": "8a318160b851769ed26f266b6b07b49c0de941e09be18e72a97f025cbbef156b",
+   "student": "8a318160b851769ed26f266b6b07b49c0de941e09be18e72a97f025cbbef156b"
+  },
+  "questions/4EC1-2024-JUN-01-R-Q03.html": {
+   "source": "c8fb0a1b8529fcd4595da06b4c2566fbb977a69280a25b2ff274d7732e2557a8",
+   "student": "c8fb0a1b8529fcd4595da06b4c2566fbb977a69280a25b2ff274d7732e2557a8"
+  },
+  "questions/4EC1-2024-JUN-01-R-Q04.html": {
+   "source": "899716798fdc484de0a8343eabfd4ed5b69555509dc114667493511383e33d36",
+   "student": "899716798fdc484de0a8343eabfd4ed5b69555509dc114667493511383e33d36"
+  },
+  "questions/4EC1-2024-JUN-01-standard-Q01.html": {
+   "source": "f00a401cc1714691f35f5f95c0049665297acfa0dd8945200d57659d8e883fdb",
+   "student": "f00a401cc1714691f35f5f95c0049665297acfa0dd8945200d57659d8e883fdb"
+  },
+  "questions/4EC1-2024-JUN-01-standard-Q02.html": {
+   "source": "ee76b4b92e03e0124b1deeea30706c5ff7b4ac34960796cd452d831707362048",
+   "student": "ee76b4b92e03e0124b1deeea30706c5ff7b4ac34960796cd452d831707362048"
+  },
+  "questions/4EC1-2024-JUN-01-standard-Q03.html": {
+   "source": "2524e62794a254349d2c55f1a07fffde63c810c68c28bddf9dc9bde31074c94e",
+   "student": "2524e62794a254349d2c55f1a07fffde63c810c68c28bddf9dc9bde31074c94e"
+  },
+  "questions/4EC1-2024-JUN-01-standard-Q04.html": {
+   "source": "c574d1244c00355b9a46d6fdd455b1cc7c264d363d9d070d3df794f3a91b7130",
+   "student": "c574d1244c00355b9a46d6fdd455b1cc7c264d363d9d070d3df794f3a91b7130"
+  },
+  "questions/4EC1-2024-JUN-02-R-Q01.html": {
+   "source": "d3cecca9912a77af4ddf87074a6a603a48f77abcd2db22e91a59bc01219dbf2d",
+   "student": "d3cecca9912a77af4ddf87074a6a603a48f77abcd2db22e91a59bc01219dbf2d"
+  },
+  "questions/4EC1-2024-JUN-02-R-Q02.html": {
+   "source": "f85d9c4db32c3674a324f33f3c491deacaba9b6217d4cc667a4b0b48ed966f8d",
+   "student": "f85d9c4db32c3674a324f33f3c491deacaba9b6217d4cc667a4b0b48ed966f8d"
+  },
+  "questions/4EC1-2024-JUN-02-R-Q03.html": {
+   "source": "a207d7ec3b7e60fead842854555f49836a1fce19947e2804c42087cf3e71a2dd",
+   "student": "a207d7ec3b7e60fead842854555f49836a1fce19947e2804c42087cf3e71a2dd"
+  },
+  "questions/4EC1-2024-JUN-02-R-Q04.html": {
+   "source": "38c51075c483324e12f353c96cf1d10eeb017a165e2b93ae19e58c2d0a82bcb2",
+   "student": "38c51075c483324e12f353c96cf1d10eeb017a165e2b93ae19e58c2d0a82bcb2"
+  },
+  "questions/4EC1-2024-JUN-02-standard-Q01.html": {
+   "source": "674ee047583a5165fc8ea8984f6da8ff00eda092519a46de5509a6bdb254c6ec",
+   "student": "674ee047583a5165fc8ea8984f6da8ff00eda092519a46de5509a6bdb254c6ec"
+  },
+  "questions/4EC1-2024-JUN-02-standard-Q02.html": {
+   "source": "ad69b2ff8350d559cf04b311dafceb346ab11d08c97abdd0610919c8fc90424c",
+   "student": "ad69b2ff8350d559cf04b311dafceb346ab11d08c97abdd0610919c8fc90424c"
+  },
+  "questions/4EC1-2024-JUN-02-standard-Q03.html": {
+   "source": "9192cba9ddd529924d79c8ac9576736e824c5c1f4641f9955c573f16ec30e356",
+   "student": "9192cba9ddd529924d79c8ac9576736e824c5c1f4641f9955c573f16ec30e356"
+  },
+  "questions/4EC1-2024-JUN-02-standard-Q04.html": {
+   "source": "4de15479fac94ee3fc70b30b081dafcdd0b4245edc7f77c2e4ff0d8830e09a38",
+   "student": "4de15479fac94ee3fc70b30b081dafcdd0b4245edc7f77c2e4ff0d8830e09a38"
+  },
+  "questions/4EC1-2024-NOV-01-standard-Q01.html": {
+   "source": "ed50a745e6e6032ae6d55483b4a2a767814c7f8afb5feebec1522349be29654a",
+   "student": "ed50a745e6e6032ae6d55483b4a2a767814c7f8afb5feebec1522349be29654a"
+  },
+  "questions/4EC1-2024-NOV-01-standard-Q02.html": {
+   "source": "a0ae2275baeb866ab28627efc638abd30259b7f6cf9c983a78f940a1880c7ca3",
+   "student": "a0ae2275baeb866ab28627efc638abd30259b7f6cf9c983a78f940a1880c7ca3"
+  },
+  "questions/4EC1-2024-NOV-01-standard-Q03.html": {
+   "source": "0b522dd7381c66e991b77c2cd4d2eb9be65252bf58547f3b6a66d9fa482f8d58",
+   "student": "0b522dd7381c66e991b77c2cd4d2eb9be65252bf58547f3b6a66d9fa482f8d58"
+  },
+  "questions/4EC1-2024-NOV-01-standard-Q04.html": {
+   "source": "c6ec17f326a202490285dc3078df57691b0f61ab46cbede350759c15c6ccc201",
+   "student": "c6ec17f326a202490285dc3078df57691b0f61ab46cbede350759c15c6ccc201"
+  },
+  "questions/4EC1-2024-NOV-02-standard-Q01.html": {
+   "source": "5e4961656472b0960a980d1c24b8f77a554df78e594fc67e643012895f5d17ac",
+   "student": "5e4961656472b0960a980d1c24b8f77a554df78e594fc67e643012895f5d17ac"
+  },
+  "questions/4EC1-2024-NOV-02-standard-Q02.html": {
+   "source": "37ac569e086bf4b094a5a3ac48e964d9f4297b9e21521b21170f8e6f475043be",
+   "student": "37ac569e086bf4b094a5a3ac48e964d9f4297b9e21521b21170f8e6f475043be"
+  },
+  "questions/4EC1-2024-NOV-02-standard-Q03.html": {
+   "source": "d8d5422aa91405f8d0462ec3429d0876c6fb8e532350c32eea424e2f340f0e3f",
+   "student": "d8d5422aa91405f8d0462ec3429d0876c6fb8e532350c32eea424e2f340f0e3f"
+  },
+  "questions/4EC1-2024-NOV-02-standard-Q04.html": {
+   "source": "9a6140906d8068601ac678dbd7c9e89452da4d61ba0c32d910424893ae156b2e",
+   "student": "9a6140906d8068601ac678dbd7c9e89452da4d61ba0c32d910424893ae156b2e"
+  },
+  "questions/4EC1-2025-JUN-01-R-Q01.html": {
+   "source": "1b9c998cddd1e3faa1a926c2bdd47660e279bf48ddc389ef00ae496ab4335a39",
+   "student": "1b9c998cddd1e3faa1a926c2bdd47660e279bf48ddc389ef00ae496ab4335a39"
+  },
+  "questions/4EC1-2025-JUN-01-R-Q02.html": {
+   "source": "8894d9b06c8b909ddadc7cfea3b6f874cc191618382783c497d8874150471716",
+   "student": "8894d9b06c8b909ddadc7cfea3b6f874cc191618382783c497d8874150471716"
+  },
+  "questions/4EC1-2025-JUN-01-R-Q03.html": {
+   "source": "cdf6bc6e171c5e5b5e7a354d0ec1335c6bb139d7eb48eaa2f02a9c617541fa6d",
+   "student": "cdf6bc6e171c5e5b5e7a354d0ec1335c6bb139d7eb48eaa2f02a9c617541fa6d"
+  },
+  "questions/4EC1-2025-JUN-01-R-Q04.html": {
+   "source": "1c1686e84e1ed302c52ca677539065731c45954ff10c079b7777753109758258",
+   "student": "1c1686e84e1ed302c52ca677539065731c45954ff10c079b7777753109758258"
+  },
+  "questions/4EC1-2025-JUN-01-standard-Q01.html": {
+   "source": "366b228e8706dc2c134ab1555a7ad826fb14d21bd59effc0bdf7a7e71d032d09",
+   "student": "366b228e8706dc2c134ab1555a7ad826fb14d21bd59effc0bdf7a7e71d032d09"
+  },
+  "questions/4EC1-2025-JUN-01-standard-Q02.html": {
+   "source": "6ee378cef9b9a0383e6b9e41ee8a95479edd26b20ae091913e2bce587806afef",
+   "student": "6ee378cef9b9a0383e6b9e41ee8a95479edd26b20ae091913e2bce587806afef"
+  },
+  "questions/4EC1-2025-JUN-01-standard-Q03.html": {
+   "source": "987a2db8ace495b987b6814aec6bc957ebaf8f911e43484dd6881beaaee3de8f",
+   "student": "987a2db8ace495b987b6814aec6bc957ebaf8f911e43484dd6881beaaee3de8f"
+  },
+  "questions/4EC1-2025-JUN-01-standard-Q04.html": {
+   "source": "3c67a2e4f41b2275eb87ed5647f4bf1a9dd60a5e624b197d3ecf02023f73a016",
+   "student": "3c67a2e4f41b2275eb87ed5647f4bf1a9dd60a5e624b197d3ecf02023f73a016"
+  },
+  "questions/4EC1-2025-JUN-02-R-Q01.html": {
+   "source": "0e4d3e69f3d4830a997369790b6997c7827ad5e16b55d6b638136fbd3fa521e7",
+   "student": "0e4d3e69f3d4830a997369790b6997c7827ad5e16b55d6b638136fbd3fa521e7"
+  },
+  "questions/4EC1-2025-JUN-02-R-Q02.html": {
+   "source": "71657086a502593d5e00984d2f91b9881b82c34635494832dbe1d661a9a21527",
+   "student": "71657086a502593d5e00984d2f91b9881b82c34635494832dbe1d661a9a21527"
+  },
+  "questions/4EC1-2025-JUN-02-R-Q03.html": {
+   "source": "4da8bc16e1c56204927e32f7f9e6304c2459f256cf065c815f285df8b0e0d4ae",
+   "student": "4da8bc16e1c56204927e32f7f9e6304c2459f256cf065c815f285df8b0e0d4ae"
+  },
+  "questions/4EC1-2025-JUN-02-R-Q04.html": {
+   "source": "c538b99b960beb9c1759beb98b702c571f923418f36ebd62ec24da5c5f8c6a05",
+   "student": "c538b99b960beb9c1759beb98b702c571f923418f36ebd62ec24da5c5f8c6a05"
+  },
+  "questions/4EC1-2025-JUN-02-standard-Q01.html": {
+   "source": "f7afbdcf1e5cb1addf426d4dea8f3cfeccbf7a8bd891967059f7740af72b1fee",
+   "student": "f7afbdcf1e5cb1addf426d4dea8f3cfeccbf7a8bd891967059f7740af72b1fee"
+  },
+  "questions/4EC1-2025-JUN-02-standard-Q02.html": {
+   "source": "08667d3e71662ef7f3bea3c7889be4ae9eacd0c17f808ab098b3722fe92ae6a1",
+   "student": "08667d3e71662ef7f3bea3c7889be4ae9eacd0c17f808ab098b3722fe92ae6a1"
+  },
+  "questions/4EC1-2025-JUN-02-standard-Q03.html": {
+   "source": "1910a57f55c1d8e6fda3a266dae3ed402ae368aa38862e21ec8ae9ea034e9481",
+   "student": "1910a57f55c1d8e6fda3a266dae3ed402ae368aa38862e21ec8ae9ea034e9481"
+  },
+  "questions/4EC1-2025-JUN-02-standard-Q04.html": {
+   "source": "45350b7690bb62dd334e670baef3f58745b08bc4a63dd14074d63254b1bcdd10",
+   "student": "45350b7690bb62dd334e670baef3f58745b08bc4a63dd14074d63254b1bcdd10"
+  },
+  "questions/4EC1-2025-NOV-01-standard-Q01.html": {
+   "source": "fe3d14cc50d8e073a25e590bafc2ebee69041baa92f856781707330a7cb59431",
+   "student": "fe3d14cc50d8e073a25e590bafc2ebee69041baa92f856781707330a7cb59431"
+  },
+  "questions/4EC1-2025-NOV-01-standard-Q02.html": {
+   "source": "2d6b827d8f3355b37a6c1c0697e7cc5c1f3dd46b3272924614bde732fa2c9af2",
+   "student": "2d6b827d8f3355b37a6c1c0697e7cc5c1f3dd46b3272924614bde732fa2c9af2"
+  },
+  "questions/4EC1-2025-NOV-01-standard-Q03.html": {
+   "source": "e9e5dd8a75284eea3ab772b76a90de0009e828de51b9f73c00129c9ab91b77e1",
+   "student": "e9e5dd8a75284eea3ab772b76a90de0009e828de51b9f73c00129c9ab91b77e1"
+  },
+  "questions/4EC1-2025-NOV-01-standard-Q04.html": {
+   "source": "1634c0c5934bcda986d4634f6c641a3e4a0ade530f87091f0770438d40dbaf8d",
+   "student": "1634c0c5934bcda986d4634f6c641a3e4a0ade530f87091f0770438d40dbaf8d"
+  },
+  "questions/4EC1-2025-NOV-02-standard-Q01.html": {
+   "source": "fba9fca1b7c0b3f8b92cecae10719c9e9a670723a5c040f2e6ce87473b86ad1c",
+   "student": "fba9fca1b7c0b3f8b92cecae10719c9e9a670723a5c040f2e6ce87473b86ad1c"
+  },
+  "questions/4EC1-2025-NOV-02-standard-Q02.html": {
+   "source": "7804025aecea6c294a7d980213c108118598267e77bf3e132fcf8e9133b17dbf",
+   "student": "7804025aecea6c294a7d980213c108118598267e77bf3e132fcf8e9133b17dbf"
+  },
+  "questions/4EC1-2025-NOV-02-standard-Q03.html": {
+   "source": "1c0abc042f00ae02f5a9e832160227db9e6f413159439b38a4bf568dbf2e3a27",
+   "student": "1c0abc042f00ae02f5a9e832160227db9e6f413159439b38a4bf568dbf2e3a27"
+  },
+  "questions/4EC1-2025-NOV-02-standard-Q04.html": {
+   "source": "badeec4aa6a78011bc63c6c9bf0216047d7308fcf8b40682aec7a2bc298ff791",
+   "student": "badeec4aa6a78011bc63c6c9bf0216047d7308fcf8b40682aec7a2bc298ff791"
+  },
+  "syllabus.html": {
+   "source": "ba117ed8c5b26980c99a9469b43102b3d18b06ea98d0ab6966ead9fafcb7f342",
+   "student": "ba117ed8c5b26980c99a9469b43102b3d18b06ea98d0ab6966ead9fafcb7f342"
+  },
+  "technique/eco-tech-analyse.html": {
+   "source": "3be2ce47a1d39af9bef1b8c8275eb09e6b814e191dfc6801d7930cbb5bac6c1e",
+   "student": "3be2ce47a1d39af9bef1b8c8275eb09e6b814e191dfc6801d7930cbb5bac6c1e"
+  },
+  "technique/eco-tech-assess.html": {
+   "source": "05311f0530ab21f41cc591cf3f605ac7545c127e20e9c0b2fa5e1221eba9af45",
+   "student": "05311f0530ab21f41cc591cf3f605ac7545c127e20e9c0b2fa5e1221eba9af45"
+  },
+  "technique/eco-tech-calc.html": {
+   "source": "14b90f7a530aa2a275fcb8c9275d925f50b40c3cb41a0776ad69fb3c5bc41fec",
+   "student": "14b90f7a530aa2a275fcb8c9275d925f50b40c3cb41a0776ad69fb3c5bc41fec"
+  },
+  "technique/eco-tech-define.html": {
+   "source": "2849aa7980c13d34e4cd5cceed48d6e8eab990fdf9a37c1d10c67c73d54f5c88",
+   "student": "2849aa7980c13d34e4cd5cceed48d6e8eab990fdf9a37c1d10c67c73d54f5c88"
+  },
+  "technique/eco-tech-describe.html": {
+   "source": "33cd3fbad5ca32be295dcae9aaac2bb5328930258fed03c8e89a78bc81411228",
+   "student": "33cd3fbad5ca32be295dcae9aaac2bb5328930258fed03c8e89a78bc81411228"
+  },
+  "technique/eco-tech-draw.html": {
+   "source": "bcedc794847e5d6f0074240999dd9edffd3f2ebd106763af6c1b285fe98db31b",
+   "student": "bcedc794847e5d6f0074240999dd9edffd3f2ebd106763af6c1b285fe98db31b"
+  },
+  "technique/eco-tech-evaluate.html": {
+   "source": "bd1a2c59fb8bf2f642a219d856b815bdaa6f95c4c28a985616dfe36d11ac7a02",
+   "student": "bd1a2c59fb8bf2f642a219d856b815bdaa6f95c4c28a985616dfe36d11ac7a02"
+  },
+  "technique/eco-tech-explain.html": {
+   "source": "f2f84002e104343c31ac79af99cafe7898f4787c96dac59305e75914f1a54e7b",
+   "student": "f2f84002e104343c31ac79af99cafe7898f4787c96dac59305e75914f1a54e7b"
+  },
+  "technique/eco-tech-mcq.html": {
+   "source": "c8d578c005cd21c3dd727d2c7a099dca016a998aa756c6a84ee98b3ec0ecf03f",
+   "student": "c8d578c005cd21c3dd727d2c7a099dca016a998aa756c6a84ee98b3ec0ecf03f"
+  },
+  "technique/eco-tech-state.html": {
+   "source": "7fcbb8a0b4e802dbf06fe7b6ce9bd399d2b2b60813863c42bbe6c57c4ae97f23",
+   "student": "7fcbb8a0b4e802dbf06fe7b6ce9bd399d2b2b60813863c42bbe6c57c4ae97f23"
+  },
+  "technique/index.html": {
+   "source": "2d48de1dfb36b6f1eb2db91d5ceb77b2820e2a1d2e4f43d9efb77b39bf3cee07",
+   "student": "2d48de1dfb36b6f1eb2db91d5ceb77b2820e2a1d2e4f43d9efb77b39bf3cee07"
+  },
+  "topics.html": {
+   "source": "4e8aa3c40b0fca0c19792181771824933172598686be4ad7cfb64969a1b643df",
+   "student": "4e8aa3c40b0fca0c19792181771824933172598686be4ad7cfb64969a1b643df"
+  },
+  "topics/1-1.html": {
+   "source": "03acf32b13bdd4b675d90633a435178e53669de2110cb6a45d228ee448fad307",
+   "student": "03acf32b13bdd4b675d90633a435178e53669de2110cb6a45d228ee448fad307"
+  },
+  "topics/1-2.html": {
+   "source": "8da3c3a024c9b071edcd64c009690a26d8ae64c24da14cea0e508e9e2beb20a3",
+   "student": "8da3c3a024c9b071edcd64c009690a26d8ae64c24da14cea0e508e9e2beb20a3"
+  },
+  "topics/2-1.html": {
+   "source": "401de33e3dd534376e406b0d9b7abeed837b767666e98f79b258fa571ec5ddfb",
+   "student": "401de33e3dd534376e406b0d9b7abeed837b767666e98f79b258fa571ec5ddfb"
+  },
+  "topics/2-2.html": {
+   "source": "78c43d6d54c4d5d7c9b93fa864fe56428d2260a84a64510fab8291adfbbf86b9",
+   "student": "78c43d6d54c4d5d7c9b93fa864fe56428d2260a84a64510fab8291adfbbf86b9"
+  },
+  "types/eco-calc-01.html": {
+   "source": "3a00597a7fa0fc0db14e52186ea8d1199825aa63987952f5ebccacb127311309",
+   "student": "3a00597a7fa0fc0db14e52186ea8d1199825aa63987952f5ebccacb127311309"
+  },
+  "types/eco-calc-02.html": {
+   "source": "01a5ed987e46b9f43724546ac3d5ee459642102307223066bc39b221933b0a10",
+   "student": "01a5ed987e46b9f43724546ac3d5ee459642102307223066bc39b221933b0a10"
+  },
+  "types/eco-calc-03.html": {
+   "source": "4193bf0a47510b17974f4c791c4e22fa3f47145edb943fd13072467a7874713a",
+   "student": "4193bf0a47510b17974f4c791c4e22fa3f47145edb943fd13072467a7874713a"
+  },
+  "types/eco-calc-04.html": {
+   "source": "2e96726a06e5c1def6c34d9ba0f384ffa248942607f421835ade60a294b1e3ab",
+   "student": "2e96726a06e5c1def6c34d9ba0f384ffa248942607f421835ade60a294b1e3ab"
+  },
+  "types/eco-calc-05.html": {
+   "source": "2c944ffb17fe9c0bfdd2993ff9e1869b15709f4c29c6f52455531e6ce094bfc2",
+   "student": "2c944ffb17fe9c0bfdd2993ff9e1869b15709f4c29c6f52455531e6ce094bfc2"
+  },
+  "types/eco-calc-06.html": {
+   "source": "f2a0ae0417448a82f20018cf2bd118547b0222ecd2b1fb6034f8ffc713ccc6f1",
+   "student": "f2a0ae0417448a82f20018cf2bd118547b0222ecd2b1fb6034f8ffc713ccc6f1"
+  },
+  "types/eco-calc-07.html": {
+   "source": "0bd4f0f89379ec4e86fdfcb4daf5cfa6c551c63cb439c3ec3812f219e80358b3",
+   "student": "0bd4f0f89379ec4e86fdfcb4daf5cfa6c551c63cb439c3ec3812f219e80358b3"
+  },
+  "types/eco-calc-08.html": {
+   "source": "34a3f696af19f11a36b870e3333a487a499d78543519f67b5e989a64122166c4",
+   "student": "34a3f696af19f11a36b870e3333a487a499d78543519f67b5e989a64122166c4"
+  },
+  "types/eco-calc-09.html": {
+   "source": "b4e415021634a46a6332d5c0f947cb69d59b34eca3356632bf2315559556ce1a",
+   "student": "b4e415021634a46a6332d5c0f947cb69d59b34eca3356632bf2315559556ce1a"
+  },
+  "types/eco-calc-10.html": {
+   "source": "4faf17b479f50b92f8f99ca257936bb9fdb8dacbd42a149b98480190517152d7",
+   "student": "4faf17b479f50b92f8f99ca257936bb9fdb8dacbd42a149b98480190517152d7"
+  },
+  "types/eco-calc-11.html": {
+   "source": "f2ac130b4d3d5be49b7d20607100aeabf481b3b6b0f240599723cee15f28b56d",
+   "student": "f2ac130b4d3d5be49b7d20607100aeabf481b3b6b0f240599723cee15f28b56d"
+  },
+  "types/eco-calc-12.html": {
+   "source": "72d7150fd1fef9c33ea57cd7b2954d80217a23b6a02ebc5836c5d019f0dafcda",
+   "student": "72d7150fd1fef9c33ea57cd7b2954d80217a23b6a02ebc5836c5d019f0dafcda"
+  },
+  "types/eco-calc-13.html": {
+   "source": "571ca7a272734a26f6c18af4296b2f97d72652d14b67744d31f88f9ff9a52cf9",
+   "student": "571ca7a272734a26f6c18af4296b2f97d72652d14b67744d31f88f9ff9a52cf9"
+  },
+  "types/eco-calc-15.html": {
+   "source": "66ce5ef959a7cb30d3b3b402187f8f092284b9897a7085ccae49eb0ec25b0b75",
+   "student": "66ce5ef959a7cb30d3b3b402187f8f092284b9897a7085ccae49eb0ec25b0b75"
+  },
+  "types/eco-calc-16.html": {
+   "source": "5ec88ab492f926e1c760c336d1acaa0358cfa24e4ae5ed9854617c8b6d636e77",
+   "student": "5ec88ab492f926e1c760c336d1acaa0358cfa24e4ae5ed9854617c8b6d636e77"
+  },
+  "types/eco-calc-17.html": {
+   "source": "7191cd122a0843f54cfc987204b808ed2ecac834bc4db5c392c1c18b1230bf97",
+   "student": "7191cd122a0843f54cfc987204b808ed2ecac834bc4db5c392c1c18b1230bf97"
+  },
+  "types/eco-calc-19.html": {
+   "source": "aed868367840389d0d770d75a3e155bc81d09a43f03a2b370f483450ec81722d",
+   "student": "aed868367840389d0d770d75a3e155bc81d09a43f03a2b370f483450ec81722d"
+  },
+  "types/eco-calc-20.html": {
+   "source": "f2895477e1a7315e96e48920863e6abd11b37a8ab0460de8de4d89c67b8a2495",
+   "student": "f2895477e1a7315e96e48920863e6abd11b37a8ab0460de8de4d89c67b8a2495"
+  },
+  "types/eco-calc-21.html": {
+   "source": "998c1d40a8c806d0dd44da21a38829aa52c1b9376289e8119a8e96d23afbd399",
+   "student": "998c1d40a8c806d0dd44da21a38829aa52c1b9376289e8119a8e96d23afbd399"
+  },
+  "types/eco-calc-22.html": {
+   "source": "c6132ed29afd65e3c433771d54cf1cc1cf556e0ebabeeebc5d8701002680d4b6",
+   "student": "c6132ed29afd65e3c433771d54cf1cc1cf556e0ebabeeebc5d8701002680d4b6"
+  },
+  "types/eco-calc-23.html": {
+   "source": "9cfe8f790e3ad1a727d58a5e8ddf73bdb74471104d01f4abc153166a8f0ec855",
+   "student": "9cfe8f790e3ad1a727d58a5e8ddf73bdb74471104d01f4abc153166a8f0ec855"
+  },
+  "types/eco-t11-02.html": {
+   "source": "81b70cdbb3f4fc284ec01cdbb52e613cb93eb686355e33544193051955eac82b",
+   "student": "81b70cdbb3f4fc284ec01cdbb52e613cb93eb686355e33544193051955eac82b"
+  },
+  "types/eco-t11-03.html": {
+   "source": "85462769a22446a15279adfb24c595af43efaaf94df0c1c2686a0a4cbc0c73a6",
+   "student": "85462769a22446a15279adfb24c595af43efaaf94df0c1c2686a0a4cbc0c73a6"
+  },
+  "types/eco-t11-04.html": {
+   "source": "9bb42c41a5affae97f422962848f37de167a3a32a06617cb37db6af2c5fec3d9",
+   "student": "9bb42c41a5affae97f422962848f37de167a3a32a06617cb37db6af2c5fec3d9"
+  },
+  "types/eco-t11-05.html": {
+   "source": "d02fadc50eb87a544c4a2313bcb9b732d612f75611d37e9e295527e4ff112f24",
+   "student": "d02fadc50eb87a544c4a2313bcb9b732d612f75611d37e9e295527e4ff112f24"
+  },
+  "types/eco-t11-06.html": {
+   "source": "0f1bee7568140f91cf2aa9784ff9b1aa4ae0a8e4b45afeaa098629cfba02eb24",
+   "student": "0f1bee7568140f91cf2aa9784ff9b1aa4ae0a8e4b45afeaa098629cfba02eb24"
+  },
+  "types/eco-t11-07.html": {
+   "source": "b9c5f48e819618f0e5467e8cc783ae9a2caee3a4fe6ea7ae788685beb7aa69d7",
+   "student": "b9c5f48e819618f0e5467e8cc783ae9a2caee3a4fe6ea7ae788685beb7aa69d7"
+  },
+  "types/eco-t11-08.html": {
+   "source": "1267a61c0280ee28172f4ac6515ff7358ddfb7606b75bcffbcd2bea8cf19593f",
+   "student": "1267a61c0280ee28172f4ac6515ff7358ddfb7606b75bcffbcd2bea8cf19593f"
+  },
+  "types/eco-t11-09.html": {
+   "source": "fad5605b56bc601eb6a19127313874701a63f4f0f8cd37968ce01594bd38cba4",
+   "student": "fad5605b56bc601eb6a19127313874701a63f4f0f8cd37968ce01594bd38cba4"
+  },
+  "types/eco-t11-10.html": {
+   "source": "85f2cdf641d057912ddd37efe4114466cc39350d7a1388d0cc71056360fbdfed",
+   "student": "85f2cdf641d057912ddd37efe4114466cc39350d7a1388d0cc71056360fbdfed"
+  },
+  "types/eco-t11-11.html": {
+   "source": "0e3e639b7c6d614a5da4b722c2bc8a4af787105d3f00863eee45f718202fedfd",
+   "student": "0e3e639b7c6d614a5da4b722c2bc8a4af787105d3f00863eee45f718202fedfd"
+  },
+  "types/eco-t11-12.html": {
+   "source": "dafc8846a6b89fa7ca77ad8dc53ed71b76cfb91a20b5a0302dab4d1c023feeee",
+   "student": "dafc8846a6b89fa7ca77ad8dc53ed71b76cfb91a20b5a0302dab4d1c023feeee"
+  },
+  "types/eco-t11-13.html": {
+   "source": "39c7aa3a3bb1312304cedd6c74efb8975bfa9eeda00cd8656439e76c628606d7",
+   "student": "39c7aa3a3bb1312304cedd6c74efb8975bfa9eeda00cd8656439e76c628606d7"
+  },
+  "types/eco-t11-14.html": {
+   "source": "5c4744a9cc1dc494901cc8e464532a3e630dc931a927676ae689a8659385d432",
+   "student": "5c4744a9cc1dc494901cc8e464532a3e630dc931a927676ae689a8659385d432"
+  },
+  "types/eco-t11-15.html": {
+   "source": "9ef06303165f80263513bc966fc7ae8b8de94dbfddc7e7513a77a1d77d19620b",
+   "student": "9ef06303165f80263513bc966fc7ae8b8de94dbfddc7e7513a77a1d77d19620b"
+  },
+  "types/eco-t11-16.html": {
+   "source": "35d0079f118f4b84167955596fcbfb3b29176cfc4b9b32068690fcd606b803cb",
+   "student": "35d0079f118f4b84167955596fcbfb3b29176cfc4b9b32068690fcd606b803cb"
+  },
+  "types/eco-t11-18.html": {
+   "source": "7902d089cf678c3930e736cdf7ca1b1604e96cc873a4f959cbd05f1ccda98922",
+   "student": "7902d089cf678c3930e736cdf7ca1b1604e96cc873a4f959cbd05f1ccda98922"
+  },
+  "types/eco-t11-19.html": {
+   "source": "d04b41a33f41c1a9a7173285950fc1ea119a342e6d9ac9ad587059a59b2a4eeb",
+   "student": "d04b41a33f41c1a9a7173285950fc1ea119a342e6d9ac9ad587059a59b2a4eeb"
+  },
+  "types/eco-t11-20.html": {
+   "source": "4b3ce535b64f109f959d2f79e97c7b269250967f9137404906664ef6392e61e1",
+   "student": "4b3ce535b64f109f959d2f79e97c7b269250967f9137404906664ef6392e61e1"
+  },
+  "types/eco-t11-21.html": {
+   "source": "2b46a2004708fd8934819c8181a02d915762fefaf63e934affce9bdec79449a8",
+   "student": "2b46a2004708fd8934819c8181a02d915762fefaf63e934affce9bdec79449a8"
+  },
+  "types/eco-t12-01.html": {
+   "source": "4f3b1b7dfabc1db743d9b50c76fe0c1de129d7be36e3a180425d1f82afd04236",
+   "student": "4f3b1b7dfabc1db743d9b50c76fe0c1de129d7be36e3a180425d1f82afd04236"
+  },
+  "types/eco-t12-02.html": {
+   "source": "8115704b7e8315480e45e6bff54eae26e1f5592598ba42fc906f7c01dc6f2d14",
+   "student": "8115704b7e8315480e45e6bff54eae26e1f5592598ba42fc906f7c01dc6f2d14"
+  },
+  "types/eco-t12-03.html": {
+   "source": "1a2c87939fa66514a688f80201eb48065c699e014ed66a583ac73981009cf5cf",
+   "student": "1a2c87939fa66514a688f80201eb48065c699e014ed66a583ac73981009cf5cf"
+  },
+  "types/eco-t12-04.html": {
+   "source": "f3aab54faa24640eb411fbb02003b8343fcf4defa589c41cbfbf92fac2cdf8f6",
+   "student": "f3aab54faa24640eb411fbb02003b8343fcf4defa589c41cbfbf92fac2cdf8f6"
+  },
+  "types/eco-t12-05.html": {
+   "source": "199feb7faed067b164c5028dcce56bda9b20a46fe9c58fbf45607cbccf00bb7d",
+   "student": "199feb7faed067b164c5028dcce56bda9b20a46fe9c58fbf45607cbccf00bb7d"
+  },
+  "types/eco-t12-06.html": {
+   "source": "17c6b1eb9aa8cda44ff1f1ea84cdcddd7c7c107aac31d68491f2ae40e9461518",
+   "student": "17c6b1eb9aa8cda44ff1f1ea84cdcddd7c7c107aac31d68491f2ae40e9461518"
+  },
+  "types/eco-t12-07.html": {
+   "source": "e582cbb4a37668ce73b313e5bb1c60b93de3010119b0a826468ee105e6a8c118",
+   "student": "e582cbb4a37668ce73b313e5bb1c60b93de3010119b0a826468ee105e6a8c118"
+  },
+  "types/eco-t12-10.html": {
+   "source": "1423b77dc66629bad0cc63bc7afca390138c5c1b2cbe13d6bdb6fdcaacee9965",
+   "student": "1423b77dc66629bad0cc63bc7afca390138c5c1b2cbe13d6bdb6fdcaacee9965"
+  },
+  "types/eco-t12-11.html": {
+   "source": "7d949ea34f676d0ccba3056ac281816681ff30785d168ff0ff6fe1e2743eaadc",
+   "student": "7d949ea34f676d0ccba3056ac281816681ff30785d168ff0ff6fe1e2743eaadc"
+  },
+  "types/eco-t12-12.html": {
+   "source": "8bcb588aad3bf843f03d2cbc08afee047b64f60e5981c8cd8a2d7ff0d54b2af4",
+   "student": "8bcb588aad3bf843f03d2cbc08afee047b64f60e5981c8cd8a2d7ff0d54b2af4"
+  },
+  "types/eco-t12-13.html": {
+   "source": "0febfd99eb553d75138599187584c638f528914b76986d2d3e0b0b471cbeb195",
+   "student": "0febfd99eb553d75138599187584c638f528914b76986d2d3e0b0b471cbeb195"
+  },
+  "types/eco-t12-15.html": {
+   "source": "49ecef1dafb4f5c6463fdca8c89bb738424d3599018a2a5d75eeec2448fdabba",
+   "student": "49ecef1dafb4f5c6463fdca8c89bb738424d3599018a2a5d75eeec2448fdabba"
+  },
+  "types/eco-t12-17.html": {
+   "source": "8ec7fbc30dadb5762a7fcbb48c12e7b77a015b784db56e1617e28cb2146fb3ab",
+   "student": "8ec7fbc30dadb5762a7fcbb48c12e7b77a015b784db56e1617e28cb2146fb3ab"
+  },
+  "types/eco-t12-18.html": {
+   "source": "07c02ec9e15ab5d0944efefca3e0fe7642461b5db664a7c99e4188279f70b1c2",
+   "student": "07c02ec9e15ab5d0944efefca3e0fe7642461b5db664a7c99e4188279f70b1c2"
+  },
+  "types/eco-t12-19.html": {
+   "source": "075c6032c266cc626f1a7c0f1ecc8381b675c75e426be33a3c763a0a0ff8f48f",
+   "student": "075c6032c266cc626f1a7c0f1ecc8381b675c75e426be33a3c763a0a0ff8f48f"
+  },
+  "types/eco-t12-20.html": {
+   "source": "00db600dac30a5cdd651c342c60e603935eb27425520474a5e535daa7a891905",
+   "student": "00db600dac30a5cdd651c342c60e603935eb27425520474a5e535daa7a891905"
+  },
+  "types/eco-t12-21.html": {
+   "source": "02eec5cdcc2ecc7d3339f0e7f21030bf81ee9ea6315b888a19b422bc581e90bf",
+   "student": "02eec5cdcc2ecc7d3339f0e7f21030bf81ee9ea6315b888a19b422bc581e90bf"
+  },
+  "types/eco-t12-22.html": {
+   "source": "3184e02c63304ff6d0c972dfdcde0ab2b8b8d1710938dc974c2d78435bcdc013",
+   "student": "3184e02c63304ff6d0c972dfdcde0ab2b8b8d1710938dc974c2d78435bcdc013"
+  },
+  "types/eco-t12-23.html": {
+   "source": "d5fa3235b31bb0d91c607a2952b176150feeb0d77f1b0b0830a4e283f0f72b36",
+   "student": "d5fa3235b31bb0d91c607a2952b176150feeb0d77f1b0b0830a4e283f0f72b36"
+  },
+  "types/eco-t12-24.html": {
+   "source": "cf16ddd7c76e2a9fdaaffac83f45eeac6c8f7dd7ab18a07277155979c85ec713",
+   "student": "cf16ddd7c76e2a9fdaaffac83f45eeac6c8f7dd7ab18a07277155979c85ec713"
+  },
+  "types/eco-t21-03.html": {
+   "source": "eb7540d061677df9de87d25d863f4623ce6b8cc549159272b8b061df7746d2c2",
+   "student": "eb7540d061677df9de87d25d863f4623ce6b8cc549159272b8b061df7746d2c2"
+  },
+  "types/eco-t21-04.html": {
+   "source": "63858bc9ffe55efcc2d2cffcbd9975f06dfb3f066b9540ea965c02b41c9be58f",
+   "student": "63858bc9ffe55efcc2d2cffcbd9975f06dfb3f066b9540ea965c02b41c9be58f"
+  },
+  "types/eco-t21-05.html": {
+   "source": "a11af71d90fb344865745cebfeddc6a42256d006b587383866221886c302e572",
+   "student": "a11af71d90fb344865745cebfeddc6a42256d006b587383866221886c302e572"
+  },
+  "types/eco-t21-07.html": {
+   "source": "c9c85ddb5fc12886f4974168a6b1940841409e0b43ad490530af7bd2c93f75b2",
+   "student": "c9c85ddb5fc12886f4974168a6b1940841409e0b43ad490530af7bd2c93f75b2"
+  },
+  "types/eco-t21-08.html": {
+   "source": "06e1ffc9674bec2ec3dc6b45f145ba9bfc6e5b3dbb22f75d0c5ac35a87ed7412",
+   "student": "06e1ffc9674bec2ec3dc6b45f145ba9bfc6e5b3dbb22f75d0c5ac35a87ed7412"
+  },
+  "types/eco-t21-09.html": {
+   "source": "acd5ea7e6d6c517a332ac551635c2d24d8dacb8ad14ef2725a7c11a89e09e394",
+   "student": "acd5ea7e6d6c517a332ac551635c2d24d8dacb8ad14ef2725a7c11a89e09e394"
+  },
+  "types/eco-t21-11.html": {
+   "source": "42f5031ad3f0fe15186c48cb958e8db4daf338f0741e09dec1096dc7e6636dbd",
+   "student": "42f5031ad3f0fe15186c48cb958e8db4daf338f0741e09dec1096dc7e6636dbd"
+  },
+  "types/eco-t21-12.html": {
+   "source": "6c6f67ce050881d2592ac7b43e58671d4e9c316b98d22e8e0ecd775cbf254809",
+   "student": "6c6f67ce050881d2592ac7b43e58671d4e9c316b98d22e8e0ecd775cbf254809"
+  },
+  "types/eco-t21-13.html": {
+   "source": "6f217ea201d99a1bd896ec9696d0b2d45ec0ac15b9bc34d8bfa4f13d53d18ff6",
+   "student": "6f217ea201d99a1bd896ec9696d0b2d45ec0ac15b9bc34d8bfa4f13d53d18ff6"
+  },
+  "types/eco-t21-14.html": {
+   "source": "725965ec727a0079c7e2f5c6de41254cdcde010d62a96ce68ffed694793854db",
+   "student": "725965ec727a0079c7e2f5c6de41254cdcde010d62a96ce68ffed694793854db"
+  },
+  "types/eco-t21-17.html": {
+   "source": "4d2f9e3de55a903e375cbf615c4d158b38e255041ac0511610ec817172c69e38",
+   "student": "4d2f9e3de55a903e375cbf615c4d158b38e255041ac0511610ec817172c69e38"
+  },
+  "types/eco-t21-20.html": {
+   "source": "906e5acf8f81f3b183d11d08d8af928f164913f712ced0980fa3973014f81c2e",
+   "student": "906e5acf8f81f3b183d11d08d8af928f164913f712ced0980fa3973014f81c2e"
+  },
+  "types/eco-t21-21.html": {
+   "source": "81339c0d4b75eebf3c1c8c474434203bfab7b1253ac28aeb0afee9b1172fbf63",
+   "student": "81339c0d4b75eebf3c1c8c474434203bfab7b1253ac28aeb0afee9b1172fbf63"
+  },
+  "types/eco-t21-25.html": {
+   "source": "7d4b31ffed2c67a961238be97467322840ebfb9fe86912094178e400345db4da",
+   "student": "7d4b31ffed2c67a961238be97467322840ebfb9fe86912094178e400345db4da"
+  },
+  "types/eco-t21-26.html": {
+   "source": "5881adaba6fe6011e950a962a5036d0ef1ac9b8fcbbf0c8ddd2c9335c3edc3e8",
+   "student": "5881adaba6fe6011e950a962a5036d0ef1ac9b8fcbbf0c8ddd2c9335c3edc3e8"
+  },
+  "types/eco-t21-28.html": {
+   "source": "54959d5f52f3eb723ef3d69ff8dc64520770038ae269cdcd12b7678715c0886c",
+   "student": "54959d5f52f3eb723ef3d69ff8dc64520770038ae269cdcd12b7678715c0886c"
+  },
+  "types/eco-t21-31.html": {
+   "source": "ad7c0ed21f1f6fe1564fa4ea53362fbf9ab698db5d67bf5029e96b41cb305740",
+   "student": "ad7c0ed21f1f6fe1564fa4ea53362fbf9ab698db5d67bf5029e96b41cb305740"
+  },
+  "types/eco-t21-33.html": {
+   "source": "eb482fc04a1e254d10c3263a033846fb4790a39e61474658c1f5b50dddeb0875",
+   "student": "eb482fc04a1e254d10c3263a033846fb4790a39e61474658c1f5b50dddeb0875"
+  },
+  "types/eco-t21-35.html": {
+   "source": "35dec6e2efbfd1b6f5ed5b3c380d8c584c03f067f59ca31e4f9bc5bc870bc65c",
+   "student": "35dec6e2efbfd1b6f5ed5b3c380d8c584c03f067f59ca31e4f9bc5bc870bc65c"
+  },
+  "types/eco-t22-01.html": {
+   "source": "4bae618825cf7832ba0b52fa6778beca29bcad2f440df700fe7a03ade67d4e5c",
+   "student": "4bae618825cf7832ba0b52fa6778beca29bcad2f440df700fe7a03ade67d4e5c"
+  },
+  "types/eco-t22-02.html": {
+   "source": "01fb56525efef61de549771f906d79d44a3057124c02195579ebffc6106d40d7",
+   "student": "01fb56525efef61de549771f906d79d44a3057124c02195579ebffc6106d40d7"
+  },
+  "types/eco-t22-03.html": {
+   "source": "0fe6dbb73e1f8b95e233cf461fbb972851efbe390ad97551b1cd6c502f216672",
+   "student": "0fe6dbb73e1f8b95e233cf461fbb972851efbe390ad97551b1cd6c502f216672"
+  },
+  "types/eco-t22-04.html": {
+   "source": "4f11b1b64385e0da67c690ae8b5b8fdc86d9c2dbcc5418f6c88946666bfe8336",
+   "student": "4f11b1b64385e0da67c690ae8b5b8fdc86d9c2dbcc5418f6c88946666bfe8336"
+  },
+  "types/eco-t22-05.html": {
+   "source": "a5efc11c21faceffc8d75a0484031062eee87ef482b0b56d6d6126bd355e0b85",
+   "student": "a5efc11c21faceffc8d75a0484031062eee87ef482b0b56d6d6126bd355e0b85"
+  },
+  "types/eco-t22-06.html": {
+   "source": "5182ba6705200df45cc849833304796f7b8015bf6ea1f39371fbaa84d0169202",
+   "student": "5182ba6705200df45cc849833304796f7b8015bf6ea1f39371fbaa84d0169202"
+  },
+  "types/eco-t22-07.html": {
+   "source": "0d66c4234a13fbe866af64ba44a14f40a6efbbe8e56a2b40a022fcd7dfaa5146",
+   "student": "0d66c4234a13fbe866af64ba44a14f40a6efbbe8e56a2b40a022fcd7dfaa5146"
+  },
+  "types/eco-t22-08.html": {
+   "source": "28cf0aeded22bc7005b05c6ed962d4202975d6cb56b0d589aefdbdfbcfaf4d1a",
+   "student": "28cf0aeded22bc7005b05c6ed962d4202975d6cb56b0d589aefdbdfbcfaf4d1a"
+  },
+  "types/eco-t22-09.html": {
+   "source": "e49b25ad8a04a6c2b9e89d16ecebacc4b63d91b35f0321f1544ffead92b836cd",
+   "student": "e49b25ad8a04a6c2b9e89d16ecebacc4b63d91b35f0321f1544ffead92b836cd"
+  },
+  "types/eco-t22-10.html": {
+   "source": "38d4d1aebfc913ff72e8bb4ce84de0498a789b2f77b65ad67093ad0549151990",
+   "student": "38d4d1aebfc913ff72e8bb4ce84de0498a789b2f77b65ad67093ad0549151990"
+  },
+  "types/eco-t22-12.html": {
+   "source": "e53317ef04e9229c614ed442f158eb5eb6026c30b9d2ebd87458ddcdc205673c",
+   "student": "e53317ef04e9229c614ed442f158eb5eb6026c30b9d2ebd87458ddcdc205673c"
+  },
+  "types/eco-t22-13.html": {
+   "source": "8c1565adbc82c3ae0068cbc9475bc85dbff9d098e3e2756d25891aad3a0b3ecb",
+   "student": "8c1565adbc82c3ae0068cbc9475bc85dbff9d098e3e2756d25891aad3a0b3ecb"
+  },
+  "types/eco-t22-14.html": {
+   "source": "ce6399fac732451617899bda70c24ea7ec8f81cf9ff51af11a313a3000b85b6c",
+   "student": "ce6399fac732451617899bda70c24ea7ec8f81cf9ff51af11a313a3000b85b6c"
+  },
+  "video-library/english/eco-calc-01/index.html": {
+   "source": "dae46ed813f7259a915313284a0ea53e6e745daa99ea3aab0410be3769990be4",
+   "student": "dae46ed813f7259a915313284a0ea53e6e745daa99ea3aab0410be3769990be4"
+  },
+  "video-library/english/eco-calc-02/index.html": {
+   "source": "2933e6201ff4143bc4ee288cfc79d9d206129b563834427f392eee0805fe6020",
+   "student": "2933e6201ff4143bc4ee288cfc79d9d206129b563834427f392eee0805fe6020"
+  },
+  "video-library/english/eco-calc-03/index.html": {
+   "source": "199dd2b0eb0da52aecdecf913397223558db4610bd84f0cec5de44aca7b688a4",
+   "student": "199dd2b0eb0da52aecdecf913397223558db4610bd84f0cec5de44aca7b688a4"
+  },
+  "video-library/english/eco-calc-04/index.html": {
+   "source": "741dbbd320670d69912eaed625d3657d17bb63bf7cc67ad81ce8b5e1b7c8a327",
+   "student": "741dbbd320670d69912eaed625d3657d17bb63bf7cc67ad81ce8b5e1b7c8a327"
+  },
+  "video-library/english/eco-calc-05/index.html": {
+   "source": "d1dc1ffeca4213d6a1e8ddba997d76f68dd2525401951053b5d02ce7000e48d4",
+   "student": "d1dc1ffeca4213d6a1e8ddba997d76f68dd2525401951053b5d02ce7000e48d4"
+  },
+  "video-library/english/eco-calc-06/index.html": {
+   "source": "cd9d27e1de2b1cad9fc4d9b359c990358f27f7805a21a8f881ce9a619a9ead6a",
+   "student": "cd9d27e1de2b1cad9fc4d9b359c990358f27f7805a21a8f881ce9a619a9ead6a"
+  },
+  "video-library/english/eco-calc-07/index.html": {
+   "source": "2218020784fcebc8ab1519617643c208072a9f31b650fa16edd629a8afcb72b9",
+   "student": "2218020784fcebc8ab1519617643c208072a9f31b650fa16edd629a8afcb72b9"
+  },
+  "video-library/english/eco-calc-08/index.html": {
+   "source": "89adef5b3e171b2972290e2b7456e42574b234fd4631134a0dd376e71dcbfa02",
+   "student": "89adef5b3e171b2972290e2b7456e42574b234fd4631134a0dd376e71dcbfa02"
+  },
+  "video-library/english/eco-calc-09/index.html": {
+   "source": "db38e2c6281df50ca321891d3c90e69d9ac29604d935ccba63ce842c2357db63",
+   "student": "db38e2c6281df50ca321891d3c90e69d9ac29604d935ccba63ce842c2357db63"
+  },
+  "video-library/english/eco-calc-10/index.html": {
+   "source": "3cb76ec1b1f2aecde117e8f8be298cf11b63f97165085feb551af2da85c0681e",
+   "student": "3cb76ec1b1f2aecde117e8f8be298cf11b63f97165085feb551af2da85c0681e"
+  },
+  "video-library/english/eco-calc-11/index.html": {
+   "source": "ee72a83a48ab330c1afdafe08ee35cade9604cb148d935017adf6519ec9395c9",
+   "student": "ee72a83a48ab330c1afdafe08ee35cade9604cb148d935017adf6519ec9395c9"
+  },
+  "video-library/english/eco-calc-12/index.html": {
+   "source": "daf21efaff28a7b17902869c84a16009e4bccc05cd5cd768bf75eb0e503805f4",
+   "student": "daf21efaff28a7b17902869c84a16009e4bccc05cd5cd768bf75eb0e503805f4"
+  },
+  "video-library/english/eco-calc-13/index.html": {
+   "source": "636a91609f1ef577ebce746a60792ed855d9d3ac0ed182d989b48f8993b8db1c",
+   "student": "636a91609f1ef577ebce746a60792ed855d9d3ac0ed182d989b48f8993b8db1c"
+  },
+  "video-library/english/eco-calc-15/index.html": {
+   "source": "24b277cadf98214ffe33acbae37dd0672ed8ca4dced3e170b73f8d3ad4fef10e",
+   "student": "24b277cadf98214ffe33acbae37dd0672ed8ca4dced3e170b73f8d3ad4fef10e"
+  },
+  "video-library/english/eco-calc-16/index.html": {
+   "source": "423a688fb8506ddcb05ea819ff497e884ab65cc217d410e7eff23940d313d27d",
+   "student": "423a688fb8506ddcb05ea819ff497e884ab65cc217d410e7eff23940d313d27d"
+  },
+  "video-library/english/eco-calc-17/index.html": {
+   "source": "415229dec638f2aed32b8e24295698a8e785730babbb538cff39e272c087bcb9",
+   "student": "415229dec638f2aed32b8e24295698a8e785730babbb538cff39e272c087bcb9"
+  },
+  "video-library/english/eco-calc-19/index.html": {
+   "source": "f28555ddebb408c7d4a307f75f99def258b7a7963aa43dd4dffad1380801b331",
+   "student": "f28555ddebb408c7d4a307f75f99def258b7a7963aa43dd4dffad1380801b331"
+  },
+  "video-library/english/eco-calc-20/index.html": {
+   "source": "688bc8db5948a72a4b9d35515c7692a1b0215a0546734867edd641f2947084ad",
+   "student": "688bc8db5948a72a4b9d35515c7692a1b0215a0546734867edd641f2947084ad"
+  },
+  "video-library/english/eco-calc-21/index.html": {
+   "source": "8971b6cc968553e13d5e1c48e7b923fbb4a701f9839a1a7bd46fba3123680dd2",
+   "student": "8971b6cc968553e13d5e1c48e7b923fbb4a701f9839a1a7bd46fba3123680dd2"
+  },
+  "video-library/english/eco-calc-22/index.html": {
+   "source": "361301b0db4fd5e83e098462a91d3970956055c572daf0916b4f85c3a8117ff9",
+   "student": "361301b0db4fd5e83e098462a91d3970956055c572daf0916b4f85c3a8117ff9"
+  },
+  "video-library/english/eco-calc-23/index.html": {
+   "source": "4b97b6413507446d7611ca0e08bd16c9f32312ec1d1be7f5dd75fac51ced308e",
+   "student": "4b97b6413507446d7611ca0e08bd16c9f32312ec1d1be7f5dd75fac51ced308e"
+  },
+  "video-library/english/eco-t11-02/index.html": {
+   "source": "f1d9c3a2a4d85db5c23895844070ba1aa43b5b516dbd8b1577142cc0a835002c",
+   "student": "f1d9c3a2a4d85db5c23895844070ba1aa43b5b516dbd8b1577142cc0a835002c"
+  },
+  "video-library/english/eco-t11-03/index.html": {
+   "source": "6ac937a56088995f69434d0a1bda5b31d94b0c93447e3431564e921bef6f02a9",
+   "student": "6ac937a56088995f69434d0a1bda5b31d94b0c93447e3431564e921bef6f02a9"
+  },
+  "video-library/english/eco-t11-04/index.html": {
+   "source": "fa234be099be39cf07021a447eaedbbe84701128dfce4e66fe35483e60f4a02f",
+   "student": "fa234be099be39cf07021a447eaedbbe84701128dfce4e66fe35483e60f4a02f"
+  },
+  "video-library/english/eco-t11-05/index.html": {
+   "source": "558e023cefdfeffce08c94c7829561bbfc1196a8d16c0886255c103edd7d3244",
+   "student": "558e023cefdfeffce08c94c7829561bbfc1196a8d16c0886255c103edd7d3244"
+  },
+  "video-library/english/eco-t11-06/index.html": {
+   "source": "7a20268cd5ad182c549fc9adc3b24690af9273ebdb462afc74a4f503ac8caca0",
+   "student": "7a20268cd5ad182c549fc9adc3b24690af9273ebdb462afc74a4f503ac8caca0"
+  },
+  "video-library/english/eco-t11-07/index.html": {
+   "source": "26d313222ba358a2278c417ad690d9828ff54e3a03b706a511727a17d831da35",
+   "student": "26d313222ba358a2278c417ad690d9828ff54e3a03b706a511727a17d831da35"
+  },
+  "video-library/english/eco-t11-08/index.html": {
+   "source": "918fd287ad4e332e54790e57126d1dae14bf8fa5d2782dfea3010dcd14e31e05",
+   "student": "918fd287ad4e332e54790e57126d1dae14bf8fa5d2782dfea3010dcd14e31e05"
+  },
+  "video-library/english/eco-t11-09/index.html": {
+   "source": "8f8491fda224ce1d0c7a1a276c445fb787c9dc0803d9cf99e8dd133c3b2fa791",
+   "student": "8f8491fda224ce1d0c7a1a276c445fb787c9dc0803d9cf99e8dd133c3b2fa791"
+  },
+  "video-library/english/eco-t11-10/index.html": {
+   "source": "513a4718b85e37500d2362548d2caf2ec231a5f5e1a60085da6939b9f68af2a6",
+   "student": "513a4718b85e37500d2362548d2caf2ec231a5f5e1a60085da6939b9f68af2a6"
+  },
+  "video-library/english/eco-t11-11/index.html": {
+   "source": "82b9221694f9bd8dc9912cfb294dc916b428a66ae5461d27ba390accffa42b55",
+   "student": "82b9221694f9bd8dc9912cfb294dc916b428a66ae5461d27ba390accffa42b55"
+  },
+  "video-library/english/eco-t11-12/index.html": {
+   "source": "0a628d9efae7d631ab024a2a7b6dbcc9b217d8f7bdd1bdd1192ea961ce8f6d1f",
+   "student": "0a628d9efae7d631ab024a2a7b6dbcc9b217d8f7bdd1bdd1192ea961ce8f6d1f"
+  },
+  "video-library/english/eco-t11-13/index.html": {
+   "source": "8799cf3981111888184a2b07fb3ce200cda4d89b5ec06c27677af8ac0fd189be",
+   "student": "8799cf3981111888184a2b07fb3ce200cda4d89b5ec06c27677af8ac0fd189be"
+  },
+  "video-library/english/eco-t11-14/index.html": {
+   "source": "0626a0d1a19488f06593229b6fd34ebbb8f35ad1b26c8d12a2c85e92d48babc7",
+   "student": "0626a0d1a19488f06593229b6fd34ebbb8f35ad1b26c8d12a2c85e92d48babc7"
+  },
+  "video-library/english/eco-t11-15/index.html": {
+   "source": "5158dac8d91c13e8f2192c0fc3f9fb49c47c7dba16076f827576a8b4411192f1",
+   "student": "5158dac8d91c13e8f2192c0fc3f9fb49c47c7dba16076f827576a8b4411192f1"
+  },
+  "video-library/english/eco-t11-16/index.html": {
+   "source": "5236da1fcde6fa419eabd6cc74e5ba661839be889c948a575101d87e161cdd9d",
+   "student": "5236da1fcde6fa419eabd6cc74e5ba661839be889c948a575101d87e161cdd9d"
+  },
+  "video-library/english/eco-t11-18/index.html": {
+   "source": "cb18f5ff539009523e832b6cc32b7619d8de21c6207c2147a8ee323465972095",
+   "student": "cb18f5ff539009523e832b6cc32b7619d8de21c6207c2147a8ee323465972095"
+  },
+  "video-library/english/eco-t11-19/index.html": {
+   "source": "2cb582a9fe944ee2cdc3a7fbb300390b6ecb309171e9841a1e2a97edc3f9ae64",
+   "student": "2cb582a9fe944ee2cdc3a7fbb300390b6ecb309171e9841a1e2a97edc3f9ae64"
+  },
+  "video-library/english/eco-t11-20/index.html": {
+   "source": "5d9be26cb0f30a3b970d35918cf684131487cda3f1f8276b56f161db42de1f11",
+   "student": "5d9be26cb0f30a3b970d35918cf684131487cda3f1f8276b56f161db42de1f11"
+  },
+  "video-library/english/eco-t11-21/index.html": {
+   "source": "4ab9063e53254c23eada2cfa08573d72b74ab73ea5bb75d33d5d3d150fde7b27",
+   "student": "4ab9063e53254c23eada2cfa08573d72b74ab73ea5bb75d33d5d3d150fde7b27"
+  },
+  "video-library/english/eco-t12-01/index.html": {
+   "source": "d80cd7a09596af6fe6df0f9dcdb119e0f6ccc0231bcda7bef4507c1fd55f46bb",
+   "student": "d80cd7a09596af6fe6df0f9dcdb119e0f6ccc0231bcda7bef4507c1fd55f46bb"
+  },
+  "video-library/english/eco-t12-02/index.html": {
+   "source": "f02b6ed0d36f951536617c80729a91426907d433755b0c19e361882bc0111183",
+   "student": "f02b6ed0d36f951536617c80729a91426907d433755b0c19e361882bc0111183"
+  },
+  "video-library/english/eco-t12-03/index.html": {
+   "source": "97d03c1b900da5f81d1867747e0703aaea6c890d42ccffb696cd4b9ff1f0a291",
+   "student": "97d03c1b900da5f81d1867747e0703aaea6c890d42ccffb696cd4b9ff1f0a291"
+  },
+  "video-library/english/eco-t12-04/index.html": {
+   "source": "0700e669e99fd2487a284ba4259b91548aa585772f9e5bbe5de2df695e0cc9c7",
+   "student": "0700e669e99fd2487a284ba4259b91548aa585772f9e5bbe5de2df695e0cc9c7"
+  },
+  "video-library/english/eco-t12-05/index.html": {
+   "source": "035c7c92705eb586cd303d1229074e94a51e9a99a4d7e17cbd9582c592ca414e",
+   "student": "035c7c92705eb586cd303d1229074e94a51e9a99a4d7e17cbd9582c592ca414e"
+  },
+  "video-library/english/eco-t12-06/index.html": {
+   "source": "b3d25293f0d7545cb2f71524993bf4353a78af530c639003845cd3cee87968a8",
+   "student": "b3d25293f0d7545cb2f71524993bf4353a78af530c639003845cd3cee87968a8"
+  },
+  "video-library/english/eco-t12-07/index.html": {
+   "source": "1834250a632e6c7591f365120d72f3d3eb9c5510263a23c6a5c6ef0761e27dc8",
+   "student": "1834250a632e6c7591f365120d72f3d3eb9c5510263a23c6a5c6ef0761e27dc8"
+  },
+  "video-library/english/eco-t12-10/index.html": {
+   "source": "860ad2ad393333dff073e9f69693fd6a8dea1e061ed25d489a7d1fa09d7d389b",
+   "student": "860ad2ad393333dff073e9f69693fd6a8dea1e061ed25d489a7d1fa09d7d389b"
+  },
+  "video-library/english/eco-t12-11/index.html": {
+   "source": "ec27f3163616c8b3534215f02e96dd90674f2c389938030d2885f694f40b5e70",
+   "student": "ec27f3163616c8b3534215f02e96dd90674f2c389938030d2885f694f40b5e70"
+  },
+  "video-library/english/eco-t12-12/index.html": {
+   "source": "e7a979ba13dbed8b06fdcc5e294c54c98f997ab7471069be9668d171a5f28ae7",
+   "student": "e7a979ba13dbed8b06fdcc5e294c54c98f997ab7471069be9668d171a5f28ae7"
+  },
+  "video-library/english/eco-t12-13/index.html": {
+   "source": "01cf55a8832de0d6520795a0064812c902232bc95a6d9e5ae00cde6b1a3cf37b",
+   "student": "01cf55a8832de0d6520795a0064812c902232bc95a6d9e5ae00cde6b1a3cf37b"
+  },
+  "video-library/english/eco-t12-15/index.html": {
+   "source": "71a74a5e21ef3933cbefbc6f3a87a4fd117c99b8ece91395a1af03121a7b8f89",
+   "student": "71a74a5e21ef3933cbefbc6f3a87a4fd117c99b8ece91395a1af03121a7b8f89"
+  },
+  "video-library/english/eco-t12-17/index.html": {
+   "source": "78f9bcde6c0f661b0d27812e59b4b29a12595d6354837f64a2f77510556ed077",
+   "student": "78f9bcde6c0f661b0d27812e59b4b29a12595d6354837f64a2f77510556ed077"
+  },
+  "video-library/english/eco-t12-18/index.html": {
+   "source": "62635335e5411eb146b9b4321c9e2017e32d08caef7e0a7505758b02ffe59390",
+   "student": "62635335e5411eb146b9b4321c9e2017e32d08caef7e0a7505758b02ffe59390"
+  },
+  "video-library/english/eco-t12-19/index.html": {
+   "source": "9c9859b4b62d70cfc506e07b360a178bb71ed3271136c8650b458a348895dbf1",
+   "student": "9c9859b4b62d70cfc506e07b360a178bb71ed3271136c8650b458a348895dbf1"
+  },
+  "video-library/english/eco-t12-20/index.html": {
+   "source": "898b99d5ae644c112645724fda9407d513710386d15be1472e6eb0718eb7a0b7",
+   "student": "898b99d5ae644c112645724fda9407d513710386d15be1472e6eb0718eb7a0b7"
+  },
+  "video-library/english/eco-t12-21/index.html": {
+   "source": "bc5f3a1362bcc071c842b58b4363d59f50a46a7f7d12485f9abc5dfe5efc32a3",
+   "student": "bc5f3a1362bcc071c842b58b4363d59f50a46a7f7d12485f9abc5dfe5efc32a3"
+  },
+  "video-library/english/eco-t12-22/index.html": {
+   "source": "7d02e12d266cbeaff6ff5086e87226de6b72358deba0fe5ecbebf6984c94cf70",
+   "student": "7d02e12d266cbeaff6ff5086e87226de6b72358deba0fe5ecbebf6984c94cf70"
+  },
+  "video-library/english/eco-t12-23/index.html": {
+   "source": "f2338d71b161204a046a6beabdcc15cc8793288ba6d95c9de5f84d0583a66288",
+   "student": "f2338d71b161204a046a6beabdcc15cc8793288ba6d95c9de5f84d0583a66288"
+  },
+  "video-library/english/eco-t12-24/index.html": {
+   "source": "be0cd60d7946f6582f387547c2c0e2ea16058e0e3757bb4b384f987998ced4f1",
+   "student": "be0cd60d7946f6582f387547c2c0e2ea16058e0e3757bb4b384f987998ced4f1"
+  },
+  "video-library/english/eco-t21-03/index.html": {
+   "source": "158445ec60e32058d12f11453ee04f92b37d8a69c7273b74f05678856291848c",
+   "student": "158445ec60e32058d12f11453ee04f92b37d8a69c7273b74f05678856291848c"
+  },
+  "video-library/english/eco-t21-04/index.html": {
+   "source": "92896da36599412578059bc9ec13c3bf6e4393711dc728732f40724cc316078b",
+   "student": "92896da36599412578059bc9ec13c3bf6e4393711dc728732f40724cc316078b"
+  },
+  "video-library/english/eco-t21-05/index.html": {
+   "source": "d432105f902559bcddb822d06d044c9e198835d27d592a4efdc93bd2e1e148b9",
+   "student": "d432105f902559bcddb822d06d044c9e198835d27d592a4efdc93bd2e1e148b9"
+  },
+  "video-library/english/eco-t21-07/index.html": {
+   "source": "bc8dd9941b1042c7f840ff5d1bfbea832e15f38c81d94b5610ded52d7c3a8b00",
+   "student": "bc8dd9941b1042c7f840ff5d1bfbea832e15f38c81d94b5610ded52d7c3a8b00"
+  },
+  "video-library/english/eco-t21-08/index.html": {
+   "source": "7e9a4c50ef745e4d43869e2c58ae476b02dde71cb5712aa88f201857d6aad52c",
+   "student": "7e9a4c50ef745e4d43869e2c58ae476b02dde71cb5712aa88f201857d6aad52c"
+  },
+  "video-library/english/eco-t21-09/index.html": {
+   "source": "e7866ab488c8d4ad210c338b3765ce78fce1298b83d136790f71a9a076656a45",
+   "student": "e7866ab488c8d4ad210c338b3765ce78fce1298b83d136790f71a9a076656a45"
+  },
+  "video-library/english/eco-t21-11/index.html": {
+   "source": "9efbab77bb29211fff7f6083bed0befadf030ccd749d16ccdad58d3ab223b503",
+   "student": "9efbab77bb29211fff7f6083bed0befadf030ccd749d16ccdad58d3ab223b503"
+  },
+  "video-library/english/eco-t21-12/index.html": {
+   "source": "c9a75dd2e01256585a36a6ce1237dc9bda5e31a9c4bb36abe42de086a3c71ec9",
+   "student": "c9a75dd2e01256585a36a6ce1237dc9bda5e31a9c4bb36abe42de086a3c71ec9"
+  },
+  "video-library/english/eco-t21-13/index.html": {
+   "source": "e2326791eaa1098eb0d6dd7d2dbdce2b1db8528630d646eb82f5cb0eb6b04da1",
+   "student": "e2326791eaa1098eb0d6dd7d2dbdce2b1db8528630d646eb82f5cb0eb6b04da1"
+  },
+  "video-library/english/eco-t21-14/index.html": {
+   "source": "1a80ebf87118a59ce315344f5804e8648154aeea47c43e8886d34dd69a52d1e6",
+   "student": "1a80ebf87118a59ce315344f5804e8648154aeea47c43e8886d34dd69a52d1e6"
+  },
+  "video-library/english/eco-t21-17/index.html": {
+   "source": "956bbf0d2a1d2cf5486d0c9e6966e01c5ab520fb6eb11a8158b3b502f534941b",
+   "student": "956bbf0d2a1d2cf5486d0c9e6966e01c5ab520fb6eb11a8158b3b502f534941b"
+  },
+  "video-library/english/eco-t21-20/index.html": {
+   "source": "52d8c9957d01f65ff4e6abe75f646ab690edb000c12c486f2fc1442444cd1af2",
+   "student": "52d8c9957d01f65ff4e6abe75f646ab690edb000c12c486f2fc1442444cd1af2"
+  },
+  "video-library/english/eco-t21-21/index.html": {
+   "source": "50aa3f4a8d686ccc43fed6927bb5e3d69ce8ed42e89c5e98109a11bbd90e225f",
+   "student": "50aa3f4a8d686ccc43fed6927bb5e3d69ce8ed42e89c5e98109a11bbd90e225f"
+  },
+  "video-library/english/eco-t21-25/index.html": {
+   "source": "d9648d78201fa61842e56c8e4a142e708a7033e9d1e458556e2bfc3b6e58ef35",
+   "student": "d9648d78201fa61842e56c8e4a142e708a7033e9d1e458556e2bfc3b6e58ef35"
+  },
+  "video-library/english/eco-t21-26/index.html": {
+   "source": "fef63d018d16a916f926a8a0066344155c5a1909aef53b66c8fa584fca6980fe",
+   "student": "fef63d018d16a916f926a8a0066344155c5a1909aef53b66c8fa584fca6980fe"
+  },
+  "video-library/english/eco-t21-28/index.html": {
+   "source": "0d558d2f3c7af0b907a55166c6c9c01f5cc5b2672d643a7bab8577e4bd446b8b",
+   "student": "0d558d2f3c7af0b907a55166c6c9c01f5cc5b2672d643a7bab8577e4bd446b8b"
+  },
+  "video-library/english/eco-t21-31/index.html": {
+   "source": "f646a1f61656c2b2cdd5ba6e7bbdd8334ef60596a2f626922acefad3c5ab870b",
+   "student": "f646a1f61656c2b2cdd5ba6e7bbdd8334ef60596a2f626922acefad3c5ab870b"
+  },
+  "video-library/english/eco-t21-33/index.html": {
+   "source": "7085676f2d098b8b691ded22fba95839673fcc8200e532c41dc89674dd459c42",
+   "student": "7085676f2d098b8b691ded22fba95839673fcc8200e532c41dc89674dd459c42"
+  },
+  "video-library/english/eco-t21-35/index.html": {
+   "source": "42adeb8856e8da7034a4e9a93d474ae67a73c336197c891d21475e53dac2fd3c",
+   "student": "42adeb8856e8da7034a4e9a93d474ae67a73c336197c891d21475e53dac2fd3c"
+  },
+  "video-library/english/eco-t22-01/index.html": {
+   "source": "244c6c4bba87ce9d387d1c7328898d5907a21665c835ed2d4de357b636e8f356",
+   "student": "244c6c4bba87ce9d387d1c7328898d5907a21665c835ed2d4de357b636e8f356"
+  },
+  "video-library/english/eco-t22-02/index.html": {
+   "source": "b0deb97721d3a915297abce1f3a6bbcd54f352225a8d68ce21cfde690780da5c",
+   "student": "b0deb97721d3a915297abce1f3a6bbcd54f352225a8d68ce21cfde690780da5c"
+  },
+  "video-library/english/eco-t22-03/index.html": {
+   "source": "c75b7023663c85d2214da2a9c9549c729a052fd44c4f33dfe682b476289ddace",
+   "student": "c75b7023663c85d2214da2a9c9549c729a052fd44c4f33dfe682b476289ddace"
+  },
+  "video-library/english/eco-t22-04/index.html": {
+   "source": "1dd21cbec067f0a33490484ca2eb911b2d5d56504e07fa915b824496fe47d8c6",
+   "student": "1dd21cbec067f0a33490484ca2eb911b2d5d56504e07fa915b824496fe47d8c6"
+  },
+  "video-library/english/eco-t22-05/index.html": {
+   "source": "b4e4ab64fa64adb6f8c7a512102e5a8971b76a968641f2f89b2aaa467bc748f7",
+   "student": "b4e4ab64fa64adb6f8c7a512102e5a8971b76a968641f2f89b2aaa467bc748f7"
+  },
+  "video-library/english/eco-t22-06/index.html": {
+   "source": "9c04d03b21d0a01f082e49226aa15afb768f99c707e833a31b50cdabdfe75dc5",
+   "student": "9c04d03b21d0a01f082e49226aa15afb768f99c707e833a31b50cdabdfe75dc5"
+  },
+  "video-library/english/eco-t22-07/index.html": {
+   "source": "34635182018c764e7b7581867d3b367aab5fca81d7bb3504f4430cdf2b97945e",
+   "student": "34635182018c764e7b7581867d3b367aab5fca81d7bb3504f4430cdf2b97945e"
+  },
+  "video-library/english/eco-t22-08/index.html": {
+   "source": "da82410d31b92db661ca5732e9944aad0c80c58f79f527a98dbdf655f04d2e9c",
+   "student": "da82410d31b92db661ca5732e9944aad0c80c58f79f527a98dbdf655f04d2e9c"
+  },
+  "video-library/english/eco-t22-09/index.html": {
+   "source": "3f463b1bb93d52830d5490cc2e67622a9dc44943fcf0219a1eb013d4d166b586",
+   "student": "3f463b1bb93d52830d5490cc2e67622a9dc44943fcf0219a1eb013d4d166b586"
+  },
+  "video-library/english/eco-t22-10/index.html": {
+   "source": "b78c51b15db1b6418698f7c6503f50ab9c00a859a74c1151008bcedd3aef645d",
+   "student": "b78c51b15db1b6418698f7c6503f50ab9c00a859a74c1151008bcedd3aef645d"
+  },
+  "video-library/english/eco-t22-12/index.html": {
+   "source": "e729fd364befe2fd187bf2e4bd8d296e30b086ee835e7ad93656efb525acb1fe",
+   "student": "e729fd364befe2fd187bf2e4bd8d296e30b086ee835e7ad93656efb525acb1fe"
+  },
+  "video-library/english/eco-t22-13/index.html": {
+   "source": "f07fd4d9f06c45b5f18b2452b6989ac2f4dd5681daca499a5af7ae58bbb01f64",
+   "student": "f07fd4d9f06c45b5f18b2452b6989ac2f4dd5681daca499a5af7ae58bbb01f64"
+  },
+  "video-library/english/eco-t22-14/index.html": {
+   "source": "ed41c0f7edc6172b5ce7196fe2942d2f1d14b567a65ff61fe0587f80c4565af4",
+   "student": "ed41c0f7edc6172b5ce7196fe2942d2f1d14b567a65ff61fe0587f80c4565af4"
+  },
+  "video-library/lessons.html": {
+   "source": "3e068f01b4c90ac1fb7a971217be3fdc56970f1ff7bec02ff4975b7804400f91",
+   "student": "3e068f01b4c90ac1fb7a971217be3fdc56970f1ff7bec02ff4975b7804400f91"
+  }
+ },
+ "version": "teacher-content-v1"
+}

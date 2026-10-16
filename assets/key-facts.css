@@ -1,0 +1,38 @@
+.kf-page{max-width:1000px}
+.kf-chips{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px}
+.kf-chips a{border:1px solid var(--line);background:white;border-radius:999px;padding:5px 14px;font-size:12px;font-weight:600;text-decoration:none}
+.kf-chips a:hover{border-color:var(--coral)}
+.kf-print{margin:14px 0 4px}
+.kf-page section{border-top:1px solid var(--line);margin-top:26px;padding-top:6px;scroll-margin-top:20px}
+.kf-tip{background:#fdeeee;border-radius:8px;padding:10px 14px}
+.kf-topic{font-size:15px;margin:22px 0 10px}
+.kf-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.kf-card{background:white;border:1px solid var(--line);border-left:4px solid var(--coral);border-radius:9px;padding:14px 16px;min-width:0}
+.kf-card h4{margin:0 0 8px;font-size:14px;line-height:1.4}
+.kf-eq{margin:0;background:var(--paper);border-radius:6px;padding:7px 10px;font-weight:600;line-height:1.5}
+.kf-sym{margin:6px 0 0;font-weight:600;color:var(--blue)}
+.kf-units{margin:6px 0 0;font-size:12px;color:var(--muted)}
+.kf-paper{display:inline-block;vertical-align:middle;background:#edf0f5;color:var(--navy);border-radius:999px;padding:1px 8px;margin:0 0 8px;font-size:10px;font-weight:600;line-height:1.6;white-space:nowrap}
+.kf-list{margin:8px 0;padding-left:20px}
+.kf-list li{margin:5px 0}
+.kf-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 28px}
+.kf-note{font-size:12px;color:var(--muted)}
+.kf-end{border-top:1px solid var(--line);margin-top:30px;padding-top:14px;font-size:13px}
+.kf-page table{width:100%;border-collapse:collapse}
+.kf-page th,.kf-page td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.kf-page th{background:var(--paper);font-size:12px}
+@media(max-width:860px){.kf-grid{grid-template-columns:1fr 1fr}.kf-facts{grid-template-columns:1fr}}
+@media(max-width:560px){.kf-grid{grid-template-columns:1fr}}
+@media print{.ol-bar,.course-nav,.footer,.kf-chips,.kf-print,.kf-end,#olevels-page-pencil,.kf-dock{display:none!important}body{background:white}.kf-card{break-inside:avoid}.kf-grid{grid-template-columns:1fr 1fr}}
+.kf-p1{background:#e6f4ee;color:var(--green)}
+.kf-p2{background:#e8eef8;color:var(--blue)}
+.kf-topic .kf-paper{margin:0 0 0 6px}
+.kf-card .kf-paper{margin-bottom:8px}
+/* Brand watermark: olevels.com School logo at 25%, anchored to the page (never fixed). */
+.kf-page{position:relative}
+.kf-page::before{content:'';position:absolute;right:0;top:0;width:220px;height:86px;pointer-events:none;
+ background:url('../teach-me/assets/brand/olevels-logo.png') center/contain no-repeat;opacity:.25}
+.kf-card{position:relative}
+.kf-card::after{content:'';position:absolute;right:10px;bottom:8px;width:64px;height:25px;pointer-events:none;
+ background:url('../teach-me/assets/brand/olevels-logo.png') center/contain no-repeat;opacity:.25}
+@media print{.kf-page::before,.kf-card::after{opacity:.25!important}}

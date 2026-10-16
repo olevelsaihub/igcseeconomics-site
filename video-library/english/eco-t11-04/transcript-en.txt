@@ -1,0 +1,11 @@
+A small printing firm makes diaries and calendars, using the same printers and the same staff. Every hour spent on calendars is an hour not spent on diaries. Each axis shows one of the two goods. The production possibility curve bows outwards from the origin and touches both axes. Label it P P C, or P P F. Any point on the curve, like A, uses all the firm's resources. To make more of one good, the firm moves along the curve and makes less of the other.
+
+Step one, label both axes with the goods. Step two, draw a smooth curve bowed outwards, and label it. Step three, for a movement, mark point A, then point B further along towards the good that increases. Draw dashed lines to both axes, and an arrow from A to B. Step four, for economic growth, draw a second curve further out. Label the old one P P C one and the new one P P C two.
+
+Here is a real question from November 2020. Draw a P P F for a firm that can make diaries and calendars. Then show what happens if production of calendars increases. Three marks. The firm makes more calendars with the same resources. So it must make fewer diaries. That is a movement along the curve, not a new curve. Put diaries up the side and calendars along the bottom. Draw the bowed curve and label it P P F. Mark A high up, then B lower and to the right. Dashed lines show calendars rise from C one to C two, and diaries fall from D one to D two. Check your drawing. The curve and axes are labelled, calendars rise and diaries fall. This explanation is by olevels dot com, not an official mark scheme.
+
+A common mistake is labelling the axes price and quantity, or drawing a straight line. Use the two goods, and bow the curve outwards. Another is drawing a new curve when only one good increases. That is a movement along the same curve.
+
+Now you try. A farm can grow wheat and maize. Draw a P P C for the farm. Then show the effect of the farm buying better machinery. Label both curves. Pause here and work it out.
+
+Better machinery means the farm can grow more of both crops. That is growth, so draw a second curve further out. Label the old curve P P C one and the new one P P C two. Remember: label the axes with the goods, draw a bowed and labelled curve, then show A to B or a new curve. Now try the practice questions.

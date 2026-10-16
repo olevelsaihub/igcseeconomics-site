@@ -1,0 +1,42 @@
+# Course configured Economics + verified admins. Route existing files and nested paths through PHP.
+# No-store headers below keep pages out of shared caches.
+# SetEnv ECONOMICS_PRIVATE_CONFIG /home/appsolevels/economics-private/config.php is replaced at build time with: SetEnv ECONOMICS_PRIVATE_CONFIG <absolute path outside public_html>
+SetEnv ECONOMICS_PRIVATE_CONFIG /home/appsolevels/economics-private/config.php
+Options -Indexes -MultiViews
+DirectoryIndex disabled
+DirectorySlash Off
+AddDefaultCharset UTF-8
+RewriteEngine On
+# BEGIN OLEVELS CRAWLER BLOCK
+# Reject declared bots and scripting clients before PHP or authentication.
+RewriteCond %{HTTP_USER_AGENT} ^$ [OR]
+RewriteCond %{HTTP_USER_AGENT} bot|crawl|spider|scrap|ChatGPT-User|Claude-User|Perplexity-User|anthropic-ai|cohere-ai|Google-Extended|meta-external|facebookexternalhit|BingPreview|ia_archiver|archive\.org|omgili|ImageSift|curl/|wget/|python[-/]|httpx/|aiohttp/|libwww-perl|Go-http-client|Java/|node-fetch|undici|axios/|PostmanRuntime|HeadlessChrome|PhantomJS|HTTrack|Selenium|Playwright|Puppeteer [NC]
+RewriteRule ^ - [F,END]
+# END OLEVELS CRAWLER BLOCK
+RewriteRule ^teach-me/api\.php$ - [END]
+RewriteRule ^auth-gate\.php$ - [END]
+# Answer checking goes straight to the stateless checker, so it does not depend on the gate file.
+RewriteCond %{REQUEST_METHOD} =POST
+RewriteRule ^check$ marking/check.php [END]
+RewriteRule ^ auth-gate.php [END]
+<IfModule mod_expires.c>
+    ExpiresActive Off
+</IfModule>
+<IfModule mod_headers.c>
+    # BEGIN OLEVELS CRAWLER HEADERS
+    Header always set X-Robots-Tag "noindex, nofollow, nosnippet, noarchive, noimageindex"
+    Header always set X-Olevels-Crawler-Policy "no-crawl-v1"
+    # END OLEVELS CRAWLER HEADERS
+    Header always set Cache-Control "private, no-store, max-age=0"
+    Header always set CDN-Cache-Control "no-store"
+    Header always set Cloudflare-CDN-Cache-Control "no-store"
+    Header always set Pragma "no-cache"
+    Header always set Expires "0"
+    # Versioned player assets: seven-day private browser cache; HTML and API stay live.
+    Header onsuccess unset Cache-Control
+    Header onsuccess unset Pragma
+    Header onsuccess unset Expires
+    Header always set Cache-Control "private, max-age=604800" "expr=(%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 206) && %{THE_REQUEST} =~ m#^[A-Z]+ /igcseeconomics/teach-me/(?:[A-Za-z0-9_-]+\.(?:css|js|mjs|json)|assets/(?:fonts|brand)/[A-Za-z0-9_.-]+\.(?:ttf|woff2?|png|svg|webp))(?:[?][^ ]*)? HTTP/#"
+    Header always unset Pragma "expr=(%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 206) && %{THE_REQUEST} =~ m#^[A-Z]+ /igcseeconomics/teach-me/(?:[A-Za-z0-9_-]+\.(?:css|js|mjs|json)|assets/(?:fonts|brand)/[A-Za-z0-9_.-]+\.(?:ttf|woff2?|png|svg|webp))(?:[?][^ ]*)? HTTP/#"
+    Header always unset Expires "expr=(%{REQUEST_STATUS} == 200 || %{REQUEST_STATUS} == 206) && %{THE_REQUEST} =~ m#^[A-Z]+ /igcseeconomics/teach-me/(?:[A-Za-z0-9_-]+\.(?:css|js|mjs|json)|assets/(?:fonts|brand)/[A-Za-z0-9_.-]+\.(?:ttf|woff2?|png|svg|webp))(?:[?][^ ]*)? HTTP/#"
+</IfModule>

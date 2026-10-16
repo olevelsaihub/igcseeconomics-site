@@ -1,0 +1,11 @@
+A supermarket needs shelf stackers. The supermarket wants workers, and local people offer to work. They meet in the labour market, and agree a wage. Wage rate goes up the side, and quantity of workers along the bottom. Demand for labour slopes down. Supply of labour slopes up. They cross at the equilibrium wage, W e, and quantity, Q e. Changes in how many people can work move supply. More people available moves it right. Fewer people available moves it left.
+
+Step one, decide which curve moves. Step two, decide the direction. Step three, draw the new curve parallel to the old one, and label it S one. Step four, find where S one crosses demand. Step five, draw lines to both axes, and label the new wage, W one, and quantity, Q one. Here supply rose, so the wage falls and employment rises. Learn the two results. Supply right: wage falls, workers rise. Supply left: wage rises, workers fall.
+
+Here is a real question from June 2022. Draw the effects of an increase in the school-leaving age on the labour market. Label the new curve, the new wage rate and the new quantity of workers. Three marks. Young people must stay in education for longer. So fewer people are available to work, and the supply of labour shifts left. Draw S one parallel to S, on its left. Leave demand where it is. S one crosses demand higher up. Mark W one above W e, and Q one to the left of Q e. The wage rises and fewer workers are employed. This explanation is by olevels dot com, not an official mark scheme.
+
+A common mistake is shifting supply right for a higher school-leaving age. Fewer young people can work, so supply moves left. Another is moving demand, or forgetting the labels. Move supply, and label S one, W one and Q one.
+
+Now you try. Many workers move into the country of Varia to work on building sites. On a labour market diagram for building workers, show the effect. Label the new curve, wage and quantity. Pause here and work it out.
+
+This is immigration. More people are available to work on building sites, so the supply of labour shifts right. Draw S one to the right of S. It crosses demand lower down. W one is below W e, and Q one is to the right of Q e. The wage falls and more workers are employed. Remember: which curve and which way, draw and label it, then mark W one and Q one at the new crossing. Now try the practice questions.

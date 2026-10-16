@@ -1,0 +1,11 @@
+Imagine your family's income rises. You might buy more takeaway pizzas and fewer budget biscuits. Income changes demand. Income elasticity of demand, or Y E D, divides the percentage change in quantity demanded by the percentage change in income. Quantity on top, income underneath. The answer tells you the type of good. Below nought is inferior. Nought to one is a normal good that is a necessity. Above one is a luxury. For a luxury, demand grows faster than income. Income up ten per cent, demand up twenty per cent: Y E D is two.
+
+Step one. Write both changes with signs. Income rises five per cent, and demand for cheap noodles falls two per cent. Step two. Divide quantity by income. Minus two divided by five is minus nought point four. Step three: round if asked, and add no per cent sign. Step four. Classify. Minus nought point four is below nought, so cheap noodles are an inferior good. As incomes rise, demand shifts left.
+
+Here is a real question from June 2024. Income increases by seven per cent and quantity demanded increases by eleven per cent. Calculate Y E D to two decimal places. Two marks. Both changes are rises, so both are plus. Income plus seven, quantity plus eleven. Quantity on top. Eleven divided by seven is one point five seven one four. To two decimal places, one point five seven. One point five seven is above one: demand grows faster than income, so this is a luxury good. The question did not ask for this, but it is good practice. This explanation is by olevels dot com, not an official mark scheme.
+
+A common mistake is putting income on top. Seven over eleven gives the wrong answer. Another is calling a value between nought and one a luxury. That is a normal good, a necessity.
+
+Now you try. Incomes fall by four per cent, and demand for a supermarket's value bread rises by three per cent. Calculate Y E D to two decimal places, and name the type of good. Pause here and work it out.
+
+Income fell, so minus four. Demand rose, so plus three. Plus three divided by minus four is minus nought point seven five. It is negative, so the bread is an inferior good. Remember: quantity change over income change, keep the signs, round as asked, then classify. Now try the practice questions.

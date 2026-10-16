@@ -1,0 +1,11 @@
+Suppose the government taxes every imported tyre at the border. The importer now pays more to bring each tyre in. Like any rise in costs, sellers will only supply the same amount at a higher price. Here is the market diagram. Price goes up the side, quantity along the bottom. Demand, D, slopes down. Supply, S, slopes up. They cross at the equilibrium price, P e, and quantity, Q e. A tariff, or an indirect tax such as a fuel tax, adds to suppliers' costs. So supply shifts left. A subsidy is a payment from the government to producers. It lowers their costs, so supply shifts right.
+
+Step one. Decide the direction. A new tariff or tax, or a subsidy taken away, shifts supply left. A new subsidy, or a tariff or tax taken away, shifts supply right. Step two. Draw the new curve parallel to S, on the correct side, and label it. Step three. Find where it crosses D. Draw a dashed line across to P one, and down to Q one.
+
+Here is a real question from November 2023. China introduced a tariff on imports of large tyres. Draw the effect on the equilibrium price and quantity. Label the new curve, price and quantity. Three marks. A tariff is a tax on imports. It raises the cost of supplying tyres in China. So supply shifts left. Draw S one parallel to S, on its left. Label it S one, tariff. S one crosses D higher up. Draw across to P one, above P e, and down to Q one, left of Q e. The price of tyres rises, and fewer are bought. This explanation is by olevels dot com, not an official mark scheme.
+
+A common mistake is shifting demand. A tariff changes sellers' costs, so only supply moves. Another is getting the direction wrong when a tool is removed. Taking away a subsidy raises costs, so supply shifts left.
+
+Now you try. Country Q removes its tariff on imported solar panels. Show the effect on the market for solar panels, and label the new curve, price and quantity. Pause here and work it out.
+
+Removing the tariff lowers the cost of supplying solar panels. So supply shifts right. Draw S one to the right of S. It crosses D lower down. So P one is below P e, and Q one is to the right of Q e. Price falls and quantity rises. Remember: decide left or right, draw and label the new supply curve, then mark P one and Q one where it crosses D. Now try the practice questions.
