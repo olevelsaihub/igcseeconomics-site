@@ -2,3 +2,7 @@
 deployment:
   tasks:
     - /bin/chmod 755 /home/appsolevels/public_html/igcseeconomics
+    - /bin/mkdir -p /home/appsolevels/economics-private
+    - /bin/chmod 700 /home/appsolevels/economics-private
+    - /bin/cp .deploy/economics-private-config.php /home/appsolevels/economics-private/config.php
+    - /bin/chmod 600 /home/appsolevels/economics-private/config.php
