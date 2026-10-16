@@ -144,7 +144,7 @@
       const entry = manifest.parts?.[part.id];
       if (!entry) throw new Error(`The paper source for question ${index + 1} is unavailable.`);
       const sources = kind === 'scheme'
-        ? entry.schemes.map(id => `/igcseeconomics/mark-schemes/canonical/${id}.png`)
+        ? entry.schemes.map(id => `/igcseeconomics/scheme-images/${id}.jpg`)
         : questionSources(part, entry.boxes);
       for (let segment = 0; segment < sources.length; segment++) {
         const image = await loadImage(sources[segment]);

@@ -97,7 +97,7 @@ if (practiceHub) {
   }
 
   function getTeacherManifest() {
-    if (!teacherManifestPromise) teacherManifestPromise = fetch('/igcseeconomics/mark-schemes/paper-builder.json', { credentials: 'same-origin' })
+    if (!teacherManifestPromise) teacherManifestPromise = fetch('/igcseeconomics/question-images/paper-builder.json', { credentials: 'same-origin' })
       .then(async response => response.ok ? response.json() : null)
       .catch(() => null);
     return teacherManifestPromise;
@@ -280,7 +280,7 @@ if (practiceHub) {
       const actions = practiceHub.querySelector('[data-teacher-paper-downloads]');
       if (!actions) return;
       actions.hidden = false;
-      actions.innerHTML = '<strong>Teacher files</strong><button type="button" data-download-paper="question">Download full question paper (PDF)</button><button type="button" class="secondary" data-download-paper="scheme">Download marking scheme (PDF)</button>';
+      actions.innerHTML = '<strong>Paper files</strong><button type="button" data-download-paper="question">Download full question paper (PDF)</button><button type="button" class="secondary" data-download-paper="scheme">Download marking scheme (PDF)</button>';
     });
     renderCustomScore();
     if (!catalog) getCatalog().then(() => { if (activePaper?.id === paper.id) renderCustomScore(); }).catch(() => {});
