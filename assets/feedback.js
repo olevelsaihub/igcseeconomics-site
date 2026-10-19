@@ -247,7 +247,7 @@
       state = await response.json();
     } catch (e) { return; }
     if (!state || typeof state.csrf !== 'string') return;
-    document.head.append(el('link', { rel: 'stylesheet', href: '/igcseeconomics/assets/feedback.css?v=1' }));
+    document.head.append(el('link', { rel: 'stylesheet', href: '/igcseeconomics/assets/feedback.css?v=6bf481d7c8' }));
     tab = el('button', { type: 'button', class: 'pfb-tab', 'aria-haspopup': 'dialog' });
     updateTab();
     tab.addEventListener('click', () => openDialog('button'));

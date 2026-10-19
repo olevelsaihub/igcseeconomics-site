@@ -8,7 +8,7 @@
   const pdfMaker = () => pdfPromise ||= new Promise((resolve, reject) => {
     if (window.OlvPaperDownloads?.pdfBlob) return resolve(window.OlvPaperDownloads);
     const script = document.createElement('script');
-    script.src = '/igcseeconomics/assets/paper-downloads.js?v=1';
+    script.src = '/igcseeconomics/assets/paper-downloads.js?v=6bf481d7c8';
     script.onload = () => window.OlvPaperDownloads?.pdfBlob ? resolve(window.OlvPaperDownloads) : reject(new Error('The PDF tool is unavailable.'));
     script.onerror = () => reject(new Error('The PDF tool is unavailable. Please try again.'));
     document.head.append(script);
