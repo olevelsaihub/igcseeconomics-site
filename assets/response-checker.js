@@ -1,5 +1,5 @@
-import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=6bf481d7c8';
-import { checkWrittenAnswer } from './written-response-core.mjs?v=6bf481d7c8';
+import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=4760cdd745';
+import { checkWrittenAnswer } from './written-response-core.mjs?v=4760cdd745';
 
 const storageKey = 'igcseeconomics-practice-results-v1';
 const markingApi = '/igcseeconomics/';

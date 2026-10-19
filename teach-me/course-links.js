@@ -21,7 +21,7 @@
 })().catch(()=>{});
 
 // Student progress for teachers (where each student is). Never changes the page.
-(function(){if(window.olvProgress||document.querySelector('script[data-olv-progress]'))return;var s=document.createElement('script');s.src='/igcseeconomics/assets/progress.js?v=6bf481d7c8';s.defer=true;s.setAttribute('data-olv-progress','');document.head.appendChild(s);})();
+(function(){if(window.olvProgress||document.querySelector('script[data-olv-progress]'))return;var s=document.createElement('script');s.src='/igcseeconomics/assets/progress.js?v=4760cdd745';s.defer=true;s.setAttribute('data-olv-progress','');document.head.appendChild(s);})();
 
 // Bottom-left shortcut to the must-learn formulas and key facts (same idea as the Chemistry course).
 (function(){if(document.querySelector('.kf-dock')||/\/key-facts\.html$/.test(location.pathname))return;var a=document.createElement('a');a.className='kf-dock';a.href='/igcseeconomics/key-facts.html';a.textContent='Formulas & key facts';a.style.cssText='position:fixed;left:28px;bottom:25px;z-index:850;display:flex;align-items:center;border-radius:50px;background:#3B465A;color:#fff;padding:13px 21px;box-shadow:0 5px 24px #172b4d33;font:500 13px/1.2 Poppins,system-ui,sans-serif;text-decoration:none';if(innerWidth<600)a.style.cssText+=';left:16px;bottom:16px;padding:12px 15px';var s=document.createElement('style');s.textContent='@media print{.kf-dock{display:none!important}}.kf-dock:hover{background:#e4464f!important}.kf-dock:focus-visible{outline:3px solid #e4464f;outline-offset:3px}';document.head.appendChild(s);document.body.appendChild(a);})();
