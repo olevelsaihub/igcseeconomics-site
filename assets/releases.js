@@ -1,5 +1,5 @@
 (()=>{'use strict';
-if(!document.querySelector('link[data-release-style]')){const style=document.createElement('link');style.rel='stylesheet';style.href='/igcseeconomics/assets/releases.css?v=4760cdd745';style.setAttribute('data-release-style','');document.head.append(style);}
+if(!document.querySelector('link[data-release-style]')){const style=document.createElement('link');style.rel='stylesheet';style.href='/igcseeconomics/assets/releases.css?v=c9d8561a08';style.setAttribute('data-release-style','');document.head.append(style);}
 const base='/igcseeconomics/teach-me/api.php';
 const adminRoot=document.querySelector('[data-release-admin]');
 const header=document.querySelector('.ol-bar');
