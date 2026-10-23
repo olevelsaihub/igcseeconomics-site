@@ -130,7 +130,7 @@ if (practiceHub) {
   function loadPdfBuilder() {
     if (!pdfBuilderPromise) pdfBuilderPromise = new Promise((resolve, reject) => {
       const script = document.createElement('script');
-      script.src = '/igcseeconomics/assets/paper-downloads.js?v=95aee88968';
+      script.src = '/igcseeconomics/assets/paper-downloads.js?v=7a7cd43748';
       script.onload = () => resolve(window.OlvPaperDownloads);
       script.onerror = () => reject(new Error('The PDF builder could not load. Please try again.'));
       document.head.append(script);
