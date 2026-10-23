@@ -1,0 +1,11 @@
+Idea۔ آپ کا pocket money بیس dollars سے بڑھ کر پچیس dollars ہو جاتا ہے۔ یعنی پانچ dollars زیادہ، اس بیس کے مقابلے میں جس سے آپ نے شروع کیا تھا۔ بیس میں سے پانچ، پچیس per cent ہے۔ تو percentage change ہے، new minus old، تقسیم old، ضرب ایک سو۔ ہمیشہ old، یعنی پہلی value سے divide کریں۔ Inflation کو consumer price index سے ناپا جاتا ہے۔ base year کا index ایک سو ہو، اور اب ایک سو بارہ ہو، تو base year کے بعد سے prices بارہ per cent بڑھی ہیں۔
+
+Method۔ پہلا step، وہ دو values چنیں جو question مانگتا ہے۔ دو ہزار اکیس سے دو ہزار تئیس تک، چار سو اور چار سو ساٹھ لیں۔ دو ہزار بائیس چھوڑ دیں۔ دوسرا step، change نکالیں، ساٹھ۔ تیسرا step، old value سے divide کریں اور ایک سو سے multiply کریں، پندرہ per cent۔ اگر old index ایک سو نہ ہو تو پورا formula استعمال کریں۔ ایک سو بیس سے ایک سو چھبیس تک، change چھ ہے، تقسیم ایک سو بیس، یعنی پانچ per cent۔ fall ہو تو minus sign آتا ہے۔ پچاس سے پینتالیس تک، minus دس per cent ہے۔ پانچواں step، جیسا کہا جائے round کریں، اور per cent کا sign ہمیشہ لکھیں۔
+
+Worked Example۔ یہ نومبر دو ہزار اکیس کا اصل question ہے۔ table میں ایک firm کا profit دو ہزار سترہ سے دو ہزار انیس تک ہے۔ دو ہزار سترہ اور دو ہزار انیس کے درمیان profit میں percentage change، دو decimal places تک Calculate کریں۔ دو marks۔ Old value دو ہزار سترہ کی ہے، اسی ہزار سات سو پچاس dollars۔ New value دو ہزار انیس کی ہے، ستاسی ہزار ایک سو dollars۔ دو ہزار اٹھارہ کو نظر انداز کریں۔ Change چھ ہزار تین سو پچاس ہے۔ اسے اسی ہزار سات سو پچاس سے divide کریں اور ایک سو سے multiply کریں، سات اعشاریہ آٹھ چھ تین۔ دو decimal places تک، سات اعشاریہ آٹھ چھ per cent۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی new value سے divide کرنا ہے۔ اس سے سات اعشاریہ دو نو per cent آتا ہے، جو غلط ہے۔ ایک اور غلطی یہ ہے کہ old index ایک سو نہ ہو تب بھی index minus ایک سو استعمال کیا جائے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک country کا CPI دو ہزار تئیس میں ایک سو چالیس، اور دو ہزار چوبیس میں ایک سو سینتالیس تھا۔ دو decimal places تک rate of inflation Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ Change سات ہے۔ سات تقسیم ایک سو چالیس، ضرب ایک سو، پانچ ہے۔ دو decimal places تک، پانچ اعشاریہ صفر صفر per cent۔ یعنی price level، اپنی شروع کی سطح کے پانچ per cent بڑھا۔ یاد رکھیں، old اور new چنیں، change نکالیں، old value سے divide کریں، ایک سو سے multiply کریں، پھر round کریں اور per cent کا sign لگائیں۔ اب practice questions کریں۔

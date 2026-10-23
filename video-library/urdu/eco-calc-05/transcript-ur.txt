@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ کے خاندان کی income بڑھ جاتی ہے۔ آپ takeaway pizzas زیادہ خریدیں گے اور سستے biscuits کم۔ Income، demand کو بدلتی ہے۔ Income elasticity of demand، یعنی Y E D، quantity demanded کی percentage change کو income کی percentage change سے divide کرتی ہے۔ اوپر quantity، نیچے income۔ جواب بتاتا ہے کہ good کی type کیا ہے۔ صفر سے کم ہو تو inferior۔ صفر سے ایک تک normal good ہے جو necessity ہے۔ ایک سے اوپر ہو تو luxury۔ Luxury میں demand، income سے تیز بڑھتی ہے۔ Income دس per cent اوپر، demand بیس per cent اوپر، تو Y E D دو ہے۔
+
+Method۔ Step ایک۔ دونوں changes signs کے ساتھ لکھیں۔ Income پانچ per cent بڑھتی ہے، اور سستے noodles کی demand دو per cent گھٹتی ہے۔ Step دو۔ quantity کو income سے divide کریں۔ Minus دو تقسیم پانچ، minus صفر اعشاریہ چار۔ Step تین، پوچھا جائے تو round کریں، اور per cent sign نہ لگائیں۔ Step چار۔ Classify کریں۔ Minus صفر اعشاریہ چار، صفر سے کم ہے، اس لیے سستے noodles inferior good ہیں۔ Income بڑھنے پر demand بائیں طرف shift ہوتی ہے۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا real question ہے۔ Income سات per cent بڑھتی ہے اور quantity demanded گیارہ per cent بڑھتی ہے۔ Y E D کو دو decimal places تک Calculate کریں۔ دو marks۔ دونوں changes rises ہیں، اس لیے دونوں plus۔ Income plus سات، quantity plus گیارہ۔ اوپر quantity۔ گیارہ تقسیم سات، ایک اعشاریہ پانچ سات ایک چار۔ دو decimal places تک، ایک اعشاریہ پانچ سات۔ ایک اعشاریہ پانچ سات، ایک سے اوپر ہے۔ Demand، income سے تیز بڑھی، اس لیے یہ luxury good ہے۔ سوال میں یہ نہیں پوچھا گیا تھا، مگر کرنا اچھی practice ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: income کو اوپر رکھ دینا۔ سات over گیارہ غلط جواب دیتا ہے۔ ایک اور غلطی، صفر اور ایک کے درمیان کی value کو luxury کہنا۔ وہ normal good ہے، یعنی necessity۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Incomes چار per cent گھٹتی ہیں، اور ایک supermarket کی value bread کی demand تین per cent بڑھتی ہے۔ Y E D کو دو decimal places تک Calculate کریں، اور good کی type کا نام بتائیں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ Income گھٹی، اس لیے minus چار۔ Demand بڑھی، اس لیے plus تین۔ Plus تین تقسیم minus چار، minus صفر اعشاریہ سات پانچ۔ یہ negative ہے، اس لیے bread inferior good ہے۔ یاد رکھیں، quantity کی change کو income کی change پر رکھیں، signs رکھیں، پوچھنے پر round کریں، پھر classify کریں۔ اب practice questions کریں۔

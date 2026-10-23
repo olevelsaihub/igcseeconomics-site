@@ -1,0 +1,11 @@
+Idea۔ ایک school trip کی bus میں چالیس seats ہیں، مگر پچپن pupils جانا چاہتے ہیں۔ پچپن minus چالیس، پندرہ pupils رہ جاتے ہیں۔ چاہنے والے زیادہ ہیں، seats کم۔ quantity demanded بڑی ہو تو excess demand ہے، یعنی demand minus supply۔ quantity supplied بڑی ہو تو excess supply ہے، یعنی supply minus demand۔ ہمیشہ بڑی میں سے چھوٹی subtract کریں۔ graph پر price کی سطح پر دائیں طرف دیکھیں۔ یہاں quantity demanded، quantity supplied کے دائیں طرف ہے، اس لیے excess demand ہے۔
+
+Method۔ پہلا step، total demand نکالیں۔ graph پڑھیں، یا table کے سب figures جمع کریں۔ دوسرا step، اسی period کی total supply نکالیں۔ تیسرا step، بڑی میں سے چھوٹی subtract کریں اور نتیجہ units کے ساتھ لکھیں۔
+
+Worked Example۔ یہ جون دو ہزار بائیس کا real question ہے۔ Malaysia کا ایک concert venue، تین concerts کے لیے demanded tickets دکھاتا ہے۔ تینوں کی supply کل نو ہزار چھ سو ہے۔ Excess demand Calculate کریں۔ دو marks۔ Table پڑھیں، چار ہزار دو سو، چھ ہزار، اور تین ہزار دو سو پچاس tickets۔ انہیں جمع کریں۔ چار ہزار دو سو plus چھ ہزار plus تین ہزار دو سو پچاس، تیرہ ہزار چار سو پچاس۔ Compare کریں۔ تیرہ ہزار چار سو پچاس tickets demanded ہیں، مگر صرف نو ہزار چھ سو supplied ہیں۔ Demand بڑی ہے، اس لیے excess demand ہے۔ تیرہ ہزار چار سو پچاس minus نو ہزار چھ سو، تین ہزار آٹھ سو پچاس۔ Excess demand، تین ہزار آٹھ سو پچاس tickets ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: ایک concert کا تینوں کے total سے موازنہ کرنا۔ پہلے demand کے سب figures جمع کریں۔ ایک اور غلطی، الٹا subtract کر کے negative جواب لینا۔ بڑی میں سے چھوٹی subtract کریں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک ferry company تین دنوں میں دو ہزار پانچ سو seats دیتی ہے۔ مسافر جمعہ کو سات سو، ہفتے کو نو سو اور اتوار کو چھ سو پچاس چاہتے ہیں۔ Calculate کریں کہ excess demand ہے یا excess supply۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ Demand جمع کریں۔ سات سو plus نو سو plus چھ سو پچاس، دو ہزار دو سو پچاس seats۔ Supply، دو ہزار پانچ سو، بڑی ہے۔ دو ہزار پانچ سو minus دو ہزار دو سو پچاس، دو سو پچاس۔ دو سو پچاس seats کی excess supply ہے۔ یاد رکھیں، total demand نکالیں، total supply نکالیں، بڑی میں سے چھوٹی subtract کریں، اور units کے ساتھ نام لکھیں۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ آپ bracelets پانچ dollars فی bracelet بیچتے ہیں۔ Beads اور دھاگے پر تین dollars فی bracelet لگتے ہیں۔ ہر ایک پر دو dollars بچتے ہیں۔ یہی آپ کا profit ہے۔ فی unit profit، selling price minus ایک unit کی تمام costs ہے۔ پہلے unit costs جمع کریں، beads دو dollars، دھاگہ ایک dollar۔ پوری firm کے لیے profit، total revenue minus total cost ہے۔ Total revenue، price ضرب بکی ہوئی quantity ہے۔ ایک stall کی آمدنی چھ سو dollars ہے اور costs چار سو پچاس۔ Revenue بڑی ہے، اس لیے ایک سو پچاس dollars کا profit ہے۔ Costs سات سو ہوتیں تو ایک سو dollars کا loss ہوتا۔
+
+Method۔ Step ایک، revenue نکالیں، price ضرب quantity، یا فی unit سوال میں صرف price۔ Step دو، اس کے مطابق cost نکالیں، total cost، یا تمام unit costs کا مجموعہ۔ Steps تین اور چار۔ Revenue میں سے cost subtract کریں اور working لکھیں۔ رقم currency کے ساتھ دیں، اور positive ہو تو profit، negative ہو تو loss کہیں۔
+
+Worked Example۔ یہ جون دو ہزار اکیس کا real question ہے۔ ایک firm جوتے انیاسی dollars فی جوڑی بیچتی ہے۔ Raw materials سترہ dollars اور labour پینتیس dollars فی جوڑی ہے۔ فی جوڑی profit یا loss Calculate کریں۔ دو marks۔ سوال فی جوڑی ہے، اس لیے selling price اور فی جوڑی costs استعمال کریں۔ فی جوڑی costs جمع کریں۔ سترہ plus پینتیس، باون dollars۔ Subtract کریں۔ انیاسی minus باون، سینتیس dollars۔ جواب positive ہے، اس لیے ہر جوڑی پر سینتیس dollars کا profit ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: unit costs میں سے صرف ایک cost minus کرنا۔ ایک اور غلطی، negative جواب کو profit کہنا۔ Negative جواب loss ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک tour company پچاس tickets، چالیس dollars فی ticket بیچتی ہے۔ Trip کی total costs دو ہزار تین سو dollars ہیں۔ Profit یا loss Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ Total revenue، چالیس ضرب پچاس، دو ہزار dollars ہے۔ دو ہزار minus دو ہزار تین سو، minus تین سو۔ Costs، revenue سے بڑی ہیں، اس لیے company کو تین سو dollars کا loss ہوتا ہے۔ یاد رکھیں، revenue نکالیں، اس کے مطابق cost نکالیں، subtract کریں، اور profit یا loss بتائیں۔ اب practice questions کریں۔

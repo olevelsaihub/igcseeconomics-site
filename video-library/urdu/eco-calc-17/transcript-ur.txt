@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ کے پچھلے تین test scores دس میں سے چھ، آٹھ اور دس تھے۔ آپ کا average وہ score ہے جو تینوں برابر ہوتے تو ملتا۔ Mean، یا average، تمام values کا sum تقسیم values کی تعداد ہے۔ چھ plus آٹھ plus دس، چوبیس۔ تین scores ہیں، تو چوبیس تقسیم تین، آٹھ۔ Exam data میں اکثر foreign direct investment، یعنی FDI آتی ہے۔ یہ وہ پیسہ ہے جو ایک ملک کی firm، دوسرے ملک کے businesses یا assets میں invest کرتی ہے۔
+
+Method۔ پہلا step، تمام values add کریں۔ دوسرا step، انہیں گنیں، اور sum کو count سے divide کریں۔ expression لکھیں۔ تیسرا step، دو decimal places تک round کریں اور unit رکھیں۔ یہ ایک مثال ہے جس میں rounding چاہیے۔ Unemployment rates چار اعشاریہ دو، پانچ اعشاریہ ایک اور تین اعشاریہ آٹھ per cent کا sum تیرہ اعشاریہ ایک ہے۔ تین سے divide کریں: چار اعشاریہ تین چھ چھ اور آگے۔ Round کر کے، چار اعشاریہ تین سات per cent۔
+
+Worked Example۔ یہ نومبر دو ہزار اکیس کا اصل question ہے۔ Figure چار میں دو ہزار سولہ سے دو ہزار انیس تک India کو ملنے والی FDI ہے۔ دو decimal places تک FDI کی سالانہ average value، billions of dollars میں Calculate کریں۔ دو marks۔ Figure چار کا data یہ ہے: پینتالیس اعشاریہ ایک چار، پچپن اعشاریہ پانچ پانچ، ساٹھ اعشاریہ نو آٹھ اور چونسٹھ اعشاریہ تین سات billion dollars۔ احتیاط سے add کریں، دو دو کر کے۔ Sum دو سو چھبیس اعشاریہ صفر چار ہے۔ چار سال ہیں، اس لیے چار سے divide کریں۔ دو سو چھبیس اعشاریہ صفر چار تقسیم چار، چھپن اعشاریہ پانچ ایک۔ Answer چھپن اعشاریہ پانچ ایک billion dollars ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی غلط count سے divide کرنا ہے۔ دو ہزار سولہ سے دو ہزار انیس چار سال ہیں، تین نہیں۔ ایک اور غلطی unit چھوڑ دینا ہے۔ Answer billions of dollars میں ہے۔
+
+Your Turn۔ اب آپ کریں۔ ایک country کے تین regions میں unemployment rates چار اعشاریہ چھ، سات اعشاریہ تین اور پانچ اعشاریہ نو per cent ہیں۔ دو decimal places تک average unemployment rate Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ یہ تینوں rates ساتھ ساتھ ہیں۔ Average سب سے چھوٹی اور سب سے بڑی value کے درمیان ہو گا۔ چار اعشاریہ چھ plus سات اعشاریہ تین plus پانچ اعشاریہ نو، سترہ اعشاریہ آٹھ۔ تین سے divide کریں: پانچ اعشاریہ نو تین تین اور آگے۔ Round کر کے، پانچ اعشاریہ نو تین per cent۔ یاد رکھیں، تمام values add کریں، جتنی ہیں اتنی سے divide کریں، دو decimal places تک round کریں، اور unit رکھیں۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ ایک T-shirt printer اپنی workshop کا rent دیتا ہے، اور ہر چھپنے والی T-shirt کے لیے ایک blank shirt خریدتا ہے۔ Rent ہر output پر پانچ سو dollars ہے۔ Blank shirts چار dollars فی shirt ہیں۔ Total cost کے لیے انہیں جمع کریں۔ Output صفر ہو تب بھی rent دینا پڑتا ہے۔ اس لیے output بڑھنے سے total cost بڑھتی ہے، مگر fixed cost سے کبھی نیچے نہیں جاتی۔
+
+Method۔ Steps ایک اور دو۔ پہلے total variable cost نکالیں، یعنی cost per unit ضرب units۔ پھر fixed cost جمع کریں۔ ایک سو پچاس shirts کے لیے، چھ سو dollars plus پانچ سو، ایک ہزار ایک سو dollars۔ Total cost دی ہو تو subtract کریں۔ Fixed cost، total cost minus variable cost ہے۔ Steps تین اور چار۔ ایک line میں لکھیں، fixed cost plus cost per unit ضرب quantity، اور جواب currency کے ساتھ دیں۔
+
+Worked Example۔ یہ نومبر دو ہزار اکیس کا real question ہے۔ ایک firm کی fixed costs پچاس ہزار dollars ماہانہ ہیں، اور variable costs دو سو پچاس dollars فی unit۔ وہ ماہانہ سات سو پچاس units بناتی ہے۔ ماہانہ total costs Calculate کریں۔ دو marks۔ تینوں figures چنیں، fixed cost، cost per unit، اور output۔ Total variable cost، دو سو پچاس ضرب سات سو پچاس ہے، یعنی ایک لاکھ ستاسی ہزار پانچ سو dollars۔ Fixed cost جمع کریں۔ پچاس ہزار plus ایک لاکھ ستاسی ہزار پانچ سو، دو لاکھ سینتیس ہزار پانچ سو dollars۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔ یہاں variable حصہ بہت بڑا ہے۔ دونوں مل کر total بناتے ہیں۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: cost per unit کو output سے multiply کیے بغیر fixed cost میں جمع کر دینا۔ ایک اور غلطی، output سے divide کر دینا۔ اس سے average cost آتی ہے، جبکہ سوال total مانگتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک food van کی fixed costs ماہانہ ایک ہزار دو سو dollars ہیں۔ Ingredients دو dollars پچاس cents فی meal ہیں، اور وہ ماہانہ نو سو meals بیچتی ہے۔ ماہانہ total costs Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ Variable cost، دو dollars پچاس ضرب نو سو، دو ہزار دو سو پچاس dollars ہے۔ ایک ہزار دو سو جمع کریں، total cost تین ہزار چار سو پچاس dollars ہے۔ تصویر دیکھیں، چھوٹی fixed cost اور بڑی variable cost مل کر total بنتی ہیں۔ یاد رکھیں، cost per unit ضرب quantity، fixed cost جمع کریں، اور total currency کے ساتھ لکھیں۔ اب practice questions کریں۔

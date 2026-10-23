@@ -1,0 +1,11 @@
+Idea۔ ایک کسان کے پاس ایک field ہے۔ وہ carrots یا potatoes اگا سکتی ہے۔ وہ زیادہ carrots لگائے تو potatoes کے لیے جگہ کم ہو جاتی ہے۔ Opportunity cost، وہ next best alternative ہے جو چھوڑنی پڑے۔ P P C پر A سے B جانے سے carrots زیادہ ملتی ہیں، مگر potatoes اسّی tonnes سے گھٹ کر ساٹھ tonnes رہ جاتے ہیں۔ بیس tonnes potatoes چھوڑے گئے۔ تو rule یہ ہے، دوسری good کی پرانی مقدار minus نئی مقدار۔ جواب اسی good کی units میں دیں۔
+
+Method۔ پہلا step، start point ڈھونڈیں اور دوسری good کی مقدار پڑھیں۔ دوسرا step، extra units جمع کریں اور دوسری good کی مقدار دوبارہ پڑھیں۔ تیسرا step، پرانی مقدار میں سے نئی مقدار subtract کریں اور لکھ کر دکھائیں۔ چوتھا step، چھوڑی گئی good کا نام units کے ساتھ لکھیں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس کا real question ہے۔ Output، دو سو پچاس units consumer goods ہے۔ Calculate کریں کہ چالیس extra units consumer goods بنانے کا opportunity cost کیا ہے۔ دو marks۔ Start ڈھونڈیں۔ دو سو پچاس consumer goods پر curve، پانچ سو units capital goods دیتی ہے۔ چالیس جمع کریں، دو سو پچاس plus چالیس، دو سو نوّے۔ دو سو نوّے consumer goods پر curve، چار سو capital goods دیتی ہے۔ Capital goods پانچ سو سے گھٹ کر چار سو رہ گئیں۔ پانچ سو minus چار سو، ایک سو۔ Opportunity cost، ایک سو units capital goods ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: وہ good subtract کر دینا جو بڑھی ہے۔ اضافی چالیس consumer goods آپ کا gain ہیں، وہ چھوڑی نہیں گئیں۔ ایک اور غلطی، صرف ایک عدد لکھ دینا۔ بتائیں کون سی good، اور units بھی لکھیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک ملک کے P P C پر ساٹھ cars بنانے پر نوّے tractors بن سکتے ہیں۔ اسّی cars بنائے تو ستّر tractors۔ اضافی بیس cars کا opportunity cost Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ ساٹھ سے اسّی cars جانے پر tractors نوّے سے ستّر ہو گئے۔ نوّے minus ستّر، بیس۔ Opportunity cost بیس tractors ہے۔ یاد رکھیں، start پڑھیں، نیا point پڑھیں، چھوڑی گئی good subtract کریں، اور units کے ساتھ نام لکھیں۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ دو سو seats والے concert hall کا سوچیں۔ کتنے ہی لوگ قطار میں ہوں، اور کتنی ہی price دیں، صرف دو سو اندر جا سکتے ہیں۔ تعداد مقرر ہے۔ کسی quota سے پہلے، demand اور supply، equilibrium price، P e، اور quantity، Q e، پر ملتی ہیں۔ Quota، کسی good کی imported quantity پر قانونی limit ہے۔ price کچھ بھی ہو، اس سے زیادہ supply نہیں ہو سکتی۔ اس لیے supply، quota پر ایک vertical line بن جاتی ہے۔ یہ perfectly inelastic supply ہے۔
+
+Method۔ پہلا step۔ دیکھیں quota کہاں ہے۔ Q e سے نیچے نیا quota، یا زیادہ سخت quota، left میں جاتا ہے۔ بڑا quota لائن کو right میں لے جاتا ہے۔ دوسرا step۔ vertical line draw کریں اور اسے S one، quota لکھیں۔ تیسرا step۔ جہاں یہ D سے ملے، P one تک dashed line آڑی کھینچیں۔ چوتھا step۔ quantity axis پر اس کے پاؤں کو Q one لکھیں۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا real question ہے۔ China نے crude oil کی imports پر quota لگایا۔ equilibrium price اور quantity پر effect draw کریں، اور نئے curve، price اور quantity کو label کریں۔ تین marks۔ Quota، oil imports کو پہلے خریدی جانے والی مقدار سے کم تک محدود کرتا ہے۔ اس لیے vertical line، Q e کے left میں جاتی ہے۔ vertical line draw کریں اور اسے S one، quota لکھیں۔ یہ D کو P e سے اوپر کاٹتی ہے۔ P e سے اونچی P one تک آڑی لائن کھینچیں۔ اس کا پاؤں Q one ہے، جو Q e سے کم ہے۔ crude oil کی price بڑھتی ہے اور کم خریدا جاتا ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی sloping supply curve کو parallel shift کرنا ہے۔ Quota، quantity کو fix کرتا ہے، اس لیے لائن vertical ہونی چاہیے۔ دوسری غلطی، quota بڑھنے پر لائن غلط طرف رکھنا ہے۔ زیادہ مقدار کی اجازت ہے، اس لیے لائن right میں جاتی ہے اور price گرتی ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Country K، imported sugar پر quota لگاتا ہے، جو موجودہ خریدی جانے والی quantity سے کم ہے۔ sugar market پر effect دکھائیں، اور نئے curve، price اور quantity کو label کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Quota، Q e سے نیچے ہے، اس لیے Q e کے left میں vertical line draw کریں اور اسے S one، quota لکھیں۔ جہاں لائن D سے ملے، وہاں سے P e کے اوپر P one تک آڑی لائن کھینچیں۔ Q one اس کے پاؤں پر ہے، Q e کے left میں۔ sugar کی price بڑھتی ہے، اور quantity گرتی ہے۔ یاد رکھیں: طرف معلوم کریں، vertical line draw کر کے label کریں، پھر جہاں وہ D سے ملے وہاں P one، اور اس کے پاؤں پر Q one mark کریں۔ اب practice questions کریں۔

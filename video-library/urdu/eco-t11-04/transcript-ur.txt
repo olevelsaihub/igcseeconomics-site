@@ -1,0 +1,11 @@
+Idea۔ ایک چھوٹی printing firm diaries اور calendars بناتی ہے، انہی printers اور انہی staff کے ساتھ۔ Calendars پر لگا ہوا ہر گھنٹہ diaries پر نہیں لگتا۔ ہر axis دو goods میں سے ایک کو دکھاتا ہے۔ Production possibility curve، origin سے باہر کی طرف جھکی ہوتی ہے اور دونوں axes کو چھوتی ہے۔ اسے PPC، یا PPF، label کریں۔ Curve پر کوئی بھی point، جیسے A، firm کے تمام resources استعمال کرتا ہے۔ ایک good زیادہ بنانے کے لیے firm curve پر آگے بڑھتی ہے اور دوسری کم بناتی ہے۔
+
+Method۔ پہلا step، دونوں axes کو goods کے نام سے label کریں۔ دوسرا step، باہر کی طرف جھکی ہوئی smooth curve بنائیں، اور label کریں۔ تیسرا step، movement کے لیے point A لگائیں، پھر point B اس good کی طرف آگے جو بڑھ رہی ہے۔ دونوں axes تک dashed lines کھینچیں، اور A سے B تک arrow۔ چوتھا step، economic growth کے لیے دوسری curve اور باہر بنائیں۔ پرانی کو PPC one اور نئی کو PPC two label کریں۔
+
+Worked Example۔ یہ نومبر دو ہزار بیس کا اصل question ہے۔ ایسی firm کی PPF بنائیں جو diaries اور calendars بنا سکتی ہے۔ پھر دکھائیں کہ calendars کی production بڑھے تو کیا ہوتا ہے۔ تین marks۔ Firm انہی resources سے زیادہ calendars بناتی ہے۔ اس لیے اسے diaries کم بنانی پڑیں گی۔ یہ curve پر movement ہے، نئی curve نہیں۔ Diaries کو side پر اوپر، اور calendars کو نیچے رکھیں۔ جھکی ہوئی curve بنائیں اور اسے PPF label کریں۔ A کو اوپر لگائیں، پھر B کو نیچے اور دائیں طرف۔ Dashed lines دکھاتی ہیں کہ calendars C one سے C two تک بڑھتے ہیں، اور diaries D one سے D two تک گھٹتی ہیں۔ اپنی drawing check کریں۔ Curve اور axes label ہیں، calendars بڑھ رہے ہیں اور diaries گھٹ رہی ہیں۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی axes کو price اور quantity label کرنا، یا سیدھی line بنانا ہے۔ دونوں goods استعمال کریں، اور curve کو باہر کی طرف جھکائیں۔ ایک اور غلطی نئی curve بنانا ہے، جب صرف ایک good بڑھی ہو۔ وہ اسی curve پر movement ہے۔
+
+Your Turn۔ اب آپ کریں۔ ایک farm wheat اور maize اگا سکتا ہے۔ Farm کی PPC بنائیں۔ پھر دکھائیں کہ farm بہتر machinery خریدے تو کیا اثر ہوتا ہے۔ دونوں curves label کریں۔ یہاں رک کر خود بنائیں۔
+
+Answer۔ بہتر machinery کا مطلب ہے کہ farm دونوں فصلیں زیادہ اگا سکتا ہے۔ یہ growth ہے، اس لیے دوسری curve اور باہر بنائیں۔ پرانی curve کو PPC one اور نئی کو PPC two label کریں۔ یاد رکھیں، axes کو goods سے label کریں، جھکی ہوئی label شدہ curve بنائیں، پھر A سے B دکھائیں یا نئی curve۔ اب practice questions کریں۔

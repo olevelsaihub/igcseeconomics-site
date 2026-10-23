@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ ایک café میں Saturday job کرتے ہیں۔ آپ کو ہر گھنٹے کے چھ pounds ملتے ہیں۔ چار گھنٹے کام کریں تو چوبیس pounds کماتے ہیں۔ یہ example figures ہیں۔ Wage، labour کو کام کی payment ہے، اکثر فی گھنٹہ طے ہوتی ہے۔ Minimum wage، وہ کم سے کم فی گھنٹہ pay ہے جو employer قانوناً دے سکتا ہے۔ Gross income، tax کٹنے سے پہلے کی pay ہے۔ تو gross income برابر hourly wage ضرب hours worked۔ ہر گھنٹہ چھ pounds اور جوڑتا ہے، چھ، بارہ، اٹھارہ، چوبیس۔
+
+Method۔ Step ایک۔ Hourly wage ڈھونڈیں۔ پھر اس مدت کے hours worked ڈھونڈیں جس کے بارے میں سوال ہے، ہفتہ یا مہینہ۔ Step دو۔ Multiply کریں اور calculation لکھیں۔ مثلاً چھ pounds چالیس pence فی گھنٹہ، بیس گھنٹوں کے لیے۔ چھ pounds چالیس ضرب بیس، ایک سو اٹھائیس pounds۔ Step تین۔ جواب currency sign اور دو decimal places کے ساتھ دیں۔ بیس گھنٹے ایک گھنٹے سے بہت زیادہ کماتے ہیں، اس لیے معقول جواب rate سے بہت بڑا ہوتا ہے۔
+
+Worked Example۔ یہ جنوری دو ہزار بیس کا real question ہے۔ Andorra کی minimum wage بڑھ کر پانچ euros ستاسی فی گھنٹہ ہو گئی۔ ایک worker جسے minimum wage ملتی ہے، اور جو ماہانہ ایک سو پچھتر گھنٹے کام کرتا ہے، اس کی monthly gross income Calculate کریں۔ دو marks۔ دو figures چنیں۔ Hourly wage پانچ euros ستاسی ہے۔ Hours ماہانہ ایک سو پچھتر ہیں۔ پانچ euros ستاسی ضرب ایک سو پچھتر، ایک ہزار ستائیس euros پچیس۔ یہی monthly gross income ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔ جلدی check کریں۔ تقریباً چھ euros ضرب ایک سو پچھتر، ایک ہزار پچاس euros۔ ہمارا جواب قریب ہے، اس لیے decimal کی غلطی نہیں ہوئی۔
+
+Common Mistake۔ ایک عام غلطی: صرف hourly rate لکھ دینا۔ سوال پورے مہینے کی pay مانگتا ہے، اس لیے hours سے multiply کریں۔ ایک اور غلطی، decimal کی غلطی، یا currency sign چھوڑ دینا۔ پہلے اندازہ لگائیں، اور euro sign لکھیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک example country میں café worker کو minimum wage، سات pounds پینتالیس pence فی گھنٹہ ملتی ہے، اور وہ ہفتے میں بتیس گھنٹے کام کرتا ہے۔ Weekly gross income Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ سات pounds پینتالیس ضرب بتیس، دو سو اڑتیس pounds چالیس۔ دیکھیں یہ کیسے بنتا ہے۔ دس گھنٹے کے چوہتر pounds پچاس۔ تیس گھنٹوں کے دو سو تئیس pounds پچاس۔ بتیس گھنٹوں کے دو سو اڑتیس pounds چالیس۔ یاد رکھیں، rate اور hours ڈھونڈیں، multiply کر کے دکھائیں، پھر currency اور دو decimal places دیں۔ اب practice questions کریں۔

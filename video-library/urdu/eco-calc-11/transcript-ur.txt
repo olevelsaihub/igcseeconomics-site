@@ -1,0 +1,11 @@
+Idea۔ Juice bar A میں تین workers ہیں جو روزانہ ایک سو پچاس smoothies بناتے ہیں۔ Juice bar B میں پانچ workers ہیں جو دو سو بناتے ہیں۔ B کی total output زیادہ ہے، مگر اس کا ہر worker کم بناتا ہے۔ Labour productivity، ایک مقررہ مدت میں فی worker بنائی گئی output ہے۔ Total output کو workers کی تعداد سے divide کریں۔ ایک سو پچاس تقسیم تین، پچاس۔ دو سو تقسیم پانچ، چالیس۔ جواب output کی units فی worker میں ہوتا ہے، جیسے smoothies یا cars۔ یہ کبھی dollars میں نہیں ہوتا۔
+
+Method۔ Step ایک، اس مدت کی total output لیں۔ Step دو، اسے workers کی تعداد سے divide کریں۔ Step تین، جواب units per worker میں دیں۔ یہ کیوں اہم ہے؟ اگر ہر worker زیادہ بنائے تو ہر unit کی wage cost گھٹتی ہے، اس لیے firm کی cost per unit گھٹ سکتی ہے۔
+
+Worked Example۔ یہ نومبر دو ہزار تئیس کا real question ہے۔ ایک firm کے ایک سو پینتیس workers ہیں اور وہ ماہانہ تینتیس ہزار سات سو پچاس units بناتی ہے۔ ماہانہ labour productivity کیا ہے؟ ایک mark۔ Output کو workers سے divide کریں۔ تینتیس ہزار سات سو پچاس تقسیم ایک سو پینتیس، دو سو پچاس۔ Check کریں، ایک سو پینتیس ضرب دو سو پچاس سے output واپس ملتی ہے۔ اب options۔ A میں عدد صحیح ہے مگر dollars میں ہے، اس لیے غلط ہے۔ B اور D multiply کرنے سے آتے ہیں۔ C، دو سو پچاس units، صحیح ہے۔ Answer C ہے، دو سو پچاس units per worker ماہانہ۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی یہ ہے: الٹا divide کرنا۔ Workers تقسیم output ایک چھوٹا عدد دیتا ہے جس کا کوئی مطلب نہیں بنتا۔ ایک اور غلطی، dollars میں جواب چننا۔ Productivity units گنتی ہے، پیسے نہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک bakery کے بارہ workers ہفتے میں چار ہزار آٹھ سو loaves بناتے ہیں۔ Labour productivity Calculate کریں۔ اگلے سال پندرہ workers پانچ ہزار چار سو loaves بناتے ہیں۔ Productivity بڑھی یا گھٹی؟ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ چار ہزار آٹھ سو تقسیم بارہ، چار سو loaves per worker۔ اگلے سال پانچ ہزار چار سو تقسیم پندرہ، تین سو ساٹھ۔ تو productivity گھٹ گئی، چار سو سے تین سو ساٹھ، حالانکہ total output بڑھی۔ Workers کی تعداد output سے تیز بڑھی۔ یاد رکھیں، total output لیں، workers کی تعداد سے divide کریں، اور جواب units per worker میں دیں۔ اب practice questions کریں۔

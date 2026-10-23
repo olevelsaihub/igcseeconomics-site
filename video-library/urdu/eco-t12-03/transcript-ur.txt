@@ -1,0 +1,11 @@
+Idea۔ Pie chart ایک دائرہ ہے جو pizza کی طرح slices میں کٹا ہوتا ہے۔ یہاں پورا دائرہ ایک ملک کے تمام workers ہیں۔ ہر slice اس sector میں کام کرنے والوں کا حصہ ہے۔ Japan جیسے developed country میں T سب سے بڑا slice ہے، آدھے سے کافی زیادہ۔ S دوسرے نمبر پر ہے، تقریباً ایک چوتھائی۔ P صرف ایک پتلا slice ہے۔ یہ sizes مثال ہیں، اصل figures نہیں۔ Nepal جیسے developing country میں P سب سے بڑا slice ہے، اور یہ دائرے کے کم از کم آدھے کے برابر ہونا چاہیے۔ باقی S اور T میں بٹتا ہے۔
+
+Method۔ پہلا step، طے کریں کہ ملک developed ہے یا developing۔ دوسرا step، مرکز سے سیدھی اوپر نیچے ایک لکیر کھینچیں تاکہ دائرہ آدھا آدھا بٹ جائے۔ تیسرا step، slices کے sizes بنائیں۔ Developed: T آدھے سے زیادہ، S تقریباً ایک چوتھائی، P دسویں حصے سے کم۔ Developing: P آدھے سے زیادہ، پھر باقی S اور T میں بانٹیں۔ چوتھا step، ہر slice کے اندر P، S اور T صاف لکھیں۔
+
+Worked Example۔ یہ جون دو ہزار اکیس کا real question ہے۔ Blank pie chart پر Haiti جیسی developing economy کے primary، secondary اور tertiary sectors کے sizes draw اور label کریں۔ تین marks۔ Haiti developing economy ہے، اس لیے زیادہ تر لوگ farming اور دوسری primary jobs میں کام کرتے ہیں۔ P سب سے بڑا slice ہونا چاہیے، اور آدھے سے زیادہ۔ درمیانی لکیر کھینچیں۔ P کو پورا ایک آدھا اور تھوڑا اور دیں، تقریباً ساٹھ per cent۔ باقی بانٹیں: T تقریباً تیس per cent، S تقریباً دس۔ ہر slice کو label کریں۔ ساٹھ plus تیس plus دس، ایک سو per cent بنتے ہیں، یعنی پورا دائرہ۔ Protractor سے ہر ایک per cent، تین اعشاریہ چھ degrees ہے، تو P دو سو سولہ degrees ہے، مگر موٹے اندازے بھی ٹھیک ہیں۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی P کو سب سے بڑا slice بنانا ہے مگر آدھے سے کم۔ Developing country میں P کو درمیانی لکیر تک پہنچنا چاہیے۔ ایک اور غلطی تین برابر slices بنانا، یا labels بھول جانا ہے۔ Sizes کی ترتیب واضح رکھیں، اور ہر slice کو label کریں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Blank pie chart پر Canada جیسی developed economy کے تینوں sectors کے sizes draw اور label کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Canada developed ہے، اس لیے T سب سے بڑا slice ہے، تقریباً پچھتر per cent۔ S تقریباً بیس ہے، اور P تقریباً پانچ کا پتلا slice ہے۔ یہ ایک سو بنتے ہیں۔ یاد رکھیں، developed یا developing طے کریں، دائرے کو آدھا کریں، slices کے sizes بنائیں، اور P، S اور T لکھیں۔ اب practice questions کریں۔

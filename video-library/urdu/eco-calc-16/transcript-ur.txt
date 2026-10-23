@@ -1,0 +1,11 @@
+Idea۔ ایک بڑے pizza کا تصور کریں۔ دو دوستوں میں بانٹیں تو ہر ایک کو بہت ملتا ہے۔ دس میں بانٹیں تو ہر ایک کو پتلا slice ملتا ہے۔ ملک کی output بھی اسی طرح کام کرتی ہے۔ دو countries ہر ایک ایک سو billion dollars پیدا کرتی ہے۔ Country A کے دس million لوگ ہیں، تو ہر ایک کے حصے میں دس ہزار dollars۔ Country B کے ایک سو million لوگ ہیں، تو ہر ایک کے حصے میں صرف ایک ہزار dollars۔ تو GDP per capita ہے، GDP تقسیم population، یعنی فی شخص اوسط output۔ پہلے دونوں numbers کو same units میں لکھیں۔ ایک billion، ایک ہزار million کے برابر ہے۔
+
+Method۔ پہلا step، units check کریں۔ یہاں GDP ساڑھے چار billion dollars ہے اور population تین million ہے۔ GDP کو چار ہزار پانچ سو million لکھیں۔ دوسرا step، GDP کو population سے divide کریں اور لکھ لیں۔ چار ہزار پانچ سو تقسیم تین، ایک ہزار پانچ سو۔ تیسرا step، currency لکھیں: ایک ہزار پانچ سو dollars per person۔
+
+Worked Example۔ یہ جون دو ہزار انیس کا اصل question ہے۔ اس میں دو ہزار سولہ میں Vietnam کی population اور GDP دی گئی ہیں۔ GDP per capita دو decimal places تک Calculate کریں۔ دو marks۔ Population بانوے اعشاریہ سات million ہے۔ GDP دو لاکھ دو ہزار چھ سو million dollars ہے۔ دونوں millions میں ہیں، اس لیے millions cancel ہو جاتے ہیں۔ دو لاکھ دو ہزار چھ سو تقسیم بانوے اعشاریہ سات، دو ہزار ایک سو پچاسی اعشاریہ پانچ چار چار ہے۔ دو decimal places تک، دو ہزار ایک سو پچاسی dollars اور چون cents۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔ تو اوسطاً دو ہزار سولہ میں Vietnam کے ہر شخص نے تقریباً دو ہزار ایک سو پچاسی dollars کی output پیدا کی۔
+
+Common Mistake۔ عام غلطی الٹا divide کرنا ہے۔ Population تقسیم GDP سے بہت چھوٹا، بے معنی number آتا ہے۔ ایک اور غلطی billions اور millions کو ملا دینا ہے۔ پانچ billion تقسیم دو million، دو ہزار پانچ سو dollars ہے، دو dollars پچاس cents نہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک country کی GDP چھتیس billion dollars ہے اور population ساڑھے سات million ہے۔ اس کی GDP per capita Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ پہلے units match کریں۔ چھتیس billion، چھتیس ہزار million ہے۔ چھتیس ہزار تقسیم ساڑھے سات، چار ہزار آٹھ سو۔ GDP per capita چار ہزار آٹھ سو dollars ہے۔ یاد رکھیں، units match کریں، GDP کو population سے divide کریں، پھر round کریں اور currency لکھیں۔ اب practice questions کریں۔

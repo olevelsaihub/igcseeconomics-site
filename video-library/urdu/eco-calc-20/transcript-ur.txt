@@ -1,0 +1,11 @@
+Idea۔ جب کسی بالغ کو تنخواہ ملتی ہے تو income tax سیدھا اس کی pay سے کٹ جاتا ہے۔ جب آپ snack خریدتے ہیں تو VAT پہلے ہی price کے اندر ہوتا ہے۔ دونوں taxes ہیں، لیکن ان کا طریقہ الگ ہے۔ Direct tax، income یا profits پر دیا جاتا ہے: income tax اور business tax۔ Indirect tax، spending پر دیا جاتا ہے: VAT، excise duties، customs duties اور tariffs۔ Taxes، government کی revenue کا بنیادی ذریعہ ہیں۔ Question صرف ایک group کو add کرنے کا کہہ سکتا ہے۔
+
+Method۔ پہلا step، ہر tax کو direct یا indirect لکھیں۔ یہاں income tax اور corporation tax direct ہیں۔ VAT اور excise duties indirect ہیں۔ دوسرا step، صرف وہی group add کریں جو پوچھا گیا ہے، اور sum لکھیں۔ Indirect taxes کے لیے: اٹھارہ اعشاریہ پانچ plus چار اعشاریہ پانچ، تیئس۔ تیسرا step، units دیں: تیئس billion pounds۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کا اصل question ہے۔ ایک table میں پانچ taxes billions of pounds میں دیے گئے ہیں۔ Indirect taxes سے حاصل ہونے والی total revenue Calculate کریں۔ دو marks۔ ہر ایک کو label کریں۔ Income tax اور business taxes direct ہیں، اس لیے انہیں چھوڑ دیں۔ Sales tax، excise duties اور customs duties indirect ہیں۔ انہیں add کریں۔ چودہ اعشاریہ تین plus تین اعشاریہ سات plus صفر اعشاریہ چار، اٹھارہ اعشاریہ چار billion pounds ہے۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔ اس کا زیادہ تر حصہ sales tax سے آتا ہے۔ تینوں bars مل کر اٹھارہ اعشاریہ چار billion بنتے ہیں۔
+
+Common Mistake۔ عام غلطی groups کو ملا دینا ہے، جیسے income tax کو VAT کے ساتھ add کرنا۔ ایک اور غلطی units چھوڑ دینا ہے۔ billions of pounds لکھیں۔
+
+Your Turn۔ اب آپ کریں۔ Income tax بیالیس billion pounds، VAT پچیس اعشاریہ پانچ، corporation tax گیارہ اعشاریہ دو، fuel duty چھ اعشاریہ آٹھ اور tariffs ایک اعشاریہ پانچ کماتے ہیں۔ Direct taxes کی total revenue Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ Income tax اور corporation tax، income اور profit پر ہیں، اس لیے direct ہیں۔ VAT، fuel duty اور tariffs، spending پر ہیں، اس لیے انہیں چھوڑ دیں۔ بیالیس plus گیارہ اعشاریہ دو، تریپن اعشاریہ دو۔ Direct tax کی total revenue تریپن اعشاریہ دو billion pounds ہے۔ یاد رکھیں، ہر tax کو label کریں، صرف وہی group add کریں جو پوچھا گیا ہے، اور units رکھیں۔ اب practice questions کریں۔

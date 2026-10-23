@@ -1,0 +1,11 @@
+Idea۔ تیس کی class میں چھ students پیدل school جاتے ہیں۔ تیس میں سے چھ، ایک پانچواں حصہ ہے، یعنی بیس per cent۔ یہ percentage share ہے۔ Unemployment کے لیے whole، labour force ہے: وہ سب جو کام پر ہیں، اور وہ سب جو کام تلاش کر رہے ہیں۔ retired لوگ اور چھوٹے بچے اس میں شامل نہیں۔ تو unemployment rate ہے، unemployed کی تعداد، تقسیم labour force، ضرب ایک سو۔
+
+Method۔ پہلا step، part اور whole پہچانیں۔ یہاں labour force پچاس ہزار ہے، اور سینتالیس ہزار employed ہیں۔ unemployed دیے نہیں گئے۔ دوسرا step، subtract کریں، تین ہزار unemployed۔ تیسرا step، labour force سے divide کریں اور ایک سو سے multiply کریں، چھ per cent۔ چوتھا step، جیسا کہا جائے round کریں اور per cent کا sign لگائیں۔
+
+Worked Example۔ یہ جون دو ہزار تئیس کا اصل question ہے۔ Netherlands کی labour force نو million دو لاکھ دس ہزار تھی، اور دو لاکھ اکیاون ہزار unemployed تھے۔ Unemployment کا rate دو decimal places تک Calculate کریں۔ دو marks۔ Part، unemployed ہیں: دو لاکھ اکیاون ہزار۔ Whole، labour force ہے: نو million دو لاکھ دس ہزار۔ دو لاکھ اکیاون ہزار تقسیم نو million دو لاکھ دس ہزار، ضرب ایک سو، دو اعشاریہ سات دو پانچ ہے۔ دو decimal places تک، دو اعشاریہ سات تین per cent۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔ یعنی labour force کے ہر ایک سو لوگوں میں سے تین سے کم unemployed تھے۔
+
+Common Mistake۔ عام غلطی پوری population سے divide کرنا ہے۔ rate میں صرف labour force استعمال ہوتی ہے۔ ایک اور غلطی ایک سو سے multiply کرنا بھول جانا، یا per cent کا sign نہ لکھنا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Country R کی labour force چار million آٹھ لاکھ ہے۔ چار million پانچ لاکھ ساٹھ ہزار employed ہیں۔ دو decimal places تک unemployment rate Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ Unemployed ہیں چار million آٹھ لاکھ minus چار million پانچ لاکھ ساٹھ ہزار، یعنی دو لاکھ چالیس ہزار۔ labour force سے divide کریں اور ایک سو سے multiply کریں، پانچ۔ Rate پانچ اعشاریہ صفر صفر per cent ہے۔ Labour force کے ہر ایک سو لوگوں میں سے پانچ unemployed ہیں۔ یاد رکھیں، part اور whole پہچانیں، divide کریں، ایک سو سے multiply کریں، پھر round کریں اور per cent کا sign لگائیں۔ اب practice questions کریں۔

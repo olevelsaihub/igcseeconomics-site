@@ -1,0 +1,11 @@
+Idea۔ ایک school club سو cookies بیک کرتا ہے۔ سب کچھ ملا کر پچاس dollars خرچ ہوتے ہیں۔ ہر cookie بنانے پر کتنا خرچ آیا؟ Average cost، ایک unit بنانے کی cost ہے۔ Total cost کو بنائی گئی quantity سے divide کریں۔ پچاس dollars تقسیم سو، پچاس cents۔ Total cost، fixed cost plus variable cost ہے۔ فرض کریں fixed costs بیس dollars ہیں اور ہر cookie پر تیس cents لگتے ہیں۔ دو سو بیک کریں تو total cost اسّی dollars ہے، اس لیے average cost گھٹ کر چالیس cents رہ جاتی ہے۔ زیادہ بنانے سے fixed cost زیادہ cookies پر بٹ جاتی ہے، اس لیے یہاں average cost گھٹتی ہے۔
+
+Method کے تین steps ہیں۔ Fixed اور variable cost جمع کر کے total cost نکالیں۔ Units کی تعداد سے divide کریں۔ جواب پیسوں میں، دو decimal places تک دیں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس کا real question ہے۔ ایک firm ماہانہ تین ہزار units بناتی ہے۔ Total fixed costs چھ ہزار دو سو dollars ہیں، اور total variable costs تین ہزار پانچ سو پچاس dollars۔ Average cost per unit Calculate کریں۔ دو marks۔ Table پڑھیں۔ تین ہزار units، چھ ہزار دو سو dollars fixed، تین ہزار پانچ سو پچاس dollars variable۔ انہیں جمع کریں۔ چھ ہزار دو سو plus تین ہزار پانچ سو پچاس، نو ہزار سات سو پچاس dollars۔ تین ہزار سے divide کریں۔ نو ہزار سات سو پچاس تقسیم تین ہزار، تین dollars پچیس cents فی unit۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی: صرف fixed cost کو، یا صرف variable cost کو، output سے divide کرنا۔ ایک اور غلطی، total cost پر رک جانا۔ سوال ایک unit کی cost مانگتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک phone-case maker ماہانہ چار ہزار cases بناتا ہے۔ Total fixed costs پانچ ہزار dollars ہیں، اور total variable costs سات ہزار چھ سو dollars۔ Average cost per case Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ Costs جمع کریں۔ پانچ ہزار plus سات ہزار چھ سو، بارہ ہزار چھ سو dollars۔ چار ہزار سے divide کریں۔ بارہ ہزار چھ سو تقسیم چار ہزار، تین dollars پندرہ cents فی case۔ یاد رکھیں، fixed اور variable cost جمع کریں، output سے divide کریں، اور جواب فی unit پیسوں میں دیں۔ اب practice questions کریں۔

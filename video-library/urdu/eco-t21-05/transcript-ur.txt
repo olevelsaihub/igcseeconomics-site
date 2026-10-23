@@ -1,0 +1,11 @@
+Idea۔ اچھے سالوں میں دکانیں بھری ہوتی ہیں اور بُرے سالوں میں خاموش۔ ملک کی output ایک لہر کی طرح بار بار اوپر نیچے ہوتی ہے۔ Diagram میں real G D P اوپر کی طرف ہے اور وقت نیچے۔ لہرائی ہوئی line اصل G D P ہے۔ سیدھی dashed line trend ہے، یعنی long-run اوسط growth کا راستہ۔ Boom لہر کی چوٹی پر ہوتا ہے، peak، جہاں output سب سے زیادہ ہے۔ Downturn چوٹی کے فوراً بعد آتا ہے۔ Growth سست ہو جاتی ہے: G D P اب بھی بڑھ رہی ہے، مگر آہستہ۔ Diagram میں یہ وہ حصہ ہے جہاں line چوٹی کے بعد نیچے مڑتی ہے۔ Recession لہر کی تہہ پر ہوتا ہے، trough۔ Output لگاتار دو quarters گر چکی ہے اور سب سے کم ہے۔ Slump یا depression بھی accepted ہیں۔ Recovery، trough کے بعد اوپر چڑھنے والا حصہ ہے، جہاں output دوبارہ بڑھتی ہے۔
+
+Method۔ پہلا step، پہلے سے دیا ہوا label ڈھونڈیں۔ دوسرا step، بائیں سے دائیں ترتیب پر چلیں: boom، downturn، recession، recovery۔ تیسرا step، boom کو peak پر اور recession کو trough پر لگائیں۔ چوتھا step، درمیان کے حصے بھریں: نیچے جاتے ہوئے downturn، اوپر جاتے ہوئے recovery۔ پانچواں step، چیک کریں کہ کوئی label دہرایا یا چھوٹا نہیں۔
+
+Worked Example۔ یہ جنوری دو ہزار تئیس کا real question ہے۔ Diagram میں real G D P بمقابلہ وقت ہے، اور Boom پہلے ہی peak پر label ہے۔ باقی تین stages کو label کریں۔ تین marks۔ Peak سے دائیں طرف جائیں۔ Line گرنا شروع کرتی ہے، اس لیے وہ box downturn ہے۔ لہر کا سب سے نچلا point trough ہے۔ اسے recession label کریں۔ Trough کے بعد line پھر چڑھتی ہے۔ اسے recovery label کریں۔ ترتیب چیک کریں: boom، downturn، recession، recovery۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی downturn اور recovery کو الٹ دینا ہے۔ Downturn نیچے جاتے ہوئے ہے۔ Recovery اوپر جاتے ہوئے ہے۔ دوسری غلطی trough کو downturn کہنا، یا دیا ہوا label دوبارہ لکھنا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک diagram میں trough پر recession label ہے۔ اس کے بعد اوپر چڑھتے حصے پر، اگلے peak پر، اور اس peak کے بعد گرتے حصے پر تین خالی boxes ہیں۔ انہیں label کریں۔ رک کر فیصلہ کریں۔
+
+Answer۔ Recession کے بعد recovery آتی ہے، اوپر چڑھتے حصے پر۔ اگلا peak boom ہے۔ اس کے بعد گرتا حصہ downturn ہے۔ یاد رکھیں: دیے ہوئے label سے شروع کریں، ترتیب پر چلیں، اور boom کو peaks پر اور recession کو troughs پر رکھیں۔ اب practice questions کریں۔

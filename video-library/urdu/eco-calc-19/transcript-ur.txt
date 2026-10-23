@@ -1,0 +1,11 @@
+Idea۔ فرض کریں آپ ایک سو pounds save کرتے ہیں، اور bank سال کا دو per cent interest دیتا ہے۔ آپ کتنا کماتے ہیں؟ آپ کو ایک سو pounds کا دو per cent چاہیے۔ Rule یہ ہے: rate کو ایک سو سے divide کریں، پھر amount سے multiply کریں۔ دو تقسیم ایک سو، ضرب ایک سو pounds، دو pounds۔ آپ اسے تین طرح استعمال کرتے ہیں۔ Interest، savings کا percentage ہے، جو add ہوتا ہے۔ Income tax، income کے taxed حصے کا percentage ہے، جو کٹتا ہے۔ Tariff، یعنی imports پر tax، import price کا percentage ہے، جو add ہوتا ہے۔
+
+Method۔ پہلا step، وہ base تلاش کریں جس پر rate لگتا ہے: savings، income کا صرف taxed حصہ، یا import price۔ دوسرا step، amount نکالیں: rate تقسیم ایک سو، ضرب base۔ مثلاً دو سو dollars کی import پر دس per cent tariff، بیس dollars ہے۔ تیسرا step، اگر final figure چاہیے تو add یا subtract کریں۔ چوتھا step، working لکھیں، اور answer currency کے ساتھ دیں۔
+
+Worked Example۔ یہ نومبر دو ہزار بیس کا اصل question ہے۔ George، Cyprus میں manager کے طور پر اکیس ہزار euros کماتا ہے، لیکن tax صرف ایک ہزار پانچ سو euros پر دیتا ہے۔ اس کی net pay Calculate کریں۔ دو marks۔ Base تلاش کریں۔ پہلے انیس ہزار پانچ سو euros پر tax صفر ہے۔ صرف آخری ایک ہزار پانچ سو پر، بیس per cent tax لگتا ہے۔ Tax ہے بیس تقسیم ایک سو، ضرب ایک ہزار پانچ سو euros، یعنی تین سو euros۔ Net pay ہے اکیس ہزار minus تین سو: بیس ہزار سات سو euros۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ عام غلطی پوری salary پر tax لگانا ہے۔ اس سے چار ہزار دو سو euros tax آتا ہے، جو غلط ہے۔ صرف taxed band گنا جاتا ہے۔ ایک اور غلطی tax پر رک جانا ہے، جب کہ question net pay مانگتا ہے۔ تین سو euros tax ہے، answer نہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ Amira دو سو چالیس dollars کی bicycle import کرتی ہے، اور import price پر پندرہ per cent tariff لگتا ہے۔ Tariff سمیت price Calculate کریں۔ پھر Ben آٹھ سو dollars سالانہ تین per cent پر save کرتا ہے۔ ایک سال کا اس کا interest Calculate کریں۔ یہاں رک کر خود نکالیں۔
+
+Answer۔ Part a۔ Tariff ہے پندرہ تقسیم ایک سو، ضرب دو سو چالیس dollars: چھتیس dollars۔ اسے add کریں: دو سو چھہتر dollars۔ Part b۔ تین تقسیم ایک سو، ضرب آٹھ سو dollars، چوبیس dollars ہے۔ Bicycle کی price دیکھیں، tariff add ہونے پر دو سو چالیس dollars سے بڑھ کر دو سو چھہتر dollars ہو گئی۔ یاد رکھیں، base تلاش کریں، rate تقسیم ایک سو ضرب base نکالیں، پھر add یا subtract کریں، اور currency دکھائیں۔ اب practice questions کریں۔

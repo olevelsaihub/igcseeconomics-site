@@ -1,0 +1,11 @@
+Idea۔ ایک pizza shop کا سوچیں۔ اس کا rent وہی رہتا ہے چاہے دس pizzas بنیں یا ایک ہزار۔ مگر ہر اضافی pizza کے لیے مزید cheese چاہیے۔ Pattern یہ ہے۔ Rent دو ہزار dollars رہتا ہے۔ Cheese، ایک dollar پچاس cents فی pizza، output کے ساتھ بڑھتی ہے۔ Fixed costs میں rent، insurance، advertising اور machine خریدنا شامل ہیں۔ Variable costs میں raw materials، output کے حساب سے ملنے والی labour، اور پیداوار کے ہر گھنٹے میں استعمال ہونے والی electricity شامل ہیں۔
+
+Method۔ Step ایک۔ ہر cost لے کر پوچھیں، firm زیادہ بنائے تو کیا یہ بدلے گی؟ ہاں تو variable۔ نہیں تو fixed۔ Steps دو اور تین۔ صرف وہی group رکھیں جو پوچھا گیا ہے۔ فی گھنٹہ یا فی unit cost کو پہلے quantity سے multiply کریں۔ چار dollars فی گھنٹہ، تیس گھنٹوں کے، ایک سو بیس dollars۔ Step چار۔ چنی ہوئی items جمع کریں، sum لکھیں، اور total currency کے ساتھ دیں۔
+
+Worked Example۔ یہ جون دو ہزار بائیس کا real question ہے۔ ایک clothing firm کی ماہانہ costs ہیں rent، raw materials، insurance، اور output کے حساب سے دی جانے والی labour۔ Total variable costs Calculate کریں۔ دو marks۔ Rent اور insurance وہی رہتے ہیں چاہے جتنا بنے، یہ fixed ہیں۔ Raw materials output کے ساتھ بڑھتے ہیں۔ Labour output کے حساب سے ملتی ہے، اس لیے یہ بھی variable ہے۔ دونوں variable costs جمع کریں۔ بارہ ہزار plus ایک لاکھ پندرہ ہزار، ایک لاکھ ستائیس ہزار dollars۔ یہ وضاحت olevels dot com کی ہے، یہ official mark scheme نہیں ہے۔
+
+Common Mistake۔ ایک عام غلطی: labour کو fixed سمجھنا۔ جب pay کا انحصار output پر ہو تو labour variable cost ہے۔ ایک اور غلطی، table کی ہر item جمع کر دینا۔ صرف وہ group جمع کریں جو سوال مانگتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک furniture maker ماہانہ تین ہزار dollars rent، چار ہزار دو سو dollars لکڑی، اور چھ سو dollars advertising دیتا ہے۔ ایک machine چلانے کا خرچ پانچ dollars فی گھنٹہ ہے، ایک سو ساٹھ گھنٹوں کے لیے۔ Total fixed اور total variable costs Calculate کریں۔ یہاں رکیں اور خود حل کریں۔
+
+Answer۔ انہیں الگ کریں۔ Rent اور advertising fixed ہیں۔ لکڑی اور machine کا چلنا variable ہیں۔ Machine کا خرچ پانچ ضرب ایک سو ساٹھ، آٹھ سو dollars ہے۔ Total fixed costs تین ہزار چھ سو dollars ہیں۔ Total variable costs پانچ ہزار dollars ہیں۔ یہ دونوں totals ساتھ ساتھ ہیں۔ یاد رکھیں، پوچھیں کہ کیا ہر cost output کے ساتھ بدلتی ہے، rates کو multiply کریں، پھر صحیح group جمع کریں۔ اب practice questions کریں۔
